@@ -1,0 +1,9 @@
+# Summary
+The City of Fremont, Nebraska is seeking a qualified firm to develop, design, bid, and provide construction administration services for a plan for the North Downtown Streetscape Revitalization Project. The project aims to construct streetscape improvements including landscaping, sidewalks/trails, accessible curb ramps, decorative pavement, street lighting, bike racks, bollards, benches, parking/curb and gutter, columns, fencing, traffic calming features, signage, and three archways. The primary purpose is to enhance pedestrian connectivity, safety, aesthetics, and public amenities in the north downtown corridor.
+
+# Scope
+The selected Consultant shall develop a conceptual plan of the North Downtown Streetscape Improvements and detailed plans and specifications for construction. The project includes streetscape improvements in specific areas: N Broad Street East (9th to 8th Street), N Main Street West (9th to 8th Street), E 8th Street North and South (Broad Street to Main Street), East 8th Street South (Main Street to D Street), and N Main Street East and West (Main to Military). Improvements encompass landscaping, sidewalks/trails, accessible curb ramps, bump outs, decorative pavement, street lighting, bike racks, bollards, benches, parking/curb and gutter, columns, fencing, traffic calming features, signage, and three archways (Park Ave and 8th Street, Military Ave and Main Street, and 6th Street and Broad Street). If awarded Grant Funding, the contract will be amended to include Bidding and Construction Administration Services.
+
+RFP ID: `91b6f968-3a74-4268-9808-d0155841b8f4`
+
+Domain ID: `2ad8560e-29b9-47ac-922d-6075feda923a`

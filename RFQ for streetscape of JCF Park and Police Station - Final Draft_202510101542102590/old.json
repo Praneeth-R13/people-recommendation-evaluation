@@ -1,0 +1,144 @@
+[
+    {
+      "excluded": false,
+      "people_id": "eff2c296-96c4-40eb-bd6d-91c6ffe4945f",
+      "properties": {
+        "employee_type": {
+          "value": "internal",
+          "verified": false,
+          "edited_by": "system"
+        },
+        "profile_picture": {
+          "verify": false,
+          "face_id": "5afe1500-d1cf-4a7f-93ba-0ace2021d445",
+          "location": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/a2886eca-3700-4116-9671-55dc134886e3/1-33_33/256253c5-4921-491c-be81-0b21d0a4fd2f.png"
+        }
+      },
+      "people_name": "Sara Jensen",
+      "proposal_name": "Grass, Keely_Full Resume_2025.pdf",
+      "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/a57c3aa9-36d8-47b2-83dd-5ae59cfb18c5/1-50_56/de789d35-02d0-4799-a398-8c7754aefab8.png",
+      "relevance_score": 10,
+      "matched_evidence": [
+        "RTG Medical Staffing Solutions, Headquarters, Fremont, NE",
+        "City of Lincoln, Downtown Streetscape Master Plan",
+        "B.L.A., Landscape Architecture & Environmental Studies"
+      ],
+      "similarity_reasoning": "Sara Jensen's experience in streetscape design, particularly in Nebraska, makes her a strong candidate for the North Downtown Streetscape Revitalization Project. Her work on the RTG Medical Staffing Solutions Headquarters in Fremont, NE, and the City of Lincoln's Downtown Streetscape Master Plan highlights her relevant geographic and project experience. Her skills in landscape architecture and environmental studies further support her suitability for urban development projects."
+    },
+    {
+      "excluded": false,
+      "people_id": "1fd283ee-141e-483b-ab29-f4b3d3073e5c",
+      "properties": {
+        "email_ids": {
+          "value": [
+            "kboone@olsson.com"
+          ],
+          "verified": false,
+          "edited_by": "system"
+        },
+        "employee_type": {
+          "value": "internal",
+          "verified": false,
+          "edited_by": "system"
+        },
+        "profile_picture": {
+          "verify": false,
+          "face_id": "25990183-b198-48f5-83e0-7305301d2473",
+          "location": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/2d2f9061-4738-4040-b60b-f82f4ddb0e41/1-46_46/e03c9079-9f80-4d8b-a763-d84a92b8f265.png"
+        }
+      },
+      "people_name": "Ken Boone",
+      "proposal_name": "Z21-00371 Lincoln NE Greater Downtown Principal Corridors Design and Phase I Construction RFP 21-160.pdf",
+      "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/ea054a3e-4807-4b31-9a2c-5b5088de5615/21-40_75/79a57297-f1bc-4b5d-9eb2-061df36dd2f4.png",
+      "relevance_score": 10,
+      "matched_evidence": [
+        "Burlington Streetscape, North Kansas City, MO",
+        "Vivion Road Streetscape, Kansas City, MO",
+        "Public Engagement Facilitator"
+      ],
+      "similarity_reasoning": "Ken Boone's extensive experience in community planning and streetscape projects across the Midwest, including Nebraska, makes him highly relevant for the North Downtown Streetscape Revitalization Project. His work on the Burlington Streetscape in North Kansas City and the Vivion Road Streetscape in Kansas City, MO, showcases his expertise in urban development and public infrastructure. His role as a Public Engagement Facilitator also highlights his ability to manage stakeholder engagement effectively."
+    },
+    {
+      "excluded": false,
+      "people_id": "caecf08a-bec7-4967-9e94-ead0e25825fe",
+      "properties": {
+        "employee_type": {
+          "value": "internal",
+          "verified": false,
+          "edited_by": "system"
+        },
+        "profile_picture": {
+          "verify": false,
+          "face_id": "b8c6e5a1-d55e-4f73-aecb-a3233e3b16ca",
+          "location": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/1e3ba95b-f7e4-406d-b2c6-c478398059b1/51-100_104/935e0c89-76a4-4bf6-aa53-92a20bd369a1.png"
+        }
+      },
+      "people_name": "Austin Vachal",
+      "proposal_name": "Vachal, Austin_Full Resume_07-2025.pdf",
+      "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/3c4b7e22-9e76-4f17-86ee-66d7a685012e/1-4_4/a4cdd6aa-6647-4f49-8ed2-617dc0ddcbee.png",
+      "relevance_score": 10,
+      "matched_evidence": [
+        "City of Lincoln, Downtown Principal Corridors",
+        "University Village Parks and Streetscape Plan, Kearney, NE",
+        "Lead Designer"
+      ],
+      "similarity_reasoning": "Austin Vachal's experience in urban planning and streetscape design, particularly in Nebraska, aligns well with the North Downtown Streetscape Revitalization Project. His work on the City of Lincoln's Downtown Principal Corridors and the University Village Parks and Streetscape Plan in Kearney, NE, demonstrates his capability in handling urban development projects. His role as a Lead Designer in multiple projects further supports his relevance to the project."
+    },
+    {
+      "excluded": false,
+      "people_id": "ac24c69d-25af-402b-91f6-a86e6fb3ec9f",
+      "properties": {
+        "employee_type": {
+          "value": "internal",
+          "verified": false,
+          "edited_by": "system"
+        },
+        "profile_picture": {
+          "verify": false,
+          "face_id": "8c5b0414-3784-44f1-a146-98808a70195e",
+          "location": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/2d2f9061-4738-4040-b60b-f82f4ddb0e41/1-46_46/c082c475-21ea-4d4d-8672-4aa225613387.png"
+        }
+      },
+      "people_name": "Kelly Thompson",
+      "proposal_name": "Thompson, Kelly_Full Resume_07-2022.pdf",
+      "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/cc8fa00b-1e86-490a-8d53-c96d5c08c74c/1-46_46/265d3658-db00-49a9-8e75-9ee2a4ac15f3.png",
+      "relevance_score": 9,
+      "matched_evidence": [
+        "City of Branson, Spirit of 76 Revitalization Landscape Design",
+        "City of Kansas City, 12th Street Streetscape",
+        "Professional Landscape Architect (PLA)"
+      ],
+      "similarity_reasoning": "Kelly Thompson has extensive experience in streetscape and downtown revitalization projects, which aligns well with the North Downtown Streetscape Revitalization Project. His work on projects such as the City of Branson's Spirit of 76 Revitalization Landscape Design and the City of Kansas City's 12th Street Streetscape demonstrates his capability in urban development and public infrastructure. Although his geographic experience is primarily in Missouri and Kansas, his skills in landscape architecture and urban design are highly relevant to the project in Fremont, Nebraska."
+    },
+    {
+      "excluded": false,
+      "people_id": "025b7b31-4060-4aaa-a3a8-25526321dad4",
+      "properties": {
+        "email_ids": {
+          "value": [
+            "cperatt@olsson.com"
+          ],
+          "verified": true
+        },
+        "employee_type": {
+          "value": "internal",
+          "verified": true
+        },
+        "profile_picture": {
+          "verify": true,
+          "face_id": "3507c2d4-6732-4b72-9d1c-6223a01480d4",
+          "location": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/9abc1351-0ac7-499f-836e-d5bf38536cf4/1-6_6/6fca55a0-c576-49f8-bbfc-46603cc78c90.png"
+        }
+      },
+      "people_name": "Cody Peratt",
+      "proposal_name": "Z25-03085 El Mirage Downtown Neighborhood Revitalization.pdf",
+      "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/16f90bc1-fde2-4282-9091-f0fa4db7c4f8/13-13_1133/6c260901-c669-4b06-91cc-48eae2f4c4ec.png",
+      "relevance_score": 9,
+      "matched_evidence": [
+        "City of Hutchinson, Downtown Plan",
+        "City of Bellevue, Comprehensive Plan Update",
+        "Professional Landscape Architect (PLA)"
+      ],
+      "similarity_reasoning": "Cody Peratt has a strong background in streetscape design and urban planning, which is directly applicable to the North Downtown Streetscape Revitalization Project. His experience with the City of Hutchinson's Downtown Plan and the City of Bellevue's Comprehensive Plan Update in Nebraska demonstrates his capability in handling urban development projects. His certifications as a Professional Landscape Architect in multiple states, including Nebraska, further enhance his relevance to the project."
+    }
+  ]

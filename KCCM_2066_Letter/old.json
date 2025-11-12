@@ -1,0 +1,147 @@
+[
+    {
+      "excluded": false,
+      "people_id": "ffea6d05-620c-4d91-b1e6-fa9486a4b00e",
+      "properties": {
+        "employee_type": {
+          "value": "internal",
+          "verified": false,
+          "edited_by": "system"
+        },
+        "profile_picture": {
+          "verify": false,
+          "face_id": "c29b5fa3-23b6-43ef-8bb1-7d166da8e0b1",
+          "location": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/a3201948-c87f-4c11-a711-9efb4bb62e50/1-32_32/6327ed2b-cd4c-453d-8a30-67a132ccbc90.png"
+        }
+      },
+      "people_name": "Jim Burgess",
+      "proposal_name": "Burgess, Jim_Full Resume_06-2025.pdf",
+      "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/c2b2ea96-52c4-4cd5-83db-fb40713c10f1/1-30_30/e6abc66e-4a9c-4f01-bc3a-83a23529a459.png",
+      "relevance_score": 10,
+      "matched_evidence": [
+        "32 years of bridge experience with MoDOT",
+        "MoDOT I-435 Missouri River Bridge Over Norfolk Southern & BNSF in Clay County, MO",
+        "MoDOT US 24 over UP in Jackson County, MO",
+        "Registered Engineer in MO",
+        "MoDOT & KDOT LPA Project Manager certification"
+      ],
+      "similarity_reasoning": "Jim Burgess has extensive experience with the Missouri Department of Transportation (MoDOT), which is directly relevant to the target project. His 32 years of bridge experience, particularly with MoDOT, and his role in construction management and transportation make him highly suitable for the consulting engineering services project. His certifications related to bridge safety inspection and construction management further support his relevance. Additionally, his project experience in Clay and Jackson Counties, Missouri, aligns geographically with the target project location."
+    },
+    {
+      "excluded": false,
+      "people_id": "21698ae2-782a-46e9-bf9d-1e4d77e8e7e3",
+      "properties": {
+        "email_ids": {
+          "value": [
+            "nschulz@rdgusa.com"
+          ],
+          "verified": false,
+          "edited_by": "system"
+        },
+        "employee_type": {
+          "value": "internal",
+          "verified": false,
+          "edited_by": "system"
+        },
+        "profile_picture": {
+          "verify": false,
+          "face_id": "321b11e0-8911-41dd-b7ad-a9e69eec4281",
+          "location": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/f0ffd1fd-326b-477e-80c4-0ceccb4b5e12/1-20_20/fe0d9225-710e-4630-81cb-56c1f7bf65b1.png"
+        }
+      },
+      "people_name": "Nick Calton",
+      "proposal_name": "City of North Little Rock Request for Qualifications, RFQ #24-3877 by Olsson.pdf",
+      "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/e1a88e05-3ad1-4232-b5d8-d11b56aa1b44/51-94_94/b8322983-80cf-4f29-945c-8a9ed67875e8.png",
+      "relevance_score": 10,
+      "matched_evidence": [
+        "MoDOT Soil Density Technician certification",
+        "MoDOT Concrete Field Technician certification",
+        "Missouri American Water, Well & Standpipe Improvements in Branson, MO",
+        "MoDOT Bituminous certification",
+        "Experience with construction materials testing and special inspection services"
+      ],
+      "similarity_reasoning": "Nick Calton's experience in construction materials testing and special inspection services is highly relevant to the target project. His certifications with MoDOT, including Soil Density Technician and Concrete Field Technician, are directly applicable. His project experience in Missouri, including work with Missouri American Water and MoDOT projects, aligns with the geographic and client requirements of the target project. His skills in overseeing construction work related to foundations and roadway subgrades are crucial for the construction and materials testing aspects of the project."
+    },
+    {
+      "excluded": false,
+      "people_id": "d189f23a-5f8d-4a27-83e6-76bb5c67c7fa",
+      "properties": {
+        "employee_type": {
+          "value": "internal",
+          "verified": false,
+          "edited_by": "system"
+        }
+      },
+      "people_name": "Kaitlin Kuszmaul",
+      "proposal_name": "Kuszmaul, Kaitlin_Full Resume.pdf",
+      "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/154fde83-cca8-49bd-a262-15175f6afdf4/1-5_5/a9d0f7a1-50d5-4078-a0cc-1a37f4399d47.png",
+      "relevance_score": 10,
+      "matched_evidence": [
+        "MoDOT Soil Density certification",
+        "MoDOT Aggregate certification",
+        "Project experience in Kansas City, MO",
+        "Experience in materials testing and inspection",
+        "Skills in testing for soils, reinforced concrete, and structural masonry"
+      ],
+      "similarity_reasoning": "Kaitlin Kuszmaul's experience in materials testing and inspection, particularly in construction work and oversight, is relevant to the target project. Her work on projects in Kansas City, MO, and her certifications with MoDOT, such as Soil Density and Aggregate, align with the project's geographic and technical requirements. Her skills in testing for various construction materials, including soils and reinforced concrete, are essential for the construction and materials testing services required by the project."
+    },
+    {
+      "excluded": false,
+      "people_id": "7eba0a6d-58e3-4299-90c6-cf03da044abe",
+      "properties": {
+        "email_ids": {
+          "value": [],
+          "verified": false
+        },
+        "employee_type": {
+          "value": "internal",
+          "verified": true
+        },
+        "profile_picture": {
+          "verify": true,
+          "face_id": "3c847b88-5c2d-4e63-bf0c-3120797c72c6",
+          "location": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/8f31acd9-ba24-4d51-a6c1-e296e58c92c3/1-50_50/1a61157a-18a9-4b77-82c4-7e48b87e7143.png"
+        }
+      },
+      "people_name": "Dylan Sileo",
+      "proposal_name": "Z23-02598 Jackson County MO On-Call Geotechnical.pdf",
+      "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/b4eef9f1-4464-41b6-95cf-588efe569ae5/11-20_29/2253eed0-e22f-4c28-9be7-c4d837b1651e.png",
+      "relevance_score": 10,
+      "matched_evidence": [
+        "Laboratory manager for AASHTO and USACE certified soils and construction materials laboratory",
+        "MoDOT Aggregate Technician certification",
+        "ACI Concrete Field Testing Technician certification",
+        "Project experience in Jackson County, MO",
+        "Experience in managing lab operations and quality assurance"
+      ],
+      "similarity_reasoning": "Dylan Sileo's role as a laboratory manager for a certified soils and construction materials laboratory is highly relevant to the target project. His experience in managing lab operations and overseeing quality assurance aligns with the project's focus on construction and materials testing. His certifications, including MoDOT Aggregate Technician and ACI Concrete Field Testing Technician, are directly applicable. His project experience in Jackson County, MO, further supports his geographic relevance to the project."
+    },
+    {
+      "excluded": false,
+      "people_id": "42d9dce7-7dc9-4422-8c29-f456f604f7f9",
+      "properties": {
+        "employee_type": {
+          "value": "internal",
+          "verified": false,
+          "edited_by": "system"
+        },
+        "profile_picture": {
+          "verify": false,
+          "face_id": "5a4de6fe-39b0-47fe-8b29-ede76b114701",
+          "location": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/bf623f27-6f7a-4f26-908d-ec97938b02ae/1-19_19/c023a7ea-f112-4518-8813-2f1520cef608.png"
+        }
+      },
+      "people_name": "Brian Manke",
+      "proposal_name": "Manke, Brian_Full Resume_4-13-2023.pdf",
+      "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/99427e4a-3db5-4204-8f4e-78c621e51bd6/1-6_6/386d470e-225a-4c2a-ba88-110a0a41f7bc.png",
+      "relevance_score": 10,
+      "matched_evidence": [
+        "Experience with Missouri Department of Transportation (MoDOT)",
+        "Project experience in Jackson County, MO",
+        "Qualified Compliance Inspector of Stormwater certification",
+        "Experience in construction inspection on projects of varying scope",
+        "Knowledge of MoDOT processes"
+      ],
+      "similarity_reasoning": "Brian Manke's extensive experience with the Missouri Department of Transportation (MoDOT) and his role in construction inspection make him highly relevant to the target project. His knowledge of MoDOT processes and his experience in construction inspection on projects of varying scope align with the project's requirements. His certifications related to stormwater management and compliance further enhance his suitability for the project. His project experience in Missouri, particularly in Jackson County, supports his geographic relevance."
+    }
+  ]

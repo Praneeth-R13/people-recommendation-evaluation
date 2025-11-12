@@ -1,0 +1,9 @@
+# Summary
+The Missouri Highways and Transportation Commission (MoDOT) is seeking consulting engineering firms to provide construction and material inspection services for the 2026 construction season. This solicitation is for a method of agreement based on 6000 personnel hours. Firms will be evaluated based on qualifications, with the top four selected to negotiate agreements. Each selected consultant will be assigned a minimum of one project within the KC District urban area (Platte, Clay, Jackson, and Cass Counties), with additional assignments based on needs and available hours.
+
+# Scope
+The project scope involves providing comprehensive construction and material inspection services in accordance with MoDOT guidelines. This includes supervising all consultant personnel, providing a minimum of three MoDOT qualified inspectors (two for roadway inspection and one for materials inspection), ensuring inspectors hold required certifications (Aggregate, Bituminous, Superpave QC/QA, Concrete strength, Concrete field, and OSHA-10), and performing on-site Quality Assurance material testing. Inspectors must also be Advanced Work Zone Certified, available for various shifts (daytime, nighttime, weekdays, weekends, holidays), and supply their own necessary equipment (testing equipment, vehicles, PPE). Key responsibilities include maintaining daily activity records, attending preconstruction and internal meetings, conducting wage rate interviews, traffic control inspections, assisting with final plans, performing survey activities, assisting with pay estimates, conducting erosion control inspections, managing construction records using AASHTOWARE, and enforcing contract requirements and specifications.
+
+RFP ID: `f2fb91c8-fa01-4979-853b-622a097150f3`
+
+Domain ID: `2ad8560e-29b9-47ac-922d-6075feda923a`
