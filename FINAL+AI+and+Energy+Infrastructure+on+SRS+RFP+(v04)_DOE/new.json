@@ -1,0 +1,843 @@
+[
+    {
+        "people_name": "Nathan Chapman",
+        "position": ", ",
+        "people_id": "0210d800-8e38-4b34-b40b-67db004ce2bf",
+        "face_group_id": null,
+        "thumbnail_url": null,
+        "qualification": null,
+        "experience_years": null,
+        "expertise_areas": [],
+        "similar_project_experience": [
+            {
+                "project_name": "Confidential Client ~100MW Hyperscale Data Center Liquid Cooled Campus Product Design",
+                "project_type": "",
+                "project_description": "Lead Controls Engineer role for approximately 100MW data center liquid cooled campus product design.",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "",
+                "project_value": "",
+                "relevance_score": 1.0
+            },
+            {
+                "project_name": "Confidential Client ~400MW Hyperscale Data Center Liquid Cooled AI Building Design; LA",
+                "project_type": "",
+                "project_description": "Lead Controls Engineer for approximately 400MW hyperscale data center liquid cooled AI building design.",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "LA",
+                "project_value": "",
+                "relevance_score": 1.0
+            },
+            {
+                "project_name": "Confidential Client ~2.3GW Hyperscale Data Center Liquid Cooled Campus Product Design; LA",
+                "project_type": "",
+                "project_description": "Lead Controls Engineer for approximately 2.3GW hyperscale data center liquid cooled campus product design.",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "LA",
+                "project_value": "",
+                "relevance_score": 1.0
+            },
+            {
+                "project_name": "Confidential Client ~100MW Hyperscale Data Center Liquid Cooled Building Product Design; TX",
+                "project_type": "",
+                "project_description": "Lead Controls Engineer for approximately 100MW hyperscale data center liquid cooled building product design.",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "TX",
+                "project_value": "",
+                "relevance_score": 1.0
+            },
+            {
+                "project_name": "Confidential Client ~100MW Hyperscale Data Center Liquid Cooled Building Product Design; ID",
+                "project_type": "",
+                "project_description": "Lead Controls Engineer for approximately 100MW hyperscale data center liquid cooled building product design.",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "ID",
+                "project_value": "",
+                "relevance_score": 1.0
+            },
+            {
+                "project_name": "Confidential Client ~75MW Hyperscale Data Center Liquid Cooled Building Product Design; TN",
+                "project_type": "",
+                "project_description": "Lead Controls Engineer for approximately 75MW hyperscale data center liquid cooled building product design.",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "TN",
+                "project_value": "",
+                "relevance_score": 1.0
+            },
+            {
+                "project_name": "Confidential Client ~100MW Hyperscale Data Center Building Design; TX",
+                "project_type": "",
+                "project_description": "Lead Controls Engineer for approximately 100MW hyperscale data center building design.",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "TX",
+                "project_value": "",
+                "relevance_score": 1.0
+            },
+            {
+                "project_name": "Confidential Client ~75MW Hyperscale Data Center Building Design; SC",
+                "project_type": "",
+                "project_description": "Controls Engineer for approximately 75MW hyperscale data center building design.",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "SC",
+                "project_value": "",
+                "relevance_score": 1.0
+            },
+            {
+                "project_name": "Confidential Client 1st and 2nd Generation Manufactured Owner Provided Equipment Design for Heat Collection, Utility Plant, and Heat Rejection Equipment",
+                "project_type": "",
+                "project_description": "Lead Controls Engineer for 1st and 2nd generation manufactured owner provided equipment design for heat collection, utility plant, and heat rejection equipment.",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "",
+                "project_value": "",
+                "relevance_score": 1.0
+            },
+            {
+                "project_name": "Confidential Client Modular Utility Plant Manufacturer Skid Design ~25MW per Unit",
+                "project_type": "",
+                "project_description": "Lead Controls Engineer for modular utility plant manufacturer skid design approximately 25MW per unit.",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "",
+                "project_value": "",
+                "relevance_score": 1.0
+            }
+        ],
+        "relevance_score": 1.0,
+        "similarity_reasoning": "Nathan Chapman is a Group Leader in Facilities Engineering and Design with a strong focus on hyperscale data centers and energy systems. He has led controls engineering for multiple large-scale data center projects, including: 'Lead Controls Engineer for approximately 400MW hyperscale data center liquid cooled AI building design.' and 'Lead Controls Engineer for approximately 2.3GW hyperscale data center liquid cooled campus product design.' His expertise in electrical and computer engineering, wind energy, and professional engineering licensure in NE and WY make him exceptionally well-suited for the technical, scale, and integration requirements of the AI data center and energy generation infrastructure project.",
+        "justification": [
+            "Direct experience leading controls engineering for hyperscale data centers (up to 2.3GW)",
+            "Expertise in liquid cooled AI data center design",
+            "Professional Engineer in NE and WY",
+            "Strong background in energy systems and integration",
+            "Leadership in large-scale, complex infrastructure projects"
+        ],
+        "proposal_name": "Z25-02722 SNHA PowerHouse Charlotte Data Center.pdf",
+        "source_page": 19,
+        "properties": {
+            "employee_type": {
+                "value": "internal",
+                "verified": false,
+                "edited_by": "system"
+            },
+            "profile_picture": {
+                "verify": false,
+                "face_id": "c66e7ec2-9f79-4f58-bd27-fd4073ff46ad",
+                "location": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/7568df82-e375-4148-a448-e2c8e866dc75/1-16_16/603e5de6-d4a3-4f7b-ad20-5b810d10aed9.png"
+            }
+        },
+        "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/16dbf805-bc9d-4304-8768-a0852b4a0ac3/1-27_27/8c2c3443-449a-46fd-872e-588212edff57.png"
+    },
+    {
+        "people_name": "JASON HALSTED",
+        "position": "",
+        "people_id": "f29a7a4d-f306-4093-ab2a-1a7021697f37",
+        "face_group_id": null,
+        "thumbnail_url": null,
+        "qualification": null,
+        "experience_years": null,
+        "expertise_areas": [],
+        "similar_project_experience": [
+            {
+                "project_name": "Confidential Client",
+                "project_type": "",
+                "project_description": "> 2.4M SF new construction multi-building data center campus, Commissioning project management, > 400MW electrical power distribution and generation, Energization plans for all new electrical equipment, Cx scripts for all electrical functional testing, Functional testing of all electrical systems",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Council Bluffs, IA",
+                "project_value": "",
+                "relevance_score": 0.9674999999999999
+            },
+            {
+                "project_name": "Confidential Client",
+                "project_type": "",
+                "project_description": "> 1.2M SF new construction multi-building data center campus, Commissioning project management, > 200MW electrical power distribution and generation, Energization plans for all new electrical equipment, Cx scripts for all electrical functional testing, Functional testing of all electrical systems",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Lithia Springs, GA",
+                "project_value": "",
+                "relevance_score": 0.9674999999999999
+            },
+            {
+                "project_name": "Confidential Client",
+                "project_type": "",
+                "project_description": "> 2.4M SF new construction data center facility, > 200MW of electrical power distribution and generation, Offsite functional testing at equipment integrator, Onsite functional testing of all electrical systems",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Moncks Corner, SC",
+                "project_value": "",
+                "relevance_score": 0.9674999999999999
+            },
+            {
+                "project_name": "Confidential Client",
+                "project_type": "",
+                "project_description": "> 600,000 SF new construction data center facility, Commissioning project management, > 100MW of electrical power distribution and generation, Energization plans for all new electrical equipment, Cx scripts for all electrical functional testing, Functional testing of all electrical systems",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Pryor, OK",
+                "project_value": "",
+                "relevance_score": 0.9674999999999999
+            }
+        ],
+        "relevance_score": 0.9674999999999999,
+        "similarity_reasoning": "JASON HALSTED is a Cx Electrical Lead with 30 years of experience and a strong focus on commissioning large-scale data center campuses. He has managed commissioning for projects such as: '> 2.4M SF new construction multi-building data center campus, Commissioning project management, > 400MW electrical power distribution and generation, Energization plans for all new electrical equipment, Cx scripts for all electrical functional testing, Functional testing of all electrical systems.' His certifications include ACG Certified Commissioning Authority, Master Electrical License, and LEED AP. His expertise in commissioning, electrical systems, and large-scale data center projects is highly relevant to the AI data center and energy generation infrastructure project.",
+        "justification": [
+            "Extensive experience in commissioning large-scale data centers (up to 400MW)",
+            "Certified Commissioning Authority (CxA) and Master Electrician",
+            "Expertise in electrical power distribution and generation",
+            "LEED Accredited Professional",
+            "Strong background in functional testing and energization planning for complex infrastructure"
+        ],
+        "proposal_name": "Z21-07594 Vandelay SRP3A QAQC-Cx.pdf",
+        "source_page": 28,
+        "properties": null,
+        "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/c8084955-b9cf-47a7-a6f1-670ea4745989/1-32_32/28fcb3a7-4d73-4255-a627-de5688da826c.png"
+    },
+    {
+        "people_name": "Uzoma (KC) Ohadomere",
+        "position": "",
+        "people_id": "4b78ff17-8559-4b5e-9b53-655ef6aab363",
+        "face_group_id": null,
+        "thumbnail_url": null,
+        "qualification": null,
+        "experience_years": null,
+        "expertise_areas": [],
+        "similar_project_experience": [
+            {
+                "project_name": "Unit Training and Equipment Site Facilities",
+                "project_type": "",
+                "project_description": "Electrical Engineer. This project renovated shop bays, a training room, a break room, a weapons vault, restrooms, and an administrative area which included offices. Project also included new shop bays and support offices. Project included pre-design investigations, and compliance with UFC criteria for foundation design, pavement thickness, and subgrade preparation to accommodate the anticipated vehicle traffic, including tanks and large transport vehicles. KC was responsible for electrical power systems design for upgrades to the existing facility in addition to ensuring the expansion met UFC 1-200-02. KC utilized BIM software for high-level coordination and detailed design, ensuring compliance with DoD Anti-Terrorism/Fire-Protection standards. Size: 23,979 SF | Cost: $ 398,420 (Design), $7.1M (Construction)",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "",
+                "project_value": "",
+                "relevance_score": 0.93
+            },
+            {
+                "project_name": "Information Technology Laboratory",
+                "project_type": "",
+                "project_description": "Electrical Engineer. This project was for a new IT laboratory, IT server racks with air zone containments, audio test rooms, and office spaces with conference rooms. KC completed electrical system design including short circuit calculations to assess the electrical system's capacity and safety. He designed the lighting system to optimize visibility and energy efficiency within the lab environment and developed a grounding and lightning protection system to safeguard the facility's sensitive electronic equipment from electrical surges and lightning strikes. KC utilized BIM and 3D modeling to create detailed visual representations of the lab's electrical systems which facilitated better planning and coordination with the team, allowing for more accurate and efficient implementation of the design. The use of BIM and 3D modeling also supported the integration of various systems within the laboratory, enhancing the overall functionality and performance of the facility. Size: 14,730 SF | Cost: $80,000 (Design), $8.0M (Construction)",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "",
+                "project_value": "",
+                "relevance_score": 0.93
+            },
+            {
+                "project_name": "Mission Critical, Data Center",
+                "project_type": "",
+                "project_description": "Electrical Engineer. This project was for a new central utility plant capable of handling a 240-MW data center. KC completed short circuit calculations, designed the lighting system, and developed grounding and lightning protection systems. He utilized BIM and 3D modeling to produce electrical design drawings for all electrical infrastructure. Size: 34,931 SF | Cost: $5.2M (Design), $65.0M (Construction)",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "",
+                "project_value": "",
+                "relevance_score": 0.93
+            },
+            {
+                "project_name": "Mission Critical, Data Center",
+                "project_type": "",
+                "project_description": "Electrical Engineer. Project was for a new 60 MW two-story data center with a central utility building and full generator power backup for uninterruptable power supply. KC designed medium voltage distribution, lighting system design, short circuit calculations, and development of grounding and lightning protection systems. KC utilized BIM and 3D modeling to produce detailed electrical system drawings. His use of BIM and 3D modeling facilitated precise planning and coordination, enhancing overall design accuracy and efficiency. Size: 316,723 SF | Cost: $15.1M (Design), $189.0M (Construction)",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "",
+                "project_value": "",
+                "relevance_score": 0.93
+            },
+            {
+                "project_name": "Mission Critical, Data Center",
+                "project_type": "",
+                "project_description": "Electrical Engineer. Project was for a 120 MW, four-story data center, 1.2M SF server hall, outdoor electrical buildings, administrative offices, storage areas, a loading dock, and a utility plant. KC provided electrical design and on-site construction administration. He designed the electrical systems to support the data center's extensive power requirements, including full generator power backup to maintain operations during power outages. KC led detailed planning and coordination to integrate various components of the facility, ensuring that the electrical infrastructure was robust and efficient. Size: 1.2M SF | Cost: $10.0M (Design), Cost: $350.0M (Construction)",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "",
+                "project_value": "",
+                "relevance_score": 0.93
+            }
+        ],
+        "relevance_score": 0.93,
+        "similarity_reasoning": "Uzoma (KC) Ohadomere is an Electrical Engineer with 15 years of experience, specializing in electrical systems for data centers, utility plants, and secure facilities. He has designed electrical infrastructure for projects including a 240-MW data center, a 60 MW two-story data center, and a 120 MW, four-story data center with full generator backup. His expertise includes BIM and 3D modeling, short circuit calculations, grounding and lightning protection, and compliance with DoD and anti-terrorism standards. KC's experience is directly aligned with the technical, security, and scale requirements of the Savannah River Site project.",
+        "justification": [
+            "Extensive experience in electrical design for large-scale data centers and utility plants",
+            "Expertise in BIM, 3D modeling, and advanced electrical system design",
+            "Strong background in security and anti-terrorism compliance",
+            "Experience with high-capacity, mission-critical infrastructure"
+        ],
+        "proposal_name": "USACE Fort Worth 2025 Update.pdf",
+        "source_page": 25,
+        "properties": {
+            "employee_type": {
+                "value": "internal",
+                "verified": false,
+                "edited_by": "system"
+            },
+            "profile_picture": {
+                "verify": false,
+                "face_id": "bf972987-1077-49fc-8b77-90f6dd8e1537",
+                "location": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/be1eff8c-aecb-4fc2-b869-5985561207ef/1-50_64/5d96bcd6-7ef3-4557-9106-d7cd67022991.png"
+            }
+        },
+        "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/276fd304-f6e0-4d18-bf00-87b54b070fb4/1-26_26/40bf9b5e-6f13-4639-a230-a8e226d5d008.png"
+    },
+    {
+        "people_name": "Jody Glennon",
+        "position": ", ",
+        "people_id": "e0b8d805-cf4d-4718-a82e-4d4eaf733bc3",
+        "face_group_id": null,
+        "thumbnail_url": null,
+        "qualification": null,
+        "experience_years": null,
+        "expertise_areas": [],
+        "similar_project_experience": [
+            {
+                "project_name": "Leavitt Reservoir Expansion Project EIS",
+                "project_type": "",
+                "project_description": "The WWDC proposed to enlarge the water storage capacity of Leavitt Reservoir, an existing off-channel storage site, from 643 AF to 6,600 AF of water to primarily be used to supply irrigated lands in the Beaver Creek and Shell Creek drainages with a supplemental irrigation supply. The project required a ROW grant from the BLM and a Section 404 permit from the USACE. Jody advised the BLM and WWDC throughout her work, carefully navigating the roles and responsibilities of each as depicted in the Memorandum of Understandings between these entities and the 12 Cooperating Agencies (USACE, EPA, WWDC, 7 State Agencies, the South Big Horn Conservation District, and the Big Horn County Board of Commissioners). Jody led a multi-disciplinary team of 28 resource specialists that included 3 subcontractors. She developed a Preparation Plan for the Project, identified and managed the technical approach and data analyses, planned for and participated in USACE meetings with the BLM (USACE was a “key cooperator”), prepared the materials for the NEPA scoping meetings and produced the Scoping Report, assisted the team in preparing for the alternatives development workshop, led the preparation of the draft and final EIS documents and public meeting materials, and managed the public comment analysis and response effort.",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Big Horn County, WY",
+                "project_value": "",
+                "relevance_score": 0.895
+            },
+            {
+                "project_name": "Moffat Collection System Project EIS",
+                "project_type": "",
+                "project_description": "Denver Water proposed to enlarge its existing 41,811- AF Gross Reservoir by 77,000 AF (a 72,000 AF plus a 5,000 AF Environmental Pool) to a total storage capacity of 118,811 AF. The purpose of the project was to develop 18,000 AF per year of new, firm yield to the Moffat Treatment Plant and raw water customers upstream of the Moffat Treatment Plant pursuant to the Board of Water Commissioners’ commitment to its customers. The USACE confirmed the validity of the need and found that 18,000 AF of firm annual yield was valid for the Moffat Project. Jody helped manage a team of 30 resource specialists, 4 cooperating agencies (EPA, FERC, CDPHE, and CDNR), and one consulting agency (Grand County). She helped lead the preparation of the draft and final EISs with the PM, developed the administrative record, managed the comment-response efforts, and coordinated with the USACE and Denver Water in support of the USACE’s ROD and Section 404 Permit issuance in 2017.",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Denver, Adams, Jefferson, Grand, Summit, and Gilpin counties, CO",
+                "project_value": "",
+                "relevance_score": 0.895
+            },
+            {
+                "project_name": "Strontia Springs Reservoir Hydroelectric Project",
+                "project_type": "",
+                "project_description": "Strontia Springs Reservoir is operated for water supply purposes, with hydroelectric energy produced when Denver Water releases water for deliveries. Denver Water’s existing FERC license is effective until 2024, and when there is an unexpired license, FERC will accept an application for an exemption from a licensee per 18 CFR §4.33(d)(1)(ii). Olsson was contracted to prepare the Application of Small Hydroelectric Power Project from Licensing. Jody prepared a project description describing the proposed construction and identifying other actions outside the FERC project boundary that would require review and approval by separate agencies (e.g., USFS). Jody and her team assessed and described the environmental setting and potential impacts to the natural resource setting. Jody led the development of the materials necessary for FERC to conduct its Section 7 and 106 consultations (supporting Denver Water as FERC’s non-federal designee for the Section 106 consultation). Jody and her team proposed conditions, mitigation, and environmental measures to avoid, minimize, and mitigate potential adverse effects. Jody organized, arranged for, and assisted Denver Water in hosting a joint stakeholder consultation meeting and site visit. FERC issued an order granting exemption from licensing on July 2, 2020. The license is effective in perpetuity.",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Jefferson County, CO",
+                "project_value": "",
+                "relevance_score": 0.895
+            },
+            {
+                "project_name": "Ford Lane / Centerton EIS Projects",
+                "project_type": "",
+                "project_description": "Black Hills Energy proposed to construct approximately 7.3 miles of 8-inch wrapped steel pipe with 0.250-inch wall thickness and yield strength of 52,000 psi for the project. The Company’s most pressing need was to increase system reliability to protect against potential capacity short falls in the Centerton and surrounding service area due to current and anticipated growth. Black Hills Energy had identified anticipated capacity short falls in a portion of its existing service territory. Jody led the development of an EIS in support of Black Hills Energy’s Certificate of Environmental Compatibility and Public Need (CECPN) that considered the direct and indirect effects of the project on the ecology of the land, air, and water environment; established park and recreational areas; sites of natural, historic, and scenic values and resources of Benton County; and other relevant environmental effects. Jody and her team researched and reported on sensitive resources within 0.25 mile of the proposed project route. Jody also led the preparation of the engineering and environmental expert witness testimonies. The project was issued a CECPN at the conclusion of the project, and due to the completeness of the application and EIS and testimonies, the Arkansas Public Service Commission did not require live expert witness testimonies during the hearing.",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Benton County, AK",
+                "project_value": "",
+                "relevance_score": 0.895
+            }
+        ],
+        "relevance_score": 0.895,
+        "similarity_reasoning": "Jody Glennon is a Project Manager and Deputy Project Manager with 20 years of experience, specializing in environmental review, permitting, and compliance for large-scale water, energy, and infrastructure projects. She has led multi-disciplinary teams through NEPA, FERC, and Section 404 permitting processes, managed EIS development, and coordinated with federal, state, and local agencies. Her experience with hydroelectric projects, reservoir expansions, and pipeline projects demonstrates her ability to navigate complex regulatory environments and manage stakeholder engagement, which is critical for the Savannah River Site project.",
+        "justification": [
+            "Extensive experience in NEPA, FERC, and Section 404 permitting",
+            "Leadership of large, multi-disciplinary teams",
+            "Expertise in environmental impact analysis and mitigation",
+            "Strong stakeholder and agency coordination skills",
+            "Experience with water, energy, and infrastructure projects"
+        ],
+        "proposal_name": "Z23-02373 Aurora CO Wild Horse Third-Party NEPA Contractor Project.pdf",
+        "source_page": 44,
+        "properties": {
+            "employee_type": {
+                "value": "internal",
+                "verified": false,
+                "edited_by": "system"
+            },
+            "profile_picture": {
+                "verify": false,
+                "face_id": "075293b8-a369-4072-a7e6-53aded3a6620",
+                "location": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/366cb6df-7842-40ea-b567-9460ebe9240c/51-100_105/156414d4-ae48-4c90-a98c-6733f14f2982.png"
+            }
+        },
+        "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/677b37b9-24ba-4c5e-9235-f2ec2170396b/1-50_52/8934405b-3182-4e14-9219-b98dba6d6ba1.png"
+    },
+    {
+        "people_name": "Scott Koehler",
+        "position": "",
+        "people_id": "3628d17e-60bb-4f87-96dc-6558ac2112dc",
+        "face_group_id": null,
+        "thumbnail_url": null,
+        "qualification": null,
+        "experience_years": null,
+        "expertise_areas": [],
+        "similar_project_experience": [
+            {
+                "project_name": "Tsubaki Substation Rebuild",
+                "project_type": "",
+                "project_description": "Responsible for the compliance for a complete replacement of the existing substation at the plant, consisting of a new 34.5kV riser pole, 34.5kV pad-mounted breaker, five transformers, 5kV switchgear, and associated interconnects.",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Sandusky, OH",
+                "project_value": "",
+                "relevance_score": 0.8775000000000001
+            },
+            {
+                "project_name": "Lincoln Electrical System (LES), Operations Center Energy Plant Project Management",
+                "project_type": "",
+                "project_description": "Managed project scope, schedule and capital expenditures for a geothermal energy and backup power facility supporting critical operations.",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Lincoln, NE",
+                "project_value": "",
+                "relevance_score": 0.8775000000000001
+            },
+            {
+                "project_name": "District Energy Corporation, West Haymarket Thermal Energy Facility Project Management",
+                "project_type": "",
+                "project_description": "Managed contracts for plant construction and commissioned system startup for backup power and district energy service.",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Lincoln, NE",
+                "project_value": "",
+                "relevance_score": 0.8775000000000001
+            },
+            {
+                "project_name": "District Energy Corporation, Lancaster County Adult Detention Thermal Energy Facility Senior Engineer",
+                "project_type": "",
+                "project_description": "Managed contracts for plant construction and commissioned system startup for backup power and district energy service.",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Lancaster County, NE",
+                "project_value": "",
+                "relevance_score": 0.8775000000000001
+            },
+            {
+                "project_name": "Confidential Client, 350 MW Interconnection Support",
+                "project_type": "",
+                "project_description": "Responsible for overseeing compliance with regulatory standards and for a renewable interconnection so that all project activities adhered to necessary legal and environmental guidelines.",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Western CO",
+                "project_value": "",
+                "relevance_score": 0.8775000000000001
+            }
+        ],
+        "relevance_score": 0.8775000000000001,
+        "similarity_reasoning": "Scott Koehler is an experienced electrical engineer with over 19 years in the industry and a Professional Engineer certification. He has managed compliance and construction for substations, geothermal energy, and backup power facilities, including regulatory and environmental compliance. His project experience includes: 'Responsible for the compliance for a complete replacement of the existing substation at the plant, consisting of a new 34.5kV riser pole, 34.5kV pad-mounted breaker, five transformers, 5kV switchgear, and associated interconnects.' and 'Managed project scope, schedule and capital expenditures for a geothermal energy and backup power facility supporting critical operations.' These projects demonstrate strong alignment with the technical, regulatory, and energy integration requirements of the AI data center and energy generation infrastructure project. His skills in power systems, compliance, and energy storage are highly relevant.",
+        "justification": [
+            "Extensive experience in electrical engineering and power systems",
+            "Professional Engineer certification",
+            "Direct experience with substation replacement and compliance",
+            "Managed geothermal energy and backup power projects",
+            "Strong regulatory and environmental compliance background",
+            "Experience with energy storage and interconnection"
+        ],
+        "proposal_name": "Z25-01518 Ozarks Electric Coop Corp Engr RFI.pdf",
+        "source_page": 37,
+        "properties": {
+            "employee_type": {
+                "value": "internal",
+                "verified": false,
+                "edited_by": "system"
+            },
+            "profile_picture": {
+                "verify": false,
+                "face_id": "be204f84-5376-4460-b534-4a902b7809a0",
+                "location": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/be63a71e-4784-424d-8ba1-c72c2bc49e35/1-48_48/0b3792e7-9b1a-4552-b282-5e032124ecaa.png"
+            }
+        },
+        "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/8f3d2769-0599-45b4-bd33-d50c92bb4d32/41-50_65/647e0542-3724-4ca7-9ea8-ee45fcad3857.png"
+    },
+    {
+        "people_name": "Jared Rasmussen",
+        "position": "",
+        "people_id": "ae4a76b5-a2b3-45dd-86a9-0a8679360dd2",
+        "face_group_id": null,
+        "thumbnail_url": null,
+        "qualification": null,
+        "experience_years": null,
+        "expertise_areas": [],
+        "similar_project_experience": [
+            {
+                "project_name": "Readiness Center",
+                "project_type": "",
+                "project_description": "Civil Engineer. Jared provided civil design for the Theater Aviation Sustainment Maintenance Group Readiness Center. He designed grading, drainage, pavement (adequate parking, access drives and runway aprons), a stormwater control system, new utilities, landscaped walkways, and AT/FP measures. Site civil design followed UFC 3-201-01 Civil Engineering and UFC 1-200-01 DoD Building Code. Jared worked with owner to apply value engineering concepts to maximize use of the limited space for the new military facility and incorporate design traits that were unique to readiness centers including designing blast protection due to the facility's proximity to the parking lot, using permeable concrete to reduce heat island effect, and installing extra energy efficient vehicle parking and charging stations. His design met LEED Silver Certification and sustainable design requirements per UFC 1-200-02. He assisted the contractor in applying for a FAA 7460 Permit including restrictions for cranes in the airspace. His design included required setbacks, and proper blast protection and courtyard protection within the 90-foot radius to the parking lot, complying with UFC 4-010-01 Minimum AT/FP Standards for Buildings. All civil design reviews were completed using DrChecks. Jared prepared a cost estimate for the site/civil project features, ensuring that the design was financially feasible and within budget constraints. Size: 89,000 SF | Cost: $1.6M (Design), $22.0M (Construction)",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "",
+                "project_value": "",
+                "relevance_score": 0.8775000000000001
+            },
+            {
+                "project_name": "Replacement Hospital",
+                "project_type": "",
+                "project_description": "Civil Engineer. Jared was the lead civil designer for this new hospital. Scope included a hospital building, health clinic, ambulance garage, central utility plant, helipad, and emergency power. He designed site grading, stormwater management systems, vehicular access improvements, and utilities. Jared completed grading, cut and fill, and slope calculations, and designed a stepped building to accommodate the site's significant topographic relief. His design applied value engineering concepts and was crucial in maximizing the development area while minimizing the amount of earthwork required. He also managed the distribution of domestic water (following UFC 3-230-01 Water Storage and Distribution) and fire protection systems (following UFC 3-600-01 Fire Protection Engineering for Facilities) as well as improvements to the sanitary sewer system (following UFC 3-240-01 Wastewater Collection). Site/civil design followed UFC 3-201-01 Civil Engineering and UFC 1-200-01 DoD Building Code. He conducted a stormwater study to evaluate site runoff including runoff calculations to determine volume of stormwater. This study was essential for compliance with the Energy Independence and Security Act, which mandates that a site retain runoff from the 95th percentile rain event to the maximum extent feasible. Jared addressed this with design of a stormwater extended detention and underdrain system, which reduced peak discharge and improved water quality. He implemented a SWPPP following UFC 1-200-02. He designed erosion control measures that prevented erosion during and after construction. He prepared a cost estimate for civil features, ensuring the design was financially feasible and within budget constraints. Size: 445,332 SF | Cost: $2.3M (Design), $305.0M est. (Construction)",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "",
+                "project_value": "",
+                "relevance_score": 0.8775000000000001
+            },
+            {
+                "project_name": "Aviation Classification and Repair Depot (AVCRAD)",
+                "project_type": "",
+                "project_description": "Civil Engineer. Jared served as Principal Civil Engineer and led the professional design team for the design of multiple facilities at Aviation Classification and Repair Depot. His role encompassed a wide range of civil engineering services, including mass grading, the development of Stormwater Pollution Prevention Plans (SWPPPs), and building system evaluations. Jared was instrumental in the design and construction document development for several facilities, including renovation of the hangar, taxiway and aircraft parking pavement repairs, and machine shop electrical improvements. Additionally, he oversaw the installation of new security fences and gates and ensured compliance with UFC 4-022-3 Security Fences and Gates. Jared applied all other relevant UFCs including UFC 3-201-01 Civil Engineering, UFC 3-210-10 Low Impact Development, UFC 3-250-01 Pavement Design for Roads and Parking Areas. His leadership and technical expertise were pivotal in addressing the complex requirements of these facilities, contributing to their successful execution. Size: 135,000 SF | Cost: $4.3M (Design), $65.0M (Construction)",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "",
+                "project_value": "",
+                "relevance_score": 0.8775000000000001
+            }
+        ],
+        "relevance_score": 0.8775000000000001,
+        "similarity_reasoning": "Jared Rasmussen is a Civil Engineer with 22 years of industry experience, specializing in large-scale, complex civil design projects for military, healthcare, and aviation facilities. He has led civil design for projects such as the Theater Aviation Sustainment Maintenance Group Readiness Center, a new hospital with central utility plant and emergency power, and multiple facilities at an Aviation Classification and Repair Depot. His work includes grading, drainage, utilities, stormwater management, security measures, and compliance with DoD and federal standards. Jared's experience with value engineering, sustainable design (LEED Silver), and cost estimation aligns well with the requirements for designing and constructing large, secure, and sustainable infrastructure like AI data centers and energy generation facilities.",
+        "justification": [
+            "Extensive experience in civil engineering for large, complex facilities (military, healthcare, aviation)",
+            "Expertise in site grading, drainage, utilities, and stormwater management",
+            "Proven ability to integrate security and anti-terrorism/force protection measures",
+            "Experience with sustainable design and LEED certification",
+            "Strong background in cost estimation and value engineering",
+            "Familiarity with federal and DoD codes and permitting processes"
+        ],
+        "proposal_name": "USACE Fort Worth 2025 Update.pdf",
+        "source_page": 12,
+        "properties": {
+            "employee_type": {
+                "value": "internal",
+                "verified": false,
+                "edited_by": "system"
+            },
+            "profile_picture": {
+                "verify": false,
+                "face_id": "e82fdf6f-8ec0-440f-b17a-daafa33026bf",
+                "location": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/fc078ce8-97b6-4615-8f1d-93fe3834ec89/1-50_113/f82a913a-db5a-4c63-96c4-e7b53dc04d4c.png"
+            }
+        },
+        "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/c90ff12f-5222-4b02-a0e3-4eded1648013/151-162_162/8cf23600-66f8-4a9d-9c1c-09d2aacc01b5.png"
+    },
+    {
+        "people_name": "Shannon Rasmussen",
+        "position": "",
+        "people_id": "f324fcf4-f6cd-4787-99da-c832848ac851",
+        "face_group_id": null,
+        "thumbnail_url": null,
+        "qualification": null,
+        "experience_years": null,
+        "expertise_areas": [],
+        "similar_project_experience": [
+            {
+                "project_name": "Enterprise Building Integrator (EBI) Replacement Study and Design",
+                "project_type": "",
+                "project_description": "Project Manager. Shannon led the team of engineers through studies and designs for a replacement Building Management System that can integrate all equipment and systems which are currently part of the Honeywell's EBI system. He managed engineers collecting pertinent documentation and developed/delivered required documents for NOAA to use and acquire preventive maintenance and repair of the new BMS. Size: 121,205 SF | Cost: $321,116 (Design) $3.3M (Construction)",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "",
+                "project_value": "",
+                "relevance_score": 0.8775000000000001
+            },
+            {
+                "project_name": "Security Campus, USACE - Omaha District",
+                "project_type": "",
+                "project_description": "QA/QC Manager. Shannon managed the quality review process for the project including the hydraulic analysis for the storm, water, and sanitary systems associated with this project. He ensured the project met the High-Performance Sustainable Building (HPSB) criteria and sustainable elements in the stormwater were incorporated in the design. He reviewed the solution for stormwater quality including vegetated swales and hydrodynamic separators. Size: 99,000 SF | Cost: $940,000 (Design), $759,000 (Construction)",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "",
+                "project_value": "",
+                "relevance_score": 0.8775000000000001
+            },
+            {
+                "project_name": "BX Parking Lot Pavement Study",
+                "project_type": "",
+                "project_description": "Project Manager. Shannon coordinated all on-base engineering field surveying and drilling activities. He issued weekly reports to the USAF regarding progress, schedule, and budget. Shannon ensured that all security protocols were met including background checks of all staff and cybersecurity requirements associated with document creation and transmittals. Shannon ensured that all traffic plans, quality plans, safety protocols, and utility locates were accurate and approved by the USAF. The project was managed to be on time and on budget. Project included training site facilities. Size: 20 Acres | Cost: $85,000 (Design) N/A (Construction)",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "",
+                "project_value": "",
+                "relevance_score": 0.8775000000000001
+            },
+            {
+                "project_name": "Cross Connection Survey, U.S. Air Force, Joint Air Force Base",
+                "project_type": "",
+                "project_description": "Project Manager. Shannon managed a large facility inspection and survey process. Coordinated field inspection team with Air Force personnel and operations. Ensured safety and security protocols were continuously met. Created weekly project status reports, ensured proper resource assignment and a timely submission of the project report with findings and recommendations. Project included support equipment maintenance facilities, utilities, administrative offices, site utilities, office quarters. Size: 912 buildings spanning over 400 square miles | Cost: $238,000 (Design) N/A (Construction)",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "",
+                "project_value": "",
+                "relevance_score": 0.8775000000000001
+            },
+            {
+                "project_name": "Arraj Federal Courthouse Boiler Forensic Study; General Services Administration (GSA)",
+                "project_type": "",
+                "project_description": "Project Manager. Shannon was the project manager of the forensic study to determine the failure mode(s) of the three (3) high efficiency boilers installed as part of an Energy Savings Performance Contract (ESPC). He oversaw the inspection of the physical condition, arrangement, operating modes, and historical data. He verified the accuracy of the evaluation of reported findings which determined the viability of the boilers to perform the appropriate functions as established by the manufacturer. Size: 325,000 SF| Cost: $95,274 (Design) N/A (Construction)",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "",
+                "project_value": "",
+                "relevance_score": 0.8775000000000001
+            }
+        ],
+        "relevance_score": 0.8775000000000001,
+        "similarity_reasoning": "Shannon Rasmussen is a Project Manager with 25 years of experience in mechanical engineering and systems integration for large federal and military facilities. She has managed projects involving building management systems, stormwater and utility systems, and security protocols for high-security sites. Her experience includes quality assurance, compliance with sustainable building criteria, and coordination with federal agencies, making her well-suited for managing complex, secure, and sustainable infrastructure projects like those at the Savannah River Site.",
+        "justification": [
+            "Extensive project management experience for federal and military facilities",
+            "Expertise in building management systems and utility integration",
+            "Strong background in quality assurance and compliance",
+            "Experience with security and safety protocols for high-security sites"
+        ],
+        "proposal_name": "Citrine-Olsson JV Proposal for MICC Special Notice SW023226.pdf",
+        "source_page": 10,
+        "properties": {
+            "employee_type": {
+                "value": "internal",
+                "verified": false,
+                "edited_by": "system"
+            }
+        },
+        "profile_picture": null
+    },
+    {
+        "people_name": "Tony Baumert",
+        "position": "",
+        "people_id": "555104f4-582c-4566-b2ed-09427c86b400",
+        "face_group_id": null,
+        "thumbnail_url": null,
+        "qualification": null,
+        "experience_years": null,
+        "expertise_areas": [],
+        "similar_project_experience": [
+            {
+                "project_name": "VA Ambulatory Care Center - Environmental Assessment",
+                "project_type": "",
+                "project_description": "Project Manager, Biologist, NEPA Author. Tony completed an environmental assessment to evaluate the environmental impacts of the construction of a new ambulatory care clinic on the campus of the Veteran's Hospital in Omaha, NE. It addressed potential impacts or adverse effects to the biological, physical, and human environment of the areas associated with the proposed action. The draft EA was prepared in accordance with the VA's NEPA Interim Guidance for Projects. Olsson recommended mitigation measure and addressed cumulative impacts and submitted the final EA and FONSI. $30M (const.)",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "",
+                "project_value": "",
+                "relevance_score": 0.83
+            },
+            {
+                "project_name": "Rattlesnake Creek Watershed Plan-EA",
+                "project_type": "",
+                "project_description": "Biologist, Technical Reviewer. Tony assisted with the development of a holistic watershed plan and environmental assessment (EA) in collaboration with agricultural producers and the USFWS as an important step toward providing stable, reliable agricultural water supply and wildlife habitat in the region. The objective was to develop alternatives and centralized solutions that will work for all sides of the project. Services include an EA, feasibility study, and public involvement. $718,000 (Fee)",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "",
+                "project_value": "",
+                "relevance_score": 0.83
+            },
+            {
+                "project_name": "District 7 Wetland Mitigation Study and Design Services",
+                "project_type": "",
+                "project_description": "Project Manager, Biologist. Tony led efforts to identify, design, develop, and certify a mitigation bank in Harlan County. This project was needed to offset unavoidable wetland impacts because of future state roadway improvement projects. Tony led efforts to establish a partnership between NDOT and the USACE to the establishment a wetland mitigation bank on federal property, providing desired habitat consistent with the USACE site needs, while also providing wetland mitigation credits for NDOT. Tony and our environmental professionals also prepared preliminary site information and design concepts for agency comment, completed wetland and environmental fields studies, assisted NDOT and the USACE with NEPA requirements, and prepared the mitigation bank instrument and permitting documents for agency review and approval. $381,834 (Fee)",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "",
+                "project_value": "",
+                "relevance_score": 0.83
+            },
+            {
+                "project_name": "U.S. Highway 281 Emergency Repairs over Niobrara River",
+                "project_type": "",
+                "project_description": "Project Manager, Biologist. In March 2019, an unprecedented flood event caused the destruction of Spencer Dam, washing away the U.S. Highway 281 bridge over the Niobrara River, and creating a new river channel. Olsson assisted NDOT to design a new 1,055-foot-long prestressed concrete girder bridge. Tony led the efforts of our environmental professionals to help NDOT navigate the complexity of the emergency Clean Water Act (CWA) permitting requirements and compliance with National Environmental Policy Act (NEPA). Tony led an after-the-fact Section 404 permitting and mitigation effort for the project that involved coordination with the USACE with special USFWS and NPS considerations given the \"Study River\" designation of the Niobrara River. Overall, the project represents an unprecedented and unique situation involving the complete relocation of a major river channel. $25.5M (Const.)",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "",
+                "project_value": "",
+                "relevance_score": 0.83
+            }
+        ],
+        "relevance_score": 0.83,
+        "similarity_reasoning": "Tony Baumert is a Biologist and NEPA Specialist with 25 years of experience in environmental assessment, permitting, and mitigation for large infrastructure projects. He has managed environmental assessments for new clinics, watershed plans, and wetland mitigation banks, and has extensive experience with NEPA, Clean Water Act, and Section 404 permitting. His expertise is highly relevant for ensuring environmental compliance, impact mitigation, and permitting for the Savannah River Site project.",
+        "justification": [
+            "Extensive experience in NEPA and environmental permitting",
+            "Expertise in environmental assessment and mitigation planning",
+            "Strong background in wetland and habitat mitigation",
+            "Relevant for environmental compliance and permitting requirements"
+        ],
+        "proposal_name": "Z21-05081 COJV USACE Fort Worth AE Services for Military Programs - W9126G20R0041.pdf",
+        "source_page": 13,
+        "properties": {
+            "email_ids": {
+                "value": [],
+                "verified": false
+            },
+            "employee_type": {
+                "value": "internal",
+                "verified": true
+            },
+            "profile_picture": {
+                "verify": true,
+                "face_id": "d32fe2b3-e7ca-4b47-ad29-58f0dc71b614",
+                "location": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/ca7f3678-d1e4-47a5-a2a8-fa1e9f77cc09/1-25_25/41229a01-9bc9-4863-b7a8-3b6a2b0f8984.png"
+            }
+        },
+        "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/02b437ba-43af-4a3f-9903-44763ab6c5a1/1-50_70/2565b2f1-00e5-4e11-8329-dc11e3f51da8.png"
+    },
+    {
+        "people_name": "Jonathan McCarville",
+        "position": "",
+        "people_id": "27d35a22-d1b6-4fb8-bfc6-7728ca9bb70f",
+        "face_group_id": null,
+        "thumbnail_url": null,
+        "qualification": null,
+        "experience_years": null,
+        "expertise_areas": [],
+        "similar_project_experience": [
+            {
+                "project_name": "F-35 Apron Replacement",
+                "project_type": "",
+                "project_description": "Jon led the planning and civil engineering of an aviation apron replacement project. The project is divided into two phases: the study phase, and the design phase. The study phase included in depth review and analysis of the existing stormwater system and site information. He led a team on-site to investigate the source of subsurface groundwater that was leading to the deterioration of the concrete apron. Through hydraulic modeling, his analysis determined the existing stormwater system was undersized and faulty, exacerbating the poor paving conditions. Jon led the civil engineering design of the F-35 Apron Replacement, performing engineering studies, hydraulic modeling, design, and preparation of preliminary and final design drawings and specifications. As part of the preliminary engineering, Jon conducted pre-design site assessments and design charette meetings with USAF and NAVFAC staff. Construction was complete in 2022. Challenges/Successes: Resiliency to storms and large stormwater flows is crucial to the success of any aviation project. Poor record drawings, sealed drainage structures, and years of apron pavement buildup provided a difficult task to assess the source of ongoing pavement damage. Jon developed several design packages and worked closely with the contractor to limit pavement and utility removals, ultimately delivering a cost-efficient project on schedule. | Size: 14 Acres | Cost: $10M | Role: Civil Engineer",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "",
+                "project_value": "",
+                "relevance_score": 0.8275
+            },
+            {
+                "project_name": "Offutt Security Campus",
+                "project_type": "",
+                "project_description": "Jon assisted with leading the civil design team, providing technical guidance for anti-terrorism force protection, stormwater permitting, and utility design. Project included design and construction of the Security Campus which includes the Security Operations Center, Indoor Firing Range, Military Working Dog Kennel, and Storage Facility. The project includes all necessary site work, utilities, pavements, and security fencing. Challenges/Successes: The project was a Design-Build effort managed by USACE. Design charrettes and clear communication with USACE project management were vital to the successful design of the project. Detailed early site design packages set up a successful final design that met the requirements of several technical design guidelines. | Size: 15 Acres | Cost: $75.9M | Role: Civil Engineer",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "",
+                "project_value": "",
+                "relevance_score": 0.8275
+            },
+            {
+                "project_name": "Electric Vehicle Service Center",
+                "project_type": "",
+                "project_description": "Jon led the civil design team providing technical guidance on local and state permitting, site layout, utilities, grading, and stormwater management. The project included design and construction of an Electric Vehicle Service Center that provides services to western Iowa and Nebraska. The project includes all necessary site work, utilities, and pavement for the tenant to have an efficient and cost-effective site. Stormwater management was split between two detention ponds to satisfy local stormwater regulations. Challenges/Successes: The civil design team was brought on early in the project to develop several concept layouts and to demonstrate the feasibility of the project to a national client. The team successfully implemented the national design standards of the client while meeting local AHJ code criteria. | Size: 52,000 SF | Cost: $8M | Role: Civil Engineer",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "",
+                "project_value": "",
+                "relevance_score": 0.8275
+            },
+            {
+                "project_name": "Nebraska Downtown Redevelopment",
+                "project_type": "",
+                "project_description": "Jon participated in a downtown planning study which led to the design of extensive downtown improvements. Jon led the design of improvements which included removal and replacement of seven blocks of Highway 15 and eight blocks downtown streets, while incorporating existing brick to reflect the City's history. He led design of all sidewalks within the project limits including ADA compliant sidewalks, ADA compliant business entrances, and ADA sidewalk curb ramps. Jon led design of new storm and sanitary sewer systems serving the entire downtown central business district, including a 48-inch storm main on Highway 15. He also oversaw the design of a new electrical system which serves the new energy efficient streetlights. Jon served as the Construction Administrator during the construction phase of the project. He performed regular inspections, conducted on-site construction meetings, oversaw a construction observer, processed contractor pay applications, and presented regularly to the mayor and city council. Jon's ability to problem solve conflicts in the field saved both time and costs for the client, delivering the construction project on time and on budget. Challenges/Successes: With any substantial central business district construction project, limiting impacts to businesses is priority. The development of extensive phasing plans allowed for two-way traffic and parking on either side of the block to allow businesses to remain open throughout construction. Additionally, early coordination and constant communication with numerous stakeholders, including the city mayor, city council members, business owners, residents, and Nebraska DOT, was essential to the project success. | Size: 16.5 Acres | Cost: $9.6M | Role: Civil Engineer",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "",
+                "project_value": "",
+                "relevance_score": 0.8275
+            },
+            {
+                "project_name": "The Cloisters on the Platte Campus",
+                "project_type": "",
+                "project_description": "Jon led the civil engineering design for The Cloisters on the Platte Ignatian Retreat campus. The remote location of the project required extensive engineering for the utility systems. Jon led the research and analysis of potential domestic water sources, eventually designing and leading the permitting of three off-site water wells. He also oversaw the design of a domestic water treatment, wastewater treatment, and fire water treatment facilities that serve the site. Jon led the permitting of two dams on site and designed a fire suppression system that utilizes another lake onsite. He led the design of mass grading, retaining walls, and stormwater pollution prevention plans for 80 acres of land. The design services included the completion of roadway and intersection design plans for nearly two miles of roadway and two bridges for the community of 100. Challenges/Successes: Civil engineering components of the project required extensive permitting through state agencies due to its remote location. Consistent coordination with these agencies ensured permits would be approved on schedule. The project included eight different architectural firms, each designing a separate building. The civil design responded to each unique building and the natural features of the site, employing low impact design practices and preserving much of the natural landscape. | Size: 160 Acres | Cost: Confidential | Role: Civil Engineer",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "",
+                "project_value": "",
+                "relevance_score": 0.8275
+            }
+        ],
+        "relevance_score": 0.8275,
+        "similarity_reasoning": "Jonathan McCarville is a Civil Engineer with 10 years of experience in planning and civil engineering for aviation, security, and utility infrastructure projects. He has led teams on projects involving stormwater management, anti-terrorism force protection, and utility design for large-scale facilities, including aviation aprons, security campuses, and electric vehicle service centers. His expertise in site assessments, hydraulic modeling, and permitting aligns well with the requirements for complex, secure, and sustainable infrastructure at the Savannah River Site.",
+        "justification": [
+            "Experience in civil engineering for aviation, security, and utility projects",
+            "Expertise in stormwater management and hydraulic modeling",
+            "Strong background in permitting and compliance",
+            "Leadership in technical guidance and team management"
+        ],
+        "proposal_name": "Stanley Olsson JV_W9128F22D0034_Updated.pdf",
+        "source_page": 10,
+        "properties": {
+            "role": {
+                "values": [
+                    "Project Manager"
+                ],
+                "workspace": {
+                    "ab3c0ebf-d1cc-495b-9e71-ca03873dbe4b": "Project Manager"
+                }
+            },
+            "email_ids": {
+                "value": [],
+                "verified": false
+            },
+            "employee_type": {
+                "value": "internal",
+                "verified": true,
+                "edited_by": "53995b10-0c44-4966-9439-bac58378ba7d"
+            },
+            "profile_picture": {
+                "verify": false,
+                "face_id": "eedb6048-55c2-4c2d-ab51-4e58791cbce1",
+                "location": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/160f4d18-f46e-42a0-9eb9-d81a4b5970f5/1-38_38/d55284d6-16ed-4630-91fc-03799e190536.png"
+            }
+        },
+        "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/cc2b306b-ef23-4b28-a05b-1ec0983641a3/1-4_4/34b70b03-b5e0-476f-a39c-dd7c51beec6b.png"
+    },
+    {
+        "people_name": "Justin Mohlman",
+        "position": "",
+        "people_id": "68dccff8-920b-4a19-9e8d-37f4ef3aa9cb",
+        "face_group_id": null,
+        "thumbnail_url": null,
+        "qualification": null,
+        "experience_years": null,
+        "expertise_areas": [],
+        "similar_project_experience": [
+            {
+                "project_name": "Phillips 66 Palermo Rail Terminal",
+                "project_type": "",
+                "project_description": "The Palermo Rail Terminal project was initiated through transfer of ownership and Olsson was hired by Strobel Energy Group to improve a previous design developed by others, which required complete overhaul of track configurations and site layout. This crude-by-rail (CBR) design-build project is located along BNSF’s Glasgow Subdivision and generally consists of a high-speed loading terminal with truck offload and pipeline offload/transfer to onsite storage tanks with unit train loadout. Rail construction included 43,000+ track feet with triple loop, lead tracks, wye track configurations, bad order tracks, and 14 loadout spots with loadrack structure and loadout building. The project was successfully completed to increase efficiency and improve economics of transferring domestic crude from the Bakken production area to refineries on the east and west coasts. Olsson’s responsibilities included rail design, site/civil and grading design, H&H analysis and culvert design, roadway design for onsite and offsite roadway improvements, geotechnical analysis, structural foundations design and onsite testing services (e.g., concrete, soils, gradations).",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Palermo, ND",
+                "project_value": "",
+                "relevance_score": 0.8125
+            },
+            {
+                "project_name": "Bannister Federal Complex Redevelopment",
+                "project_type": "",
+                "project_description": "Olsson was contracted by Bannister Transformation & Development, Inc. to design its new warehouse and rail-serve distribution facility located in Kansas City, Missouri. The project involves demolition of the existing buildings on site, substantial environmental remediation, mass site grading, and construction phasing for three stages of track design and construction. The new proposed industrial track branches from the Union Pacific Railroad (UPRR) Coffeyville Subdivision. Total track construction includes 3,759 track feet, including receiving and departure, staging, bad order, and locomotive runaround tracks. All track design and construction met UPRR standards and requirements. Additionally, the Olsson project team provided mass grading and site/civil design, drainage improvements, and utility coordination and design. Construction was completed and the facility became operational in 2018.",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Kansas City, MO",
+                "project_value": "",
+                "relevance_score": 0.8125
+            },
+            {
+                "project_name": "UPRR Pavement Rehabilitation",
+                "project_type": "",
+                "project_description": "Pavement management for all UPRR intermodal and automotive facilities presents a challenging and perpetual task. Olsson has supported this undertaking through design of numerous pavement rehabilitation projects. We have found that strong communication with numerous stakeholders is key to success. Some of those stakeholders include the planning team that manages budget allocation at a network level, the engineering team that weighs the benefits and costs of different rehabilitation techniques, the terminal operations teams that welcome improvements but must also maintain operational efficiency through the disruption of construction, and the construction teams tasked with delivering the projects within tight schedules and constraints. With consideration for input from these and other stakeholders, Olsson delivers pavement rehabilitation designs that seek to maximize the impact of the allocated investment dollars.",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Systemwide",
+                "project_value": "",
+                "relevance_score": 0.8125
+            }
+        ],
+        "relevance_score": 0.8125,
+        "similarity_reasoning": "Justin Mohlman is a Project Manager with 20 years of experience managing large-scale industrial and infrastructure projects, including rail terminals, distribution facilities, and pavement management for major transportation networks. His work on the Palermo Rail Terminal and Bannister warehouse/rail-serve distribution facility involved site/civil design, environmental remediation, grading, and utility coordination, all of which are relevant to the development of large, complex sites like those required for AI data centers and energy generation infrastructure.",
+        "justification": [
+            "Extensive project management experience on large industrial and infrastructure projects",
+            "Expertise in site/civil design, grading, and environmental remediation",
+            "Strong stakeholder coordination and communication skills",
+            "Experience with complex, multi-phase construction and operational projects"
+        ],
+        "proposal_name": "Z23-07106 Cathcart Rail Freight Car Repair Building Kansas City.pdf",
+        "source_page": 5,
+        "properties": {
+            "email_ids": {
+                "value": [
+                    "jmohlman@olsson.com"
+                ],
+                "verified": true
+            },
+            "employee_type": {
+                "value": "internal",
+                "verified": true
+            },
+            "profile_picture": {
+                "verify": true,
+                "face_id": "8d49be6d-aed0-4e3c-ac17-e51feb5d02e0",
+                "location": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/50c631b7-6b40-4f34-998f-4a2375707a40/1-15_15/fda01594-d840-43fe-8d8c-affdcf787bb0.png"
+            }
+        },
+        "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/e6746133-353d-4d2a-88e0-18bed679ccfa/41-50_61/5e1eef58-7c9f-4657-8b15-e15366d4d0c3.png"
+    }
+]

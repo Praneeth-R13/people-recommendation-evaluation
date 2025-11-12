@@ -1,0 +1,119 @@
+[
+    {
+      "excluded": false,
+      "people_id": "6232b873-3be0-40af-a81e-fd21f37ab232",
+      "properties": {
+        "employee_type": {
+          "value": "internal",
+          "verified": false,
+          "edited_by": "system"
+        }
+      },
+      "people_name": "Kim Zulliger",
+      "proposal_name": "M20-02190 Colorado Springs Utilities Marketing Leave Behind.pdf",
+      "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/0065655d-217f-4f8d-a6d6-3bef01460900/1-32_32/db0aea03-220c-425c-87c1-0c0cd1a034f1.png",
+      "relevance_score": 10,
+      "matched_evidence": [
+        "Odor Control Study for Robert W. Hite Treatment Facility",
+        "Odor Control / Chemical System for Metro Northern Treatment Plant",
+        "Professional Engineer: CO, WY"
+      ],
+      "similarity_reasoning": "Kim Zulliger has extensive experience in water and wastewater projects, including specific work at the Robert W. Hite Treatment Facility and the Northern Treatment Plant, which are directly relevant to the Thermal Energy Program Support Project. Her role as a project engineer on a major wastewater treatment facility expansion and her experience in odor control studies at these facilities align well with the project's goals. Additionally, her professional engineering certification in Colorado and her long-standing career in the industry further support her relevance."
+    },
+    {
+      "excluded": false,
+      "people_id": "fa5a5393-95b8-47c4-95c4-4cd1203a5816",
+      "properties": {
+        "employee_type": {
+          "value": "internal",
+          "verified": false,
+          "edited_by": "system"
+        },
+        "profile_picture": {
+          "verify": false,
+          "face_id": "a4dbef17-3a87-4ddc-a1ce-4a91ba091704",
+          "location": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/366cb6df-7842-40ea-b567-9460ebe9240c/1-50_105/ab055d53-70b4-414b-a066-98da067bdd9f.png"
+        }
+      },
+      "people_name": "Sarah Foster",
+      "proposal_name": "Z21-01350 Denver Water 2022 General Engineering Services.pdf",
+      "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/4fdd7dd6-6304-421e-8f45-4625620e813d/1-8_8/d10c47c7-277a-4cde-a6e3-63a627dc3b26.png",
+      "relevance_score": 10,
+      "matched_evidence": [
+        "MWRD, Northern Treatment Plant Wastewater Facilities Design-Build",
+        "Metro Wastewater Reclamation District (MWRD), Regulatory Support Agreement",
+        "Professional Engineer: CO"
+      ],
+      "similarity_reasoning": "Sarah Foster has a strong background in water and wastewater treatment, with specific experience in regulatory compliance and permit acquisition strategies. Her work with the Metro Wastewater Reclamation District, including the Northern Treatment Plant Wastewater Facilities Design-Build in Brighton, CO, is directly relevant to the Thermal Energy Program Support Project. Her role in managing permitting and regulatory compliance aligns with the project's needs. Her professional engineering certification in Colorado further enhances her suitability."
+    },
+    {
+      "excluded": false,
+      "people_id": "b907cd90-8e12-4b82-9900-ddc29ef95f33",
+      "properties": {
+        "employee_type": {
+          "value": "internal",
+          "verified": false,
+          "edited_by": "system"
+        },
+        "profile_picture": {
+          "verify": false,
+          "face_id": "30609da7-a2d4-4a07-a68e-637492ebec09",
+          "location": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/d56dea5d-9b64-4b48-9047-2697c63e226a/1-22_22/104e1f64-3944-4672-b7ce-1e3121f46601.png"
+        }
+      },
+      "people_name": "Robert Hickey",
+      "proposal_name": "Hickey, Robert_Full Resume_06-2025.pdf",
+      "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/3c6ec7f0-f3d1-4c2d-8fba-96213fe8de64/1-26_26/a27a33d1-4beb-457b-91ae-2d0289a1e71f.png",
+      "relevance_score": 8,
+      "matched_evidence": [
+        "Metro Water Recovery projects",
+        "Professional Engineer: CO"
+      ],
+      "similarity_reasoning": "Robert Hickey's expertise in water/wastewater infrastructure design and his experience with Metro Water Recovery projects make him a relevant candidate for the Thermal Energy Program Support Project. His skills in project management and coordination with municipalities are valuable for the project's execution. His professional engineering registration in Colorado further supports his relevance."
+    },
+    {
+      "excluded": false,
+      "people_id": "0a00b9e8-abbe-4c2d-ad2f-5dc3f0dda79a",
+      "properties": {
+        "employee_type": {
+          "value": "internal",
+          "verified": false,
+          "edited_by": "system"
+        }
+      },
+      "people_name": "Duke Douglas",
+      "proposal_name": "Douglas, Duke_Full Resume_4-2025.pdf",
+      "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/3d2096d2-f418-4b2d-8467-848f1ba74266/1-15_15/961d3a0d-7720-44ac-9a2f-01cc78bd3629.png",
+      "relevance_score": 7,
+      "matched_evidence": [
+        "City of Brighton, Bridge Street Veterans Park No Rise",
+        "GIS software expertise"
+      ],
+      "similarity_reasoning": "Duke Douglas specializes in water resource and GIS analysis, which can be beneficial for the Thermal Energy Program Support Project. His experience with projects in Brighton, CO, and his skills in GIS software for hydrology and flood hazard delineation are relevant to the project's geographic and technical requirements. However, his role as an assistant engineer may limit his direct impact on the project's strategic goals."
+    },
+    {
+      "excluded": false,
+      "people_id": "e5ccce46-886f-4b73-a461-f705d75d51ef",
+      "properties": {
+        "employee_type": {
+          "value": "internal",
+          "verified": false,
+          "edited_by": "system"
+        },
+        "profile_picture": {
+          "verify": false,
+          "face_id": "3928aaaf-202d-44cc-af81-70edcf147a4e",
+          "location": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/bb9459d5-889c-4ee3-9bc0-0c5ab7831b81/1-18_18/7207a4a3-d368-4b54-a6ae-a8f7266308c9.png"
+        }
+      },
+      "people_name": "Tyler Compton",
+      "proposal_name": "Compton, Tyler_Full Resume_06-2025.pdf",
+      "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/4325a4a6-df73-4536-8c02-85dab72ad661/11-20_28/3a53c8a0-cce2-492d-b7dc-b6454bf659c2.png",
+      "relevance_score": 6,
+      "matched_evidence": [
+        "Metro Water Recovery, Hite WWTP",
+        "Geotechnical evaluation services"
+      ],
+      "similarity_reasoning": "Tyler Compton has experience in geotechnical and materials testing services, which are relevant to the construction and evaluation phases of the Thermal Energy Program Support Project. His work with Metro Water Recovery and projects in Denver, CO, align with the project's geographic scope. However, his primary focus on geotechnical services may not fully align with the project's broader engineering and management needs."
+    }
+  ]

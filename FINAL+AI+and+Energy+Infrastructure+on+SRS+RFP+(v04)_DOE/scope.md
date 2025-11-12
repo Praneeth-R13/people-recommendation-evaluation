@@ -1,0 +1,11 @@
+# Summary
+The United States Department of Energy (DOE) and its National Nuclear Security Administration (NNSA) are issuing this Request for Proposals (RFP) to solicit proposals for the design, financing, permitting, development, construction, installation, ownership, maintenance, operation, and decommissioning of Artificial Intelligence (AI) data center and energy generation infrastructure on identified real property at the Savannah River Site (SRS) in South Carolina. The primary objectives are to enhance American leadership in AI and energy generation, promote economic competitiveness, national security, and scientific advancement, and ensure an abundant supply of reliable energy.
+The RFP encourages proposals for rapid development of AI data center capacity and associated energy generation, with a focus on innovative energy generation and storage technologies. NNSA is also interested in potential collaboration opportunities with DOE, NNSA, National Laboratories, Plants, and Sites.
+
+# Scope
+The project scope involves entering into a long-term Lease Agreement for a portion of identified real property at the Savannah River Site (SRS) for the purposes of designing, financing, permitting, developing, constructing, installing, owning, maintaining, operating, and decommissioning AI data center and energy generation infrastructure. This includes, but is not limited to: data center facilities with specialized Information Technology (IT) equipment; associated cooling facilities; energy supply infrastructure; transmission and storage infrastructure; and other ancillary facilities and equipment. Proposals must include new energy generation. Eligible configurations include Integrated AI Data Center and Energy Projects, Phased Integrated AI Data Center and Energy Projects, or Energy Infrastructure Projects. The Government envisions leasing approximately 250 to 450 acres of the total 3,103 acres identified across 10 tracts. The Offeror is responsible for all utilities, services, permits, approvals, and costs associated with the project, including interconnection with the electric utility provider and site restoration/remediation upon lease termination.
+
+
+RFP ID: `9189f443-e04e-4291-9077-75ee9bb62e65`
+
+Domain ID: `2ad8560e-29b9-47ac-922d-6075feda923a`

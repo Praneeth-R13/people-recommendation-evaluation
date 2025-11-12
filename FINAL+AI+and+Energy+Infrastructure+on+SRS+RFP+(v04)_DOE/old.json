@@ -1,0 +1,373 @@
+[
+    {
+      "excluded": false,
+      "people_id": "df70f53c-16e8-4d62-9e42-4e1b3ab4efc4",
+      "properties": {
+        "employee_type": {
+          "value": "internal",
+          "verified": false,
+          "edited_by": "system"
+        }
+      },
+      "people_name": "W. Mark Arney",
+      "proposal_name": "Z23-03315 H5 Commissioning - Ashburn DC.pdf",
+      "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/eb7346d0-f211-4081-ac9e-58e38b719dfa/1-43_43/b6e8a7f4-2715-4b0f-8b59-3e922c958d26.png",
+      "relevance_score": 8,
+      "matched_evidence": [
+        "Commissioning Site Project Manager for National Nuclear Security Agency",
+        "Experience in commissioning for data centers and energy systems",
+        "Projects with federal clients and energy retrofits"
+      ],
+      "similarity_reasoning": "W. Mark Arney's extensive experience in commissioning and retro-commissioning for data centers and energy systems is highly relevant to the target project's focus on AI infrastructure and energy generation. His work with the National Nuclear Security Agency and other federal projects aligns with the client requirements. However, his geographic experience is not specifically tied to South Carolina."
+    },
+    {
+      "excluded": false,
+      "people_id": "107b856a-1cd5-428f-a5f4-be3a9e86a1d0",
+      "properties": {
+        "employee_type": {
+          "value": "internal",
+          "verified": false,
+          "edited_by": "system"
+        },
+        "profile_picture": {
+          "verify": false,
+          "face_id": "017793cf-4cfa-46d2-937b-7127d31560ee",
+          "location": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/4adccf66-fe4d-47b1-b2dc-dd1965224296/1-36_36/24436eac-7e99-4b29-a9c4-1858affd7e1e.png"
+        }
+      },
+      "people_name": "Mark Arney",
+      "proposal_name": "Z21-07594 Vandelay SRP3A QAQC-Cx.pdf",
+      "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/1a164bd0-bfed-4501-b5e5-e2465f7456d4/1-43_43/49e33adf-2794-4dde-89ab-d0aeed9c446b.png",
+      "relevance_score": 8,
+      "matched_evidence": [
+        "Commissioning Site Project Manager for National Nuclear Security Agency",
+        "Experience in commissioning for data centers and energy systems",
+        "Projects with federal clients and energy retrofits"
+      ],
+      "similarity_reasoning": "Mark Arney's expertise in commissioning and energy systems, particularly for data centers, is relevant to the target project's focus on AI infrastructure and energy generation. His work with the National Nuclear Security Agency and other federal projects aligns with the client requirements. However, his geographic experience is not specifically tied to South Carolina."
+    },
+    {
+      "excluded": false,
+      "people_id": "01f89807-1b20-4f13-8781-f69adb499533",
+      "properties": {
+        "role": {
+          "values": [
+            "Port Authority Project Representative"
+          ],
+          "workspace": {
+            "fd5f09fd-20c9-4d2e-aba3-8b5aa8df0af5": "Port Authority Project Representative"
+          }
+        },
+        "email_ids": {
+          "value": [
+            "cdonahue@olsson.com"
+          ],
+          "verified": false,
+          "edited_by": "system"
+        },
+        "employee_type": {
+          "value": "internal",
+          "verified": false,
+          "edited_by": "system"
+        },
+        "profile_picture": {
+          "verify": false,
+          "face_id": "c2085b64-c04b-40db-9682-20f12884cef2",
+          "location": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/13e01017-94df-4513-9dea-dc3b0f9128dc/1-50_113/5e642742-6772-470c-93d9-ce608387b773.png"
+        }
+      },
+      "people_name": "Corinne Donahue",
+      "proposal_name": "Z24-06409 ODOT CI-2514 On-Demand Traffic Engineering.pdf",
+      "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/255c9913-2d31-43e4-9b7e-d631400e306e/1-45_45/ff74273d-0d00-4369-b9c2-0217afc4db94.png",
+      "relevance_score": 6,
+      "matched_evidence": [
+        "Worked on AI Traffic Signals Planning Grant Application in Oklahoma",
+        "Specializes in transportation and transit planning",
+        "Experience with land use planning for commercial and industrial spaces"
+      ],
+      "similarity_reasoning": "Corinne Donahue's experience in urban and transportation planning, including AI traffic signals planning, aligns with the AI aspect of the target project. However, her geographic experience is primarily in Oklahoma, which does not directly relate to the Savannah River Site in South Carolina. Her skills in land use planning and public outreach could be beneficial for the infrastructure component of the project."
+    },
+    {
+      "excluded": false,
+      "people_id": "751e9337-e1c8-4f19-8fa5-eb8f4c2047dd",
+      "properties": {
+        "employee_type": {
+          "value": "internal",
+          "verified": false,
+          "edited_by": "system"
+        },
+        "profile_picture": {
+          "verify": false,
+          "face_id": "80dfde89-53e1-46c3-963c-e574db9448ff",
+          "location": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/be6437b9-342b-4101-8816-27115e2107e5/1-50_63/978f97fb-c5d4-4e7f-adf2-d839599f5386.png"
+        }
+      },
+      "people_name": "Karla Diaz-Corro",
+      "proposal_name": "Z24-00233 Fayetteville AR Safe Routes to School.pdf",
+      "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/56710134-3c6f-445e-bed7-a0b7be7e6796/1-50_70/7bf2741d-de4c-4a98-9291-7e9dede1fd09.png",
+      "relevance_score": 6,
+      "matched_evidence": [
+        "Worked on AI Traffic Signals Planning Grant Application in Oklahoma",
+        "Experience in traffic engineering and transportation services",
+        "Projects with ODOT and other Oklahoma-based clients"
+      ],
+      "similarity_reasoning": "Karla Diaz-Corro has significant experience in traffic engineering and AI traffic signals planning, which is relevant to the AI infrastructure component of the project. Her work with ODOT and other transportation projects demonstrates her capability in managing complex engineering tasks. However, her geographic experience is primarily in Oklahoma, which does not directly relate to the Savannah River Site in South Carolina."
+    },
+    {
+      "excluded": false,
+      "people_id": "cf66211d-04ee-4409-831a-f22848e40487",
+      "properties": {
+        "profile_picture": {
+          "verify": false,
+          "face_id": "1724f93f-a3df-431f-be65-40d2babf03c9",
+          "location": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/032285d9-80ba-4ef3-94f9-20776a38b1e1/1-50_59/7f245a42-a1e5-4611-9cf0-a402de009e94.png"
+        }
+      },
+      "people_name": "Brad Sanderson",
+      "proposal_name": "Z024-01971 Lakeside FTY03_04 DC Design and CA.pdf",
+      "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/ef01860a-4293-4266-8ccb-17fa896aa8cd/1-50_56/d4876169-986c-4b71-9944-30b937049fbe.png",
+      "relevance_score": 6,
+      "matched_evidence": [
+        "Program Management Services for US Continental Data Centers",
+        "Experience in site engineering for industrial developments",
+        "Projects with Fortune 500 companies"
+      ],
+      "similarity_reasoning": "Brad Sanderson's experience in site engineering for industrial developments, including data centers, is relevant to the infrastructure component of the target project. His work with Fortune 500 companies and expertise in site development could support the project's goals. However, his geographic experience is not specifically tied to South Carolina."
+    },
+    {
+      "excluded": false,
+      "people_id": "c13a6ae8-e6a9-4466-b420-ec299c2f2288",
+      "properties": {
+        "employee_type": {
+          "value": "internal",
+          "verified": false,
+          "edited_by": "system"
+        }
+      },
+      "people_name": "Raul Madrigal-Gomez",
+      "proposal_name": "Madrigal-Gomez, Raul_Full Resume_7-2024.pdf",
+      "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/f76f4fd3-7ae5-4191-84a4-b4c4b0f14dd4/1-3_3/a40843fb-3953-44e0-a14d-7fd2b4650ae2.png",
+      "relevance_score": 6,
+      "matched_evidence": [
+        "Focus on utility design for data centers",
+        "Experience in electrical and telecommunication design",
+        "Projects with data center infrastructure"
+      ],
+      "similarity_reasoning": "Raul Madrigal-Gomez's focus on utility design for data centers is relevant to the infrastructure component of the target project. His experience in electrical and telecommunication design aligns with the technical requirements of AI infrastructure. However, his geographic experience is primarily in the Midwest, which does not directly relate to South Carolina."
+    },
+    {
+      "excluded": false,
+      "people_id": "3628d17e-60bb-4f87-96dc-6558ac2112dc",
+      "properties": {
+        "employee_type": {
+          "value": "internal",
+          "verified": false,
+          "edited_by": "system"
+        },
+        "profile_picture": {
+          "verify": false,
+          "face_id": "be204f84-5376-4460-b534-4a902b7809a0",
+          "location": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/be63a71e-4784-424d-8ba1-c72c2bc49e35/1-48_48/0b3792e7-9b1a-4552-b282-5e032124ecaa.png"
+        }
+      },
+      "people_name": "Scott Koehler",
+      "proposal_name": "Z25-04209 Proposal for Burdick Station Generation Project - Engineering Services_Olsson.pdf",
+      "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/8f3d2769-0599-45b4-bd33-d50c92bb4d32/41-50_65/647e0542-3724-4ca7-9ea8-ee45fcad3857.png",
+      "relevance_score": 6,
+      "matched_evidence": [
+        "Project management for Lincoln Electric System plant construction",
+        "Experience in power delivery and energy systems",
+        "Managed multiple capital projects over $25 million"
+      ],
+      "similarity_reasoning": "Scott Koehler's expertise in power delivery and project management for vertical infrastructure projects is relevant to the energy generation component of the target project. His experience with utilities and energy systems aligns with the technical requirements. However, his geographic experience is primarily in Nebraska, which does not directly relate to South Carolina."
+    },
+    {
+      "excluded": false,
+      "people_id": "c2fa4f0b-f251-4e93-b814-6894108fbbb8",
+      "properties": {
+        "email_ids": {
+          "value": [
+            "khupf@olsson.com"
+          ],
+          "verified": false,
+          "edited_by": "system"
+        },
+        "employee_type": {
+          "value": "internal",
+          "verified": false,
+          "edited_by": "system"
+        },
+        "profile_picture": {
+          "verify": false,
+          "face_id": "65ef3df5-58f8-4c5f-93de-178c6bb555da",
+          "location": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/5259c6cf-f35c-4866-aa5e-97eb4f4c23b7/1-22_22/a97662c8-70eb-46ff-b196-d0027328ef1b.png"
+        }
+      },
+      "people_name": "Kevin Hupf",
+      "proposal_name": "Federal - SF330 People Resumes.pdf",
+      "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/2b9640c1-da47-41dd-8386-63f4a5cf220f/1-39_39/753e556c-ed21-409c-9519-bda82e1488fc.png",
+      "relevance_score": 6,
+      "matched_evidence": [
+        "Mechanical Engineer for Greenlief Training Site Transient Training Officer Quarters",
+        "Experience in mechanical engineering for infrastructure projects",
+        "Projects with Department of Defense and federal clients"
+      ],
+      "similarity_reasoning": "Kevin Hupf's experience in mechanical engineering for infrastructure projects, including energy systems, is relevant to the target project's focus on energy generation. His work on projects with the Department of Defense and other federal clients aligns with the client requirements. However, his geographic experience is primarily in Nebraska, which does not directly relate to South Carolina."
+    },
+    {
+      "excluded": false,
+      "people_id": "46b58c67-c779-4396-b3f5-c35795517805",
+      "properties": {},
+      "people_name": "John Garceau",
+      "proposal_name": "Z024-01971 Lakeside FTY03_04 DC Design and CA.pdf",
+      "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/ef01860a-4293-4266-8ccb-17fa896aa8cd/1-50_56/37b20dde-2e64-4c74-8d92-35fffd2176c4.png",
+      "relevance_score": 5,
+      "matched_evidence": [
+        "Worked on Sage Mill Industrial Park Gateway Signage in Aiken County, SC",
+        "20 years of experience in site planning and landscape architecture",
+        "Experience in South Carolina, Georgia, and other nearby states"
+      ],
+      "similarity_reasoning": "John Garceau has extensive experience in site planning and landscape architecture, particularly in South Carolina, which is relevant to the Savannah River Site project. His work on projects like the Sage Mill Industrial Park Gateway Signage in Aiken County, SC, and other infrastructure projects in the region demonstrates his capability in managing large-scale site development projects. However, his expertise is more aligned with landscape architecture rather than the specific technical requirements of AI infrastructure and energy generation."
+    },
+    {
+      "excluded": false,
+      "people_id": "93ca838c-a6c8-4172-9ca9-8b646665dfc4",
+      "properties": {
+        "employee_type": {
+          "value": "internal",
+          "verified": false,
+          "edited_by": "system"
+        },
+        "profile_picture": {
+          "verify": false,
+          "face_id": "11596a4a-69b3-4be3-9423-df8a981d3981",
+          "location": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/f0ffd1fd-326b-477e-80c4-0ceccb4b5e12/1-20_20/9b18be4f-fde9-44f0-b69d-00ef1d231745.png"
+        }
+      },
+      "people_name": "Rod Neff",
+      "proposal_name": "Federal - SF330 People Resumes.pdf",
+      "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/1b165468-975f-4bd2-bce8-8e8f25b14b99/1-26_26/389ff359-b701-4c0d-9b29-85db552a5364.png",
+      "relevance_score": 5,
+      "matched_evidence": [
+        "Surveying services for National Nuclear Security Agency project",
+        "Experience with government and infrastructure projects",
+        "28 years of experience in land surveying"
+      ],
+      "similarity_reasoning": "Rod Neff's experience as a land surveyor with projects involving the National Nuclear Security Agency and other government entities is relevant to the DOE/NNSA aspect of the target project. His expertise in surveying for infrastructure projects could support the site development at the Savannah River Site. However, his experience is primarily in Missouri, which limits his geographic relevance to South Carolina."
+    },
+    {
+      "excluded": false,
+      "people_id": "f178526a-d435-4fea-8e22-ff406d1d6424",
+      "properties": {
+        "employee_type": {
+          "value": "internal",
+          "verified": false,
+          "edited_by": "system"
+        },
+        "profile_picture": {
+          "verify": false,
+          "face_id": "9a70d851-4994-478e-ade5-ac5c7e4edce4",
+          "location": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/6dfd5e6c-eae9-4f62-a7e2-79653bd885dd/1-18_18/784e5774-7531-4503-aabb-053d37121a90.png"
+        }
+      },
+      "people_name": "Rachael Reis",
+      "proposal_name": "Federal - SF330 People Resumes.pdf",
+      "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/5c5859ed-e4a3-4dd7-afd2-2242deedf8bd/1-23_23/38414be1-38c8-4611-9819-8912fcb97ef8.png",
+      "relevance_score": 5,
+      "matched_evidence": [
+        "Phase I Environmental Site Assessment for National Nuclear Security Administration project",
+        "Experience in environmental assessments and regulatory coordination",
+        "Projects with federal oversight and environmental remediation"
+      ],
+      "similarity_reasoning": "Rachael Reis has experience in environmental assessments and regulatory coordination, which could be relevant to the environmental aspects of the Savannah River Site project. Her work with the National Nuclear Security Administration and other federal projects aligns with the client requirements. However, her geographic experience is primarily in Missouri, which does not directly relate to South Carolina."
+    },
+    {
+      "excluded": false,
+      "people_id": "360a7256-779a-4b89-abc0-6de23414f0be",
+      "properties": {
+        "employee_type": {
+          "value": "internal",
+          "verified": false,
+          "edited_by": "system"
+        }
+      },
+      "people_name": "Jen Mack",
+      "proposal_name": "Mack, Jen_Full Resume_07-2024.pdf",
+      "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/8aa9aafa-4e17-4e8e-89e9-75bfd9169365/1-3_3/8a28ff5b-2b6e-46b2-b1b7-a38c02df887c.png",
+      "relevance_score": 5,
+      "matched_evidence": [
+        "Worked on DOE Ames National Lab Infrastructure Modernization",
+        "Experience in architectural engineering and facilities design",
+        "Role in infrastructure modernization projects"
+      ],
+      "similarity_reasoning": "Jen Mack's experience in architectural engineering and her role in DOE Ames National Lab Infrastructure Modernization project is relevant to the infrastructure component of the target project. However, her experience is primarily in facilities engineering rather than AI or energy generation, and her geographic experience does not directly relate to South Carolina."
+    },
+    {
+      "excluded": false,
+      "people_id": "27b1f0bd-e61c-46fd-b375-70aac569c592",
+      "properties": {
+        "employee_type": {
+          "value": "internal",
+          "verified": false,
+          "edited_by": "system"
+        }
+      },
+      "people_name": "Elizabeth Richards",
+      "proposal_name": "Richards, Liz_Full Resume_07-2025.pdf",
+      "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/7071ff5c-8d15-440e-b41a-f59093b468b8/1-3_3/969beb1d-9fd3-4706-be0d-6a707a376cf7.png",
+      "relevance_score": 5,
+      "matched_evidence": [
+        "Experience in environmental project management and regulatory coordination",
+        "Projects with U.S. Environmental Protection Agency",
+        "Lead environmental scientist on multiple feasibility studies"
+      ],
+      "similarity_reasoning": "Elizabeth Richards' experience in environmental project management and regulatory coordination is relevant to the environmental and regulatory aspects of the Savannah River Site project. Her work with the U.S. Environmental Protection Agency and other federal projects aligns with the client requirements. However, her geographic experience is primarily in Kansas and Missouri, which does not directly relate to South Carolina."
+    },
+    {
+      "excluded": false,
+      "people_id": "dddf9056-d243-4766-873a-4ba1a2b6e06b",
+      "properties": {
+        "employee_type": {
+          "value": "internal",
+          "verified": false,
+          "edited_by": "system"
+        },
+        "profile_picture": {
+          "verify": false,
+          "face_id": "b98f9b6c-34d2-4124-8cd1-7231ef1ab78c",
+          "location": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/0e9f7bf0-a623-4a8d-b931-77a230d64561/1-32_32/5fba2554-6e9b-4702-a15b-eb093dc4ea29.png"
+        }
+      },
+      "people_name": "Mitchell Pleak",
+      "proposal_name": "Z23-04985 COJV NOAA NESDIS Wallops Command Operations Building - NEEA35002200011.pdf",
+      "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/7fd72f07-3ecc-4f5d-a451-3d34ebb5aaf3/1-30_30/1ccc9967-40a3-4a51-9eb1-708cb56bbfa2.png",
+      "relevance_score": 5,
+      "matched_evidence": [
+        "Civil Engineer for Bannister Federal Complex Redevelopment Program",
+        "Experience in civil engineering and construction administration",
+        "Projects with National Nuclear Security Administration"
+      ],
+      "similarity_reasoning": "Mitchell Pleak's experience in civil engineering and construction administration for public sector projects is relevant to the infrastructure component of the target project. His work on projects with the National Nuclear Security Administration aligns with the client requirements. However, his geographic experience is primarily in Missouri, which does not directly relate to South Carolina."
+    },
+    {
+      "excluded": false,
+      "people_id": "640804ba-7b16-46c8-9bbf-4a81238e5a95",
+      "properties": {
+        "employee_type": {
+          "value": "internal",
+          "verified": false,
+          "edited_by": "system"
+        }
+      },
+      "people_name": "Cassidy Koenig",
+      "proposal_name": "Z21-06938 Omaha NE Vision Zero Action Plan.pdf",
+      "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/caadd120-8b03-4b69-803c-6c80e2a4b334/1-3_3/5a69142a-daec-4669-b031-092f0b6cfa44.png",
+      "relevance_score": 4,
+      "matched_evidence": [
+        "Experience in GIS and data management",
+        "Proficient in ArcGIS and Trimble Trident software",
+        "Develops and maintains geodatabases for infrastructure projects"
+      ],
+      "similarity_reasoning": "Cassidy Koenig's expertise in GIS and data management could support the data center aspect of the target project. Her experience with geodatabases and asset management is relevant to infrastructure projects. However, her geographic experience is primarily in Nebraska, which does not directly relate to South Carolina."
+    }
+  ]
