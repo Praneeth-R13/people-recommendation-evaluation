@@ -1,0 +1,547 @@
+[
+    {
+      "excluded": false,
+      "people_id": "92d666a6-dd18-4550-b929-6b3c47a4e26f",
+      "properties": {
+        "role": {
+          "values": [
+            "Principal-in-Change",
+            "Principal-in-Charge"
+          ],
+          "workspace": {
+            "3055be9b-564a-442f-ae2e-4d9f7efe4d0f": "Principal-in-Charge"
+          }
+        },
+        "email_ids": {
+          "value": [
+            "shilt@brwarch.com"
+          ],
+          "verified": true
+        },
+        "employee_type": {
+          "value": "internal",
+          "verified": true
+        },
+        "profile_picture": {
+          "verify": true,
+          "face_id": "bcd68422-ef5f-41ea-aee3-a577f6514528",
+          "location": "https://fds-images-prod.s3.amazonaws.com/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/23be506b-9972-4952-9fdc-e97139b3191c/1-42_42/6ed125c9-d50e-497e-bb45-c690bbd6105b.png"
+        }
+      },
+      "people_name": "Stephen Hilt",
+      "proposal_name": "Dallas Various Rec Center Renovations_2024",
+      "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/ec8c93cd-20f3-4c50-addb-0921195664ce/1-42_42/36ba6f0e-a270-496b-ac40-69c4987b50ce.png",
+      "relevance_score": 10,
+      "matched_evidence": [
+        "Conducted feasibility studies for Fire Stations No. 1, 6, & 7",
+        "Managed upgrades to facility services for City of Grapevine",
+        "State of Texas Architectural Registration No. 22220"
+      ],
+      "similarity_reasoning": "Stephen Hilt has extensive experience in the Civic sector, particularly in feasibility studies and facility planning, which are crucial for the Town Hall and Service Center Improvements project. His work with BRW Architects for over 20 years, focusing on quality assurance and client satisfaction, aligns well with the project's goals. His project experience includes feasibility studies for fire stations and facility service center upgrades, which are directly relevant to the target project. Additionally, his certifications, including AIA and State of Texas Architectural Registration, further validate his expertise."
+    },
+    {
+      "excluded": false,
+      "people_id": "b4ad3f17-cc55-42dc-b239-7ae5589d7176",
+      "properties": {
+        "email_ids": {
+          "value": [
+            "fclifford@brwarch.com"
+          ],
+          "verified": true,
+          "edited_by": "423e53f1-7a33-4005-b155-581c1604c8b6"
+        },
+        "employee_type": {
+          "value": "internal",
+          "verified": true,
+          "edited_by": "423e53f1-7a33-4005-b155-581c1604c8b6"
+        },
+        "profile_picture": {
+          "verify": true,
+          "face_id": "9406fe6e-b0ef-44a2-8ced-269f90227269",
+          "location": "https://fds-images-prod.s3.amazonaws.com/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/1d0c714c-1b35-4d6b-995a-857ed1b192bc/1-39_39/d179b5af-e946-481b-a170-b6bae654a3ed.png"
+        }
+      },
+      "people_name": "Frederic Clifford Stephen Hilt",
+      "proposal_name": "SOQ - BRW Architects - Project No. 18-3369 - West Texas A&M Public Safety Facility.pdf",
+      "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/ec8c93cd-20f3-4c50-addb-0921195664ce/1-42_42/03fc24ad-2364-431b-a519-39b90528d54b.png",
+      "relevance_score": 10,
+      "matched_evidence": [
+        "Prosper Police Station project",
+        "Richardson Public Safety Complex project",
+        "Public Safety Annex Study in Town of Little Elm"
+      ],
+      "similarity_reasoning": "Frederic Clifford Stephen Hilt has a strong background in civic projects, with a focus on public safety and feasibility studies, which are relevant to the target project. His extensive experience with BRW Architects and his role in quality control and project management make him a suitable candidate for the Town Hall and Service Center Improvements project. His project experience includes police stations and public safety centers, which align with the civic nature of the target project."
+    },
+    {
+      "excluded": false,
+      "people_id": "b6a80bdd-65cb-47d1-9e33-336371b5105b",
+      "properties": {
+        "email_ids": {
+          "value": [
+            "swatkins@brwarch.com"
+          ],
+          "verified": true
+        },
+        "employee_type": {
+          "value": "internal",
+          "verified": true
+        },
+        "profile_picture": {
+          "verify": true,
+          "face_id": "8a4264c4-c879-4402-8db9-8587ae7f05a6",
+          "location": "https://fds-images-prod.s3.amazonaws.com/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/0fb308e4-3afe-4888-85e6-8ff81fcb8f43/1-50_69/a102e4f3-6466-4a55-844a-ac0776c381da.png"
+        }
+      },
+      "people_name": "Sam Watkins",
+      "proposal_name": "BRW Architects - RFQ No. 2024-103 Celina Fire Station No. 4.pdf",
+      "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/ec8c93cd-20f3-4c50-addb-0921195664ce/1-42_42/fb67dc8b-cada-46b2-974c-c83487b08cde.png",
+      "relevance_score": 10,
+      "matched_evidence": [
+        "Lakewood Village Town Hall Study",
+        "Lewisville Tittle McFadden Public Safety Center",
+        "Town of Lakewood Village Town Hall Feasibility Study"
+      ],
+      "similarity_reasoning": "Sam Watkins is a seasoned architect with over 20 years of experience, including work on town hall studies and public safety centers, which are relevant to the target project. His role as a Project Manager at BRW Architects and his focus on managing architectural and construction documents align with the project's requirements. His experience with feasibility studies and facility service center upgrades further supports his relevance to the project."
+    },
+    {
+      "excluded": false,
+      "people_id": "92d666a6-dd18-4550-b929-6b3c47a4e26f",
+      "properties": {
+        "role": {
+          "values": [
+            "Principal-in-Change",
+            "Principal-in-Charge"
+          ],
+          "workspace": {
+            "3055be9b-564a-442f-ae2e-4d9f7efe4d0f": "Principal-in-Charge"
+          }
+        },
+        "email_ids": {
+          "value": [
+            "shilt@brwarch.com"
+          ],
+          "verified": true
+        },
+        "employee_type": {
+          "value": "internal",
+          "verified": true
+        },
+        "profile_picture": {
+          "verify": true,
+          "face_id": "bcd68422-ef5f-41ea-aee3-a577f6514528",
+          "location": "https://fds-images-prod.s3.amazonaws.com/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/23be506b-9972-4952-9fdc-e97139b3191c/1-42_42/6ed125c9-d50e-497e-bb45-c690bbd6105b.png"
+        }
+      },
+      "people_name": "Stephen Hilt",
+      "proposal_name": "BRW Architects - Mansfield City Hall - RFQ NO. 2023-41-01-02.pdf",
+      "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/ec8c93cd-20f3-4c50-addb-0921195664ce/1-42_42/36ba6f0e-a270-496b-ac40-69c4987b50ce.png",
+      "relevance_score": 10,
+      "matched_evidence": [
+        "Town Hall Feasibility Study in Town of Lakewood Village",
+        "Strategic Facilities Plan for City of Red Oak",
+        "City Hall Annex in City of Henderson"
+      ],
+      "similarity_reasoning": "Stephen Hilt's extensive experience in civic projects, including town hall feasibility studies and strategic facilities plans, makes him highly relevant to the target project. His role as a Principal at BRW Architects and his focus on quality control and client satisfaction align with the project's goals. His project experience includes city hall annexes and public safety campuses, which are directly applicable to the Town Hall and Service Center Improvements project."
+    },
+    {
+      "excluded": false,
+      "people_id": "92d666a6-dd18-4550-b929-6b3c47a4e26f",
+      "properties": {
+        "role": {
+          "values": [
+            "Principal-in-Change",
+            "Principal-in-Charge"
+          ],
+          "workspace": {
+            "3055be9b-564a-442f-ae2e-4d9f7efe4d0f": "Principal-in-Charge"
+          }
+        },
+        "email_ids": {
+          "value": [
+            "shilt@brwarch.com"
+          ],
+          "verified": true
+        },
+        "employee_type": {
+          "value": "internal",
+          "verified": true
+        },
+        "profile_picture": {
+          "verify": true,
+          "face_id": "bcd68422-ef5f-41ea-aee3-a577f6514528",
+          "location": "https://fds-images-prod.s3.amazonaws.com/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/23be506b-9972-4952-9fdc-e97139b3191c/1-42_42/6ed125c9-d50e-497e-bb45-c690bbd6105b.png"
+        }
+      },
+      "people_name": "Kenneth Smith",
+      "proposal_name": "City of Anna Facilities Feasibility Study_2025",
+      "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/ec8c93cd-20f3-4c50-addb-0921195664ce/1-42_42/36ba6f0e-a270-496b-ac40-69c4987b50ce.png",
+      "relevance_score": 10,
+      "matched_evidence": [
+        "Lakewood Village Town Hall Feasibility & Concept Design Study",
+        "Red Oak Strategic Facilities Plan",
+        "Grand Prairie Public Works Administration Master Plan Study"
+      ],
+      "similarity_reasoning": "Kenneth Smith's experience as a Project Manager with a focus on civic projects, including town hall feasibility studies and public safety centers, aligns well with the target project. His leadership and organizational skills, along with his construction expertise, make him a strong candidate for the Town Hall and Service Center Improvements project. His project experience includes strategic facilities plans and public works administration studies, which are relevant to the project's scope."
+    },
+    {
+      "excluded": false,
+      "people_id": "41978cb3-da00-4b11-a604-0d73d8a805ff",
+      "properties": {
+        "email_ids": {
+          "value": [
+            "ksmith@brwarch.com"
+          ],
+          "verified": true,
+          "edited_by": "423e53f1-7a33-4005-b155-581c1604c8b6"
+        },
+        "employee_type": {
+          "value": "internal",
+          "verified": true,
+          "edited_by": "423e53f1-7a33-4005-b155-581c1604c8b6"
+        },
+        "profile_picture": {
+          "verify": true,
+          "face_id": "1f3bc2bc-e0eb-44da-8e22-b2cc9e66397f",
+          "location": "https://fds-images-prod.s3.amazonaws.com/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/5234a12c-b185-4d49-84c3-9769a045b306/1-48_48/8f3ad0b0-c275-4781-9305-1e71f990fa82.png"
+        }
+      },
+      "people_name": "Kenneth Smith",
+      "proposal_name": "BRW Architects_City of Dallas Police Training Academy_RFQ No. CIZ24-BCM-3073.pdf",
+      "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/ce955dc7-ea7f-47b3-8bc7-bb6dab5c8ca0/1-30_30/b3f1a9d8-276c-40b1-8989-a9b40ed8ef6a.png",
+      "relevance_score": 10,
+      "matched_evidence": [
+        "Town Hall Feasibility Study in Town of Lakewood Village",
+        "Facility Service Center Upgrades in City of Grapevine",
+        "Emergency Operation Center in City of Grand Prairie"
+      ],
+      "similarity_reasoning": "Kenneth Smith's role as a Project Manager with experience in civic projects, including town hall feasibility studies and facility service center upgrades, makes him relevant to the target project. His project management skills and experience with public safety centers and emergency operation centers align with the project's requirements. His work on town hall feasibility studies and facility service center upgrades further supports his relevance to the project."
+    },
+    {
+      "excluded": false,
+      "people_id": "41978cb3-da00-4b11-a604-0d73d8a805ff",
+      "properties": {
+        "email_ids": {
+          "value": [
+            "ksmith@brwarch.com"
+          ],
+          "verified": true,
+          "edited_by": "423e53f1-7a33-4005-b155-581c1604c8b6"
+        },
+        "employee_type": {
+          "value": "internal",
+          "verified": true,
+          "edited_by": "423e53f1-7a33-4005-b155-581c1604c8b6"
+        },
+        "profile_picture": {
+          "verify": true,
+          "face_id": "1f3bc2bc-e0eb-44da-8e22-b2cc9e66397f",
+          "location": "https://fds-images-prod.s3.amazonaws.com/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/5234a12c-b185-4d49-84c3-9769a045b306/1-48_48/8f3ad0b0-c275-4781-9305-1e71f990fa82.png"
+        }
+      },
+      "people_name": "Kenneth Smith",
+      "proposal_name": "BRW Architects_City of Denton_Combined Qualifications.pdf",
+      "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/ce955dc7-ea7f-47b3-8bc7-bb6dab5c8ca0/1-30_30/b3f1a9d8-276c-40b1-8989-a9b40ed8ef6a.png",
+      "relevance_score": 10,
+      "matched_evidence": [
+        "Lakewood Village Town Hall Feasibility Study",
+        "Lewisville Tittle McFadden Public Safety Center",
+        "Grapevine Facility Service Center Upgrades"
+      ],
+      "similarity_reasoning": "Kenneth Smith's extensive experience in project management for civic projects, including town hall feasibility studies and public safety centers, aligns well with the target project. His leadership and organizational skills, along with his construction expertise, make him a strong candidate for the Town Hall and Service Center Improvements project. His project experience includes strategic facilities plans and public works administration studies, which are relevant to the project's scope."
+    },
+    {
+      "excluded": false,
+      "people_id": "b6a80bdd-65cb-47d1-9e33-336371b5105b",
+      "properties": {
+        "email_ids": {
+          "value": [
+            "swatkins@brwarch.com"
+          ],
+          "verified": true
+        },
+        "employee_type": {
+          "value": "internal",
+          "verified": true
+        },
+        "profile_picture": {
+          "verify": true,
+          "face_id": "8a4264c4-c879-4402-8db9-8587ae7f05a6",
+          "location": "https://fds-images-prod.s3.amazonaws.com/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/0fb308e4-3afe-4888-85e6-8ff81fcb8f43/1-50_69/a102e4f3-6466-4a55-844a-ac0776c381da.png"
+        }
+      },
+      "people_name": "Sam Watkins",
+      "proposal_name": "Addison Professional Services for Various Projects_2025",
+      "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/ec8c93cd-20f3-4c50-addb-0921195664ce/1-42_42/fb67dc8b-cada-46b2-974c-c83487b08cde.png",
+      "relevance_score": 10,
+      "matched_evidence": [
+        "Lakewood Village Town Hall Feasibility Study",
+        "Lewisville Tittle McFadden Public Safety Center",
+        "Facility Service Center Upgrades in City of Grapevine"
+      ],
+      "similarity_reasoning": "Sam Watkins' extensive experience in civic projects, including town hall feasibility studies and public safety centers, makes him highly relevant to the target project. His role as a Project Manager at BRW Architects and his focus on managing architectural and construction documents align with the project's requirements. His experience with feasibility studies and facility service center upgrades further supports his relevance to the project."
+    },
+    {
+      "excluded": false,
+      "people_id": "b6a80bdd-65cb-47d1-9e33-336371b5105b",
+      "properties": {
+        "email_ids": {
+          "value": [
+            "swatkins@brwarch.com"
+          ],
+          "verified": true
+        },
+        "employee_type": {
+          "value": "internal",
+          "verified": true
+        },
+        "profile_picture": {
+          "verify": true,
+          "face_id": "8a4264c4-c879-4402-8db9-8587ae7f05a6",
+          "location": "https://fds-images-prod.s3.amazonaws.com/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/0fb308e4-3afe-4888-85e6-8ff81fcb8f43/1-50_69/a102e4f3-6466-4a55-844a-ac0776c381da.png"
+        }
+      },
+      "people_name": "Sam Watkins",
+      "proposal_name": "Weatherford Fire Station 5 DB with Sedalco_2025",
+      "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/ec8c93cd-20f3-4c50-addb-0921195664ce/1-42_42/fb67dc8b-cada-46b2-974c-c83487b08cde.png",
+      "relevance_score": 10,
+      "matched_evidence": [
+        "Lakewood Village Town Hall Feasibility Study",
+        "Lewisville Tittle McFadden Public Safety Center",
+        "Facility Service Center Upgrades in City of Grapevine"
+      ],
+      "similarity_reasoning": "Sam Watkins' extensive experience in civic projects, including town hall feasibility studies and public safety centers, makes him highly relevant to the target project. His role as a Project Manager at BRW Architects and his focus on managing architectural and construction documents align with the project's requirements. His experience with feasibility studies and facility service center upgrades further supports his relevance to the project."
+    },
+    {
+      "excluded": false,
+      "people_id": "41978cb3-da00-4b11-a604-0d73d8a805ff",
+      "properties": {
+        "email_ids": {
+          "value": [
+            "ksmith@brwarch.com"
+          ],
+          "verified": true,
+          "edited_by": "423e53f1-7a33-4005-b155-581c1604c8b6"
+        },
+        "employee_type": {
+          "value": "internal",
+          "verified": true,
+          "edited_by": "423e53f1-7a33-4005-b155-581c1604c8b6"
+        },
+        "profile_picture": {
+          "verify": true,
+          "face_id": "1f3bc2bc-e0eb-44da-8e22-b2cc9e66397f",
+          "location": "https://fds-images-prod.s3.amazonaws.com/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/5234a12c-b185-4d49-84c3-9769a045b306/1-48_48/8f3ad0b0-c275-4781-9305-1e71f990fa82.png"
+        }
+      },
+      "people_name": "Kenneth Smith",
+      "proposal_name": "BRW Architects_SOQ_City of Duncanville RFQ 24-0031.pdf",
+      "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/ce955dc7-ea7f-47b3-8bc7-bb6dab5c8ca0/1-30_30/b3f1a9d8-276c-40b1-8989-a9b40ed8ef6a.png",
+      "relevance_score": 10,
+      "matched_evidence": [
+        "Lakewood Village Town Hall Feasibility Study",
+        "Lewisville Tittle McFadden Public Safety Center",
+        "Grapevine Facility Service Center Upgrades"
+      ],
+      "similarity_reasoning": "Kenneth Smith's extensive experience in project management for civic projects, including town hall feasibility studies and public safety centers, aligns well with the target project. His leadership and organizational skills, along with his construction expertise, make him a strong candidate for the Town Hall and Service Center Improvements project. His project experience includes strategic facilities plans and public works administration studies, which are relevant to the project's scope."
+    },
+    {
+      "excluded": false,
+      "people_id": "eaa24456-ddde-4eb1-926f-9e9ba785e589",
+      "properties": {
+        "role": {
+          "values": [
+            "Project Designer"
+          ],
+          "workspace": {
+            "3055be9b-564a-442f-ae2e-4d9f7efe4d0f": "Project Designer"
+          }
+        },
+        "email_ids": {
+          "value": [
+            "csano@brwarch.com"
+          ],
+          "verified": true
+        },
+        "employee_type": {
+          "value": "internal",
+          "verified": true
+        },
+        "profile_picture": {
+          "verify": true,
+          "face_id": "0f8f92b9-d0d9-4bfc-bf2c-c987ade76473",
+          "location": "https://fds-images-prod.s3.amazonaws.com/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/23be506b-9972-4952-9fdc-e97139b3191c/1-42_42/994a6d3f-f7a8-4b34-b284-f272f260c991.png"
+        }
+      },
+      "people_name": "Chris Sano",
+      "proposal_name": "Addison Professional Services for Various Projects_2025",
+      "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/5bfaddcb-2522-4ada-b105-28547d02f0cc/1-34_34/b7bd21b8-8723-4930-9467-310c3e867f20.png",
+      "relevance_score": 10,
+      "matched_evidence": [
+        "Town of Flower Mound Strategic Facilities Plan",
+        "City of Dallas Water Delivery Service Center",
+        "Town of Lakewood Village Town Hall & Concept Design Study"
+      ],
+      "similarity_reasoning": "Chris Sano's extensive experience in civic projects, including town hall feasibility studies and public safety centers, makes him highly relevant to the target project. His role as a Design Director and Principal at BRW Architects and his focus on thoughtful design align with the project's goals. His project experience includes strategic facilities plans and public works administration studies, which are relevant to the project's scope."
+    },
+    {
+      "excluded": false,
+      "people_id": "55a0679b-2aef-4767-8689-05b66761ad20",
+      "properties": {
+        "email_ids": {
+          "value": [
+            "drwheat@brwarch.com"
+          ],
+          "verified": true,
+          "edited_by": "423e53f1-7a33-4005-b155-581c1604c8b6"
+        },
+        "employee_type": {
+          "value": "internal",
+          "verified": true,
+          "edited_by": "423e53f1-7a33-4005-b155-581c1604c8b6"
+        },
+        "profile_picture": {
+          "verify": true,
+          "face_id": "28fb37a2-fbf1-4bcb-a8d6-4cb7ca873975",
+          "location": "https://s3.amazonaws.com/fds-images-prod/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/uploaded_profile_pictures/55a0679b-2aef-4767-8689-05b66761ad20/28fb37a2-fbf1-4bcb-a8d6-4cb7ca873975.png"
+        }
+      },
+      "people_name": "Aaron Fisher",
+      "proposal_name": "TAMU Large Visual Production Stage with Oldham Goodwin_2025.pdf",
+      "profile_picture": "https://s3.amazonaws.com/fds-images-prod/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/uploaded_profile_pictures/55a0679b-2aef-4767-8689-05b66761ad20/28fb37a2-fbf1-4bcb-a8d6-4cb7ca873975.png",
+      "relevance_score": 10,
+      "matched_evidence": [
+        "Town Hall Feasibility Study in Town of Lakewood Village",
+        "Tittle McFadden Public Safety Center",
+        "Water Delivery Service Center in Dallas Water Utilities"
+      ],
+      "similarity_reasoning": "Aaron Fisher's experience in civic projects, including town hall feasibility studies and public safety centers, makes him relevant to the target project. His role as a Project Designer at BRW Architects and his focus on community-focused design align with the project's goals. His project experience includes strategic facilities plans and public works administration studies, which are relevant to the project's scope."
+    },
+    {
+      "excluded": false,
+      "people_id": "b6a80bdd-65cb-47d1-9e33-336371b5105b",
+      "properties": {
+        "email_ids": {
+          "value": [
+            "swatkins@brwarch.com"
+          ],
+          "verified": true
+        },
+        "employee_type": {
+          "value": "internal",
+          "verified": true
+        },
+        "profile_picture": {
+          "verify": true,
+          "face_id": "8a4264c4-c879-4402-8db9-8587ae7f05a6",
+          "location": "https://fds-images-prod.s3.amazonaws.com/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/0fb308e4-3afe-4888-85e6-8ff81fcb8f43/1-50_69/a102e4f3-6466-4a55-844a-ac0776c381da.png"
+        }
+      },
+      "people_name": "Sam Watkins",
+      "proposal_name": "City of Denison Fire 1 and 4.pdf",
+      "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/ec8c93cd-20f3-4c50-addb-0921195664ce/1-42_42/fb67dc8b-cada-46b2-974c-c83487b08cde.png",
+      "relevance_score": 10,
+      "matched_evidence": [
+        "Lakewood Village Town Hall Feasibility Study",
+        "Lewisville Tittle McFadden Public Safety Center",
+        "Facility Service Center Upgrades in City of Grapevine"
+      ],
+      "similarity_reasoning": "Sam Watkins' extensive experience in civic projects, including town hall feasibility studies and public safety centers, makes him highly relevant to the target project. His role as a Project Manager at BRW Architects and his focus on managing architectural and construction documents align with the project's requirements. His experience with feasibility studies and facility service center upgrades further supports his relevance to the project."
+    },
+    {
+      "excluded": false,
+      "people_id": "41978cb3-da00-4b11-a604-0d73d8a805ff",
+      "properties": {
+        "email_ids": {
+          "value": [
+            "ksmith@brwarch.com"
+          ],
+          "verified": true,
+          "edited_by": "423e53f1-7a33-4005-b155-581c1604c8b6"
+        },
+        "employee_type": {
+          "value": "internal",
+          "verified": true,
+          "edited_by": "423e53f1-7a33-4005-b155-581c1604c8b6"
+        },
+        "profile_picture": {
+          "verify": true,
+          "face_id": "1f3bc2bc-e0eb-44da-8e22-b2cc9e66397f",
+          "location": "https://fds-images-prod.s3.amazonaws.com/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/5234a12c-b185-4d49-84c3-9769a045b306/1-48_48/8f3ad0b0-c275-4781-9305-1e71f990fa82.png"
+        }
+      },
+      "people_name": "Kenneth Smith",
+      "proposal_name": "BRW Architects_City of Denton_Combined Qualifications.pdf",
+      "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/ce955dc7-ea7f-47b3-8bc7-bb6dab5c8ca0/1-30_30/b3f1a9d8-276c-40b1-8989-a9b40ed8ef6a.png",
+      "relevance_score": 10,
+      "matched_evidence": [
+        "Lakewood Village Town Hall Feasibility Study",
+        "Lewisville Tittle McFadden Public Safety Center",
+        "Grapevine Facility Service Center Upgrades"
+      ],
+      "similarity_reasoning": "Kenneth Smith's extensive experience in project management for civic projects, including town hall feasibility studies and public safety centers, aligns well with the target project. His leadership and organizational skills, along with his construction expertise, make him a strong candidate for the Town Hall and Service Center Improvements project. His project experience includes strategic facilities plans and public works administration studies, which are relevant to the project's scope."
+    },
+    {
+      "excluded": false,
+      "people_id": "05a3890d-f08a-4b1e-b91d-0621cfd056e3",
+      "properties": {
+        "email_ids": {
+          "value": [
+            "ksvoboda@brwarch.com"
+          ],
+          "verified": true,
+          "edited_by": "423e53f1-7a33-4005-b155-581c1604c8b6"
+        },
+        "employee_type": {
+          "value": "internal",
+          "verified": true,
+          "edited_by": "423e53f1-7a33-4005-b155-581c1604c8b6"
+        },
+        "profile_picture": {
+          "verify": true,
+          "face_id": "afca5b46-1402-4848-958c-7bb6893e485b",
+          "location": "https://fds-images-prod.s3.amazonaws.com/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/aecb346d-ca9b-4598-b354-4a9c8f4d8917/51-75_75/900a54f9-30b5-4ae8-8d70-2ef9e0e63bea.png"
+        }
+      },
+      "people_name": "Kasi Svoboda",
+      "proposal_name": "City of Denton Fire Stations_2024",
+      "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/6bef8f6a-c688-483b-bd8a-1b5da4168350/1-46_46/e85f636a-f832-4782-a076-90514d728506.png",
+      "relevance_score": 10,
+      "matched_evidence": [
+        "Lakewood Village Town Hall Feasibility Study",
+        "Dallas Water Utilities Emergency Response Service Center",
+        "Grapevine Facility Service Center Upgrades"
+      ],
+      "similarity_reasoning": "Kasi Svoboda's experience as a Project Architect with a focus on civic projects, including town hall feasibility studies and public safety centers, aligns well with the target project. Her certifications, including AIA and LEED AP BD+C, further validate her expertise. Her project experience includes facility service center upgrades and emergency response service centers, which are relevant to the project's scope."
+    },
+    {
+      "excluded": false,
+      "people_id": "14105201-78c9-4c76-af26-7383100ebb7c",
+      "properties": {
+        "email_ids": {
+          "value": [
+            "afisher@brwarch.com"
+          ],
+          "verified": true
+        },
+        "employee_type": {
+          "value": "internal",
+          "verified": true
+        },
+        "profile_picture": {
+          "verify": true,
+          "face_id": "1e7ab4f2-6861-41f9-863d-cc13cbce09be",
+          "location": "https://fds-images-prod.s3.amazonaws.com/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/b91883f0-f6e7-421b-9b23-224bfe9f5bd9/1-34_34/2b01e344-80d9-4cdc-b42e-5c27659f4431.png"
+        }
+      },
+      "people_name": "Aaron Fisher",
+      "proposal_name": "TAMU Large Production Stage-Developer Lead with Oldham Goodwin.pdf",
+      "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/5bfaddcb-2522-4ada-b105-28547d02f0cc/1-34_34/aa98efa0-5c60-441d-9648-cea73d8032fd.png",
+      "relevance_score": 10,
+      "matched_evidence": [
+        "Town Hall Feasibility Study in Town of Lakewood Village",
+        "Tittle McFadden Public Safety Center",
+        "Water Delivery Service Center in Dallas Water Utilities"
+      ],
+      "similarity_reasoning": "Aaron Fisher's experience in civic projects, including town hall feasibility studies and public safety centers, makes him relevant to the target project. His role as a Project Designer at BRW Architects and his focus on community-focused design align with the project's goals. His project experience includes strategic facilities plans and public works administration studies, which are relevant to the project's scope."
+    }
+  ]

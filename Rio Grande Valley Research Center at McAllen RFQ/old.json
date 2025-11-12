@@ -1,0 +1,132 @@
+[
+    {
+      "excluded": false,
+      "people_id": "c36513ad-ada5-4c09-b7e9-7b6e1d1dc85b",
+      "properties": {
+        "email_ids": {
+          "value": [
+            "avela@brwarch.com"
+          ],
+          "verified": true
+        },
+        "employee_type": {
+          "value": "internal",
+          "verified": true
+        },
+        "profile_picture": {
+          "verify": true,
+          "face_id": "7ee5e503-6f8e-4275-8936-3bff9df2be73",
+          "location": "https://fds-images-prod.s3.amazonaws.com/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/73badf76-87d9-4110-9642-ad2e48c0639e/1-50_72/6d888e6c-761b-48b1-9eb7-978dee380967.png"
+        }
+      },
+      "people_name": "Andres Vela",
+      "proposal_name": "McAllen ISD On-Call_2025.pdf",
+      "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/5a27ec23-56d0-4668-87d2-d48054483d3d/1-50_76/721b7e91-8d9e-4711-98e0-b3659a33ae12.png",
+      "relevance_score": 10,
+      "matched_evidence": [
+        "Leader of BRW's local office, dedicated to supporting educational mission of McAllen ISD",
+        "South Texas College Cooper Center for Performing Arts, Rio Grande Valley",
+        "Rio Bank Offices, Rio Grande Valley",
+        "State of Texas Architectural Registration No. 29960",
+        "Master of Architecture, Texas A&M University"
+      ],
+      "similarity_reasoning": "Andres Vela has extensive experience working in McAllen, Texas, which is the location of the target project. His role as a project architect and construction administrator at BRW Architects, along with his leadership in the local office, aligns well with the project's needs. His involvement in educational and community-focused projects, such as the South Texas College Cooper Center for Performing Arts and Rio Bank Offices in the Rio Grande Valley, demonstrates his capability to handle similar projects. Additionally, his education from Texas A&M University and his architectural registration in Texas further strengthen his relevance."
+    },
+    {
+      "excluded": false,
+      "people_id": "b5990f72-a871-4d91-87e5-f83d139a00dc",
+      "properties": {
+        "email_ids": {
+          "value": [
+            "mwatford@brwarch.com"
+          ],
+          "verified": true
+        },
+        "employee_type": {
+          "value": "internal",
+          "verified": true
+        },
+        "profile_picture": {
+          "verify": true,
+          "face_id": "fce2b1b3-6dfa-4933-b2d1-31930303e4ae",
+          "location": "https://fds-images-prod.s3.amazonaws.com/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/78df0d5a-fac1-4349-b489-979f29640698/1-50_59/8dc3891e-f917-4d13-a853-da62828497f8.png"
+        }
+      },
+      "people_name": "Mark Watford",
+      "proposal_name": "Texas State Infrastructure Research Lab_2020",
+      "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/40afc2f5-cabb-464d-a586-a76300dde95e/51-100_124/efc0d828-e58f-4f94-b45a-1081bd90472f.png",
+      "relevance_score": 9,
+      "matched_evidence": [
+        "Principal-In-Charge of Operations with expertise in quality control",
+        "Texas A&M University College Station, Interdisciplinary Life Sciences Building",
+        "State of Texas Architectural Registration No. 9241"
+      ],
+      "similarity_reasoning": "Mark Watford's extensive experience in managing institutional and governmental facilities projects aligns well with the target project's requirements. His role as Principal-In-Charge of Operations at BRW Architects and his experience with Texas A&M University projects, such as the Interdisciplinary Life Sciences Building, demonstrate his capability to manage complex projects in the higher education sector. His architectural registration in Texas and his focus on quality control and timely project delivery further enhance his relevance."
+    },
+    {
+      "excluded": false,
+      "people_id": "91d523bd-426a-49e8-8ae4-66cbe7beb70b",
+      "properties": {
+        "email_ids": {
+          "value": [
+            "lwatkins@brwarch.com"
+          ],
+          "verified": true
+        },
+        "employee_type": {
+          "value": "internal",
+          "verified": true
+        },
+        "profile_picture": {
+          "verify": true,
+          "face_id": "b49464bd-2d77-4062-8880-3425b4ce796f",
+          "location": "https://fds-images-prod.s3.amazonaws.com/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/e2f01f21-6736-4a5a-96e1-c2eb1b45f962/1-20_20/bd7377cd-5981-413d-88f6-678e59c3a64b.png"
+        }
+      },
+      "people_name": "Lawrence Watkins",
+      "proposal_name": "SHSU Health Professions Building with Kahler Slater.pdf",
+      "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/071052d1-073f-49c6-bea7-76f745260de5/1-50_83/3e39b1a2-2e7c-44a9-b459-5a9d8afbdab3.png",
+      "relevance_score": 8,
+      "matched_evidence": [
+        "30+ years of experience with strong leadership and technical knowledge",
+        "School of Medicine Center for Human Genetics, The University of Texas Rio Grande Valley",
+        "Compliance with Texas Accessibility Standards",
+        "AIA, LEED AP BD+C certifications"
+      ],
+      "similarity_reasoning": "Lawrence Watkins brings over 30 years of experience in architectural and construction document production, with a focus on educational and institutional projects. His work on projects like the School of Medicine Center for Human Genetics at The University of Texas Rio Grande Valley and his compliance with Texas Accessibility Standards make him a strong candidate for the target project. His residence in Texas and his certifications, including AIA and LEED AP BD+C, further support his relevance."
+    },
+    {
+      "excluded": false,
+      "people_id": "bece84cb-66c3-475b-8ffa-3836b5acb68b",
+      "properties": {
+        "email_ids": {
+          "value": [
+            "creynolds@brwarch.com"
+          ],
+          "verified": true,
+          "edited_by": "423e53f1-7a33-4005-b155-581c1604c8b6"
+        },
+        "employee_type": {
+          "value": "internal",
+          "verified": true,
+          "edited_by": "423e53f1-7a33-4005-b155-581c1604c8b6"
+        },
+        "profile_picture": {
+          "verify": true,
+          "face_id": "a3fbe81a-49ae-4787-896e-37507820d091",
+          "location": "https://fds-images-prod.s3.amazonaws.com/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/422e6230-50ee-4029-9916-e9f6722b65c5/1-50_83/a8a021e0-8d99-4b17-b06b-494e5e1d0bf2.png"
+        }
+      },
+      "people_name": "Craig S. Reynolds",
+      "proposal_name": "UTA Athletics Master Plan with OOMA and Paige Design Group.pdf",
+      "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/7df8ed7b-c558-491d-a746-3de05f3be744/1-46_46/d80bb177-8e72-42f9-aa55-ce151ada0740.png",
+      "relevance_score": 8,
+      "matched_evidence": [
+        "Executive Principal at BRW Architects with 35-year career",
+        "Liberal Arts and Humanities Building, Texas A&M University",
+        "Music Activities Center, Texas A&M University",
+        "Recognized with numerous awards including AIA Fellowship"
+      ],
+      "similarity_reasoning": "Craig S. Reynolds has a distinguished career in higher education projects, making him highly relevant to the target project. His leadership in projects at Texas A&M University, such as the Liberal Arts and Humanities Building and the Music Activities Center, showcases his ability to manage complex educational facilities. His recognition with numerous awards and his role as Executive Principal at BRW Architects further highlight his expertise and suitability for the project."
+    }
+  ]

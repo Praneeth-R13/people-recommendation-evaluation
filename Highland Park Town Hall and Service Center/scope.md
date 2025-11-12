@@ -1,0 +1,12 @@
+# Summary
+The Town of Highland Park, Texas, is seeking Statements of Qualifications from qualified professional architectural, engineering, and planning firms to conduct a comprehensive Feasibility and Facility Assessment. The primary objective is to plan for the expansion and renovation of the historic Town Hall and the Service Center Campus to meet current and future operational needs. This includes assessing existing conditions, evaluating expansion options, providing space programming, recommending phased implementation, and ensuring the preservation of historic elements while upgrading facilities to modern standards.
+The project aims to address the modernization and functional upgrades required for both the Town Hall, which serves as the administrative center and houses various municipal departments, and the Town Service Center, which supports infrastructure and open space maintenance programs. The selected firm will need to demonstrate expertise in historic preservation, municipality facility planning, campus development, and designing modern public safety and service facilities.
+
+
+# Scope
+The project scope includes a comprehensive Facility and Site Assessment of the Town Hall and Service Center Campus, involving review of existing data, on-site inspections, evaluation of building systems (HVAC, plumbing, electrical, IT, energy use, ADA compliance), and identification of structural, safety, and code compliance issues. A Space Needs Analysis will be conducted to understand current and future space needs, evaluate operational flow, and provide recommendations for improving workflow and efficient use of space.
+Historic Preservation Considerations will involve documenting architectural and historical features of Town Hall, assessing impacts of potential renovations on historic integrity, and recommending strategies consistent with architectural character. Conceptual Design and Options will be developed, including layouts for renovation, addition, and new construction scenarios, addressing sustainability and energy efficiency. Cost Estimation and Phasing will provide probable costs and phasing strategies. The selected firm will also be responsible for presentations to the Town Council and staff, and delivering a comprehensive Final Report summarizing findings, designs, cost estimates, and recommendations.
+
+RFX ID: `baa9e82f-a31d-4f2a-9600-945f10f6a341`
+
+Domain ID: `b6390e6e-190a-4b6d-8bf1-d9181ad0ec53`

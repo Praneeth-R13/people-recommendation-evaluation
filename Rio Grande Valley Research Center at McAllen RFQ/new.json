@@ -1,0 +1,1462 @@
+[
+    {
+        "people_name": "Craig Reynolds",
+        "position": "",
+        "people_id": "bece84cb-66c3-475b-8ffa-3836b5acb68b",
+        "face_group_id": null,
+        "thumbnail_url": null,
+        "qualification": null,
+        "experience_years": null,
+        "expertise_areas": [],
+        "similar_project_experience": [
+            {
+                "project_name": "Dallas Housing Authority Headquarters Master Plan and Addition",
+                "project_type": "",
+                "project_description": "A 24,000 sf expansion study for the DHA Headquarters, the expansion includes a flexible multipurpose room to serve events up to 300 people, an executive suite for conferences and board briefings, along with open office and various support rooms including break, training, conference and storage; Project Principal",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "",
+                "project_value": "",
+                "relevance_score": 1.0
+            },
+            {
+                "project_name": "Texas A&M; Health Science Center College of Dentistry",
+                "project_type": "",
+                "project_description": "Clinical Environments, Specialized Labs, Classrooms, Clinical Support Areas, Student-Centered Spaces. Size: 280,959 SF | Program New Construction 7,955 SF | Program Renovations; Cost: $91,000,000; Project Principal",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "",
+                "project_value": "",
+                "relevance_score": 1.0
+            },
+            {
+                "project_name": "University of Texas at Arlington E.H. Hereford University Center Expansion",
+                "project_type": "",
+                "project_description": "Multi-Purpose Lobby & Event Space, Exterior Gathering and Pedestrian Circulation, Re-skinned Exterior Walls, Reconfigured Campus Drive Entry; Size:10,000 SF; Cost: $8,000,000 Masterplanned: $85,000,000; Project Principal",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "",
+                "project_value": "",
+                "relevance_score": 1.0
+            },
+            {
+                "project_name": "Texas A&M; Transportation Institute State Headquarters",
+                "project_type": "",
+                "project_description": "Administrative and Research Offices, Conference Rooms, Research Labs, Shell Space for Future Tenants Size: 70,000 SF; Cost: $15,500,000; Project Principal",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "",
+                "project_value": "",
+                "relevance_score": 1.0
+            },
+            {
+                "project_name": "Dallas Housing Authority, Frazier Courts Head Start",
+                "project_type": "",
+                "project_description": "The new Head Start facility within the Frazier Fellowship redevelopment is an 8 classroom facility for infants through four year olds in the center of the neighborhood. Community rooms provide meeting space and parental support programs. The Head Start is a focal point and catalyst for establishing a new beginning for the Frazier neighborhood; Project Principal",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "",
+                "project_value": "",
+                "relevance_score": 1.0
+            }
+        ],
+        "relevance_score": 1.0,
+        "similarity_reasoning": "Craig Reynolds is a Principal-in-Charge with 40 years of industry experience, including 38 years at Brown Reynolds Watford Architects. He holds advanced degrees from Texas A&M University and is NCARB certified. His project leadership includes the 'Texas A&M Health Science Center College of Dentistry', 'Texas A&M Transportation Institute State Headquarters', and 'University of Texas at Arlington E.H. Hereford University Center Expansion', all large-scale, complex institutional projects with research, clinical, and student spaces. His deep experience in higher education and research facilities, especially for Texas A&M, makes him exceptionally well-suited for this project.",
+        "justification": [
+            "Extensive leadership in large, complex higher education and research projects (e.g., 'Texas A&M Health Science Center College of Dentistry')",
+            "Deep familiarity with Texas A&M University systems and requirements",
+            "NCARB certification and advanced architectural education",
+            "Proven track record in delivering projects with research labs, clinical spaces, and student-centered environments"
+        ],
+        "proposal_name": "DHA RFQ-2022-09 - BRW Architects.pdf",
+        "source_page": 15,
+        "properties": {
+            "email_ids": {
+                "value": [
+                    "creynolds@brwarch.com"
+                ],
+                "verified": true,
+                "edited_by": "423e53f1-7a33-4005-b155-581c1604c8b6"
+            },
+            "employee_type": {
+                "value": "internal",
+                "verified": true,
+                "edited_by": "423e53f1-7a33-4005-b155-581c1604c8b6"
+            },
+            "profile_picture": {
+                "verify": true,
+                "face_id": "a3fbe81a-49ae-4787-896e-37507820d091",
+                "location": "https://fds-images-prod.s3.amazonaws.com/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/422e6230-50ee-4029-9916-e9f6722b65c5/1-50_83/a8a021e0-8d99-4b17-b06b-494e5e1d0bf2.png"
+            }
+        },
+        "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/7df8ed7b-c558-491d-a746-3de05f3be744/1-46_46/d80bb177-8e72-42f9-aa55-ce151ada0740.png"
+    },
+    {
+        "people_name": "Jacob Fritsch",
+        "position": "",
+        "people_id": "92fe83bf-ec0a-43bd-8081-f85c55b7a4be",
+        "face_group_id": null,
+        "thumbnail_url": null,
+        "qualification": null,
+        "experience_years": null,
+        "expertise_areas": [],
+        "similar_project_experience": [
+            {
+                "project_name": "Ballistic Aero Optics Materials Facility",
+                "project_type": "",
+                "project_description": "Contained test environment facility that bridges the gap between lab-scale and government-scale research for technology development",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Texas A&M; University, TEES, RELLIS Campus",
+                "project_value": "$20,277,000",
+                "relevance_score": 0.9825
+            },
+            {
+                "project_name": "RELLIS Innovative Technologies Development Complex",
+                "project_type": "",
+                "project_description": "Features prototyping lab, electrical labs and integration space. Also includes spaces for modeling/sim, data analytics, cyber security and a test/evaluation fusion center",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Texas A&M; University",
+                "project_value": "$80,000,000",
+                "relevance_score": 0.9825
+            },
+            {
+                "project_name": "Zachry Engineering Education Center",
+                "project_type": "",
+                "project_description": "Complete renovation of an existing 300,000 SF building with a 200,000 addition.",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Texas A&M; University",
+                "project_value": "$135,000,000",
+                "relevance_score": 0.9825
+            },
+            {
+                "project_name": "RELLIS Campus Master Plan",
+                "project_type": "",
+                "project_description": "2,000-acre campus master plan update Utilizes partnerships with Texas A&M; University System, Blinn College, workforce training organizations and private sector institutions",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Texas A&M; University",
+                "project_value": "",
+                "relevance_score": 0.9825
+            },
+            {
+                "project_name": "21st Century Classroom Building",
+                "project_type": "",
+                "project_description": "Houses 2,200 general purpose classroom seats, lobby, market, collaboration spaces, study rooms, mezzanine study lounge, and arenas",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Texas A&M; University",
+                "project_value": "$62,428,000",
+                "relevance_score": 0.9825
+            },
+            {
+                "project_name": "RELLIS Campus, Industrial Distribution Building No. 1",
+                "project_type": "",
+                "project_description": "Features talent incubator, sales excellence laboratory, and industry capstone program",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Texas A&M; University",
+                "project_value": "$18,640,000",
+                "relevance_score": 0.9825
+            },
+            {
+                "project_name": "Dentistry Clinical Education Facility",
+                "project_type": "",
+                "project_description": "355 operations ranging from general practice to labs, classrooms, student spaces, offices and surgery units.",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Texas A&M; Health Science Center",
+                "project_value": "$127,500,000",
+                "relevance_score": 0.9825
+            },
+            {
+                "project_name": "Peterson Building Renovation - College of Engineering",
+                "project_type": "",
+                "project_description": "Building renovation of an older lab building with deferred maintenance issues. Designed to become office, lab, collaboration classroom building.",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Texas A&M; University",
+                "project_value": "$18,423,700",
+                "relevance_score": 0.9825
+            },
+            {
+                "project_name": "Applied Sciences Building",
+                "project_type": "",
+                "project_description": "Three-story building consisting of classrooms and offices for the various Engineering Colleges",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Tarleton State University",
+                "project_value": "$40,227,000",
+                "relevance_score": 0.9825
+            },
+            {
+                "project_name": "Plant Pathology and Microbiology Building",
+                "project_type": "",
+                "project_description": "The new building will include two plant pathology instructional labs, one bio-environmental instructional lab, teaching support spaces, 20 general research spaces with additional support spaces, an integral greenhouse, two multipurpose seminar rooms, one multipurpose flat-floor auditorium and administrative offices.",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Texas A&M; University",
+                "project_value": "$42,500,000",
+                "relevance_score": 0.9825
+            },
+            {
+                "project_name": "Education, Research, and Technology",
+                "project_type": "",
+                "project_description": "Design for research labs, translational research classrooms, offices, and support spaces",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Texas Tech University Health Science Center, Lubbock",
+                "project_value": "$91,375,000",
+                "relevance_score": 0.9825
+            }
+        ],
+        "relevance_score": 0.9825,
+        "similarity_reasoning": "Jacob Fritsch is a Mechanical Engineer with 6 years of experience, primarily at Prestige Engineering Services. He has worked on several large-scale, complex research and education facilities, including the 'Ballistic Aero Optics Materials Facility', 'RELLIS Innovative Technologies Development Complex', and 'Zachry Engineering Education Center'. His experience includes designing research labs, prototyping spaces, and educational buildings, many for Texas A&M University, aligning closely with the requirements for a new Research and Student Center Facility. His technical background in mechanical systems is highly relevant for the state-of-the-art laboratory and building systems required for this project.",
+        "justification": [
+            "Extensive experience with research and laboratory facilities (e.g., 'Ballistic Aero Optics Materials Facility', 'RELLIS Innovative Technologies Development Complex')",
+            "Strong background in mechanical engineering, crucial for piped services, exhaust, power, and data systems",
+            "Experience with Texas A&M University projects, ensuring familiarity with institutional requirements and traditions",
+            "Proven ability to deliver complex, high-value projects in higher education and research sectors"
+        ],
+        "proposal_name": "28-3231 Texas A&M Engineering Experiment Station - Qualifications - BRW Architects.pdf",
+        "source_page": 16,
+        "properties": {
+            "employee_type": {
+                "type": "employee_type",
+                "value": "external"
+            }
+        },
+        "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/78df0d5a-fac1-4349-b489-979f29640698/1-50_59/d987c930-a644-4661-bc2b-bb7ae59a9471.png"
+    },
+    {
+        "people_name": "Mark Watford",
+        "position": ", ",
+        "people_id": "b5990f72-a871-4d91-87e5-f83d139a00dc",
+        "face_group_id": null,
+        "thumbnail_url": null,
+        "qualification": null,
+        "experience_years": null,
+        "expertise_areas": [],
+        "similar_project_experience": [
+            {
+                "project_name": "Liberal Arts & Humanities Building",
+                "project_type": "",
+                "project_description": "Administrative & Faculty Offices, Student Collaboration, Music and Theatre Arts Performance and Rehearsal",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Texas A&M University",
+                "project_value": "$34,500,000",
+                "relevance_score": 0.9775
+            },
+            {
+                "project_name": "Texas A&M Transportation Institute State Headquarters & Research Building - LEED GOLD",
+                "project_type": "",
+                "project_description": "Administrative and Research Offices, Conference Rooms, Research Labs, Shell Space for Future Tenants",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Texas A&M University",
+                "project_value": "$15,500,000",
+                "relevance_score": 0.9775
+            },
+            {
+                "project_name": "Music Education Building",
+                "project_type": "",
+                "project_description": "Administrative & Faculty Offices, Conference Rooms, Student Collaboration, Music Rehearsal and Performance",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Texas A&M University-Kingsville",
+                "project_value": "$40,200,000",
+                "relevance_score": 0.9775
+            },
+            {
+                "project_name": "General Academic and Music Building",
+                "project_type": "",
+                "project_description": "Active Learning Classrooms, speech lab, computer labs, music rehearsal, student collaboration space",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Del Mar College",
+                "project_value": "$44,625,000",
+                "relevance_score": 0.9775
+            },
+            {
+                "project_name": "Student Support Services Building (Unbuilt)",
+                "project_type": "",
+                "project_description": "Administrative & Faculty Offices, Student Services, Multi-Purpose Event Space with Catering Kitchen, University Police Department",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Texas A&M University-Kingsville",
+                "project_value": "$11,800,000",
+                "relevance_score": 0.9775
+            },
+            {
+                "project_name": "Evans Library & Library Annex Renovations",
+                "project_type": "",
+                "project_description": "Administrative & Faculty Offices, Flexible Multi-Purpose Classrooms / Presentation Space, Conservation Lab, Multi-Media",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Texas A&M University",
+                "project_value": "$5,872,000",
+                "relevance_score": 0.9775
+            },
+            {
+                "project_name": "Francis Hall Restoration",
+                "project_type": "",
+                "project_description": "Administrative & Faculty Offices, Labs Simulating 'Professional' Environments, Flexible Classrooms, BIM Cave Visualization Lab",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Texas A&M University",
+                "project_value": "$7,200,000",
+                "relevance_score": 0.9775
+            },
+            {
+                "project_name": "Polytechnic High School Addition & Renovations",
+                "project_type": "",
+                "project_description": "Science Classroom Addition, Fine Arts Addition Including Band and Ensemble Rehearsal, Food Service Addition",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Fort Worth ISD",
+                "project_value": "$39,300,000",
+                "relevance_score": 0.9775
+            },
+            {
+                "project_name": "Music Activities Center",
+                "project_type": "",
+                "project_description": "Administrative & Faculty Offices, Multi-Purpose Band Hall / Event Space, Student Collaboration, Music Rehearsal",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Texas A&M University",
+                "project_value": "$31,796,000",
+                "relevance_score": 0.9775
+            },
+            {
+                "project_name": "Bryan Adams High School Addition",
+                "project_type": "",
+                "project_description": "Administrative and Staff Offices, Classrooms, Fine Arts Addition for Band, Choir & Orchestra, Athletics Addition, ICC 500 Storm Shelter",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Dallas ISD",
+                "project_value": "$55,980,000",
+                "relevance_score": 0.9775
+            }
+        ],
+        "relevance_score": 0.9775,
+        "similarity_reasoning": "Mark Watford is a Principal-In-Charge of Operations with 36 years of experience at BRW Architects. He has led numerous higher education and research projects, including the 'Texas A&M Transportation Institute State Headquarters & Research Building - LEED GOLD', 'Francis Hall Restoration', and 'Liberal Arts & Humanities Building'. His portfolio demonstrates expertise in research labs, administrative offices, student collaboration spaces, and sustainable design. His leadership and operational oversight are highly relevant for a complex, multi-phase project like the Research and Student Center Facility.",
+        "justification": [
+            "Leadership in large-scale, complex institutional projects (e.g., 'Texas A&M Transportation Institute State Headquarters & Research Building - LEED GOLD')",
+            "Experience with research labs, flexible classrooms, and student collaboration spaces",
+            "Familiarity with Texas A&M University projects and requirements",
+            "Expertise in sustainable and energy-efficient design practices"
+        ],
+        "proposal_name": "28-3231 Texas A&M Engineering Experiment Station - Qualifications - BRW Architects.pdf",
+        "source_page": 12,
+        "properties": {
+            "email_ids": {
+                "value": [
+                    "mwatford@brwarch.com"
+                ],
+                "verified": true
+            },
+            "employee_type": {
+                "value": "internal",
+                "verified": true
+            },
+            "profile_picture": {
+                "verify": true,
+                "face_id": "fce2b1b3-6dfa-4933-b2d1-31930303e4ae",
+                "location": "https://fds-images-prod.s3.amazonaws.com/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/78df0d5a-fac1-4349-b489-979f29640698/1-50_59/8dc3891e-f917-4d13-a853-da62828497f8.png"
+            }
+        },
+        "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/40afc2f5-cabb-464d-a586-a76300dde95e/51-100_124/efc0d828-e58f-4f94-b45a-1081bd90472f.png"
+    },
+    {
+        "people_name": "Andrew Evertson",
+        "position": "",
+        "people_id": "61ad6261-192e-4e98-bedb-ed1f35300b8c",
+        "face_group_id": null,
+        "thumbnail_url": null,
+        "qualification": null,
+        "experience_years": null,
+        "expertise_areas": [],
+        "similar_project_experience": [
+            {
+                "project_name": "Maedgen Theatre Addition / Renovation",
+                "project_type": "",
+                "project_description": "Music & Theatre Rehearsal & Performance, Black Box Theatre, Classrooms, Labs, Scene Shop, Green Room / Dressing Rooms",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Texas Tech University",
+                "project_value": "$34,500,000",
+                "relevance_score": 0.9650000000000001
+            },
+            {
+                "project_name": "College Of Music Master Plan and Feasibility Study",
+                "project_type": "",
+                "project_description": "",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "University Of North Texas",
+                "project_value": "",
+                "relevance_score": 0.9650000000000001
+            },
+            {
+                "project_name": "College of Visual and Performing Arts Master Plan",
+                "project_type": "",
+                "project_description": "Master Plan, Programming, and Feasibility Study to relocate, renovate, and provide new facilities for Theatre, Art, Music and Dance",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Texas Tech University",
+                "project_value": "",
+                "relevance_score": 0.9650000000000001
+            },
+            {
+                "project_name": "Evans Library Complex Renovation",
+                "project_type": "",
+                "project_description": "",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Texas A&M University",
+                "project_value": "",
+                "relevance_score": 0.9650000000000001
+            },
+            {
+                "project_name": "Mitte Engineering Building Renovation",
+                "project_type": "",
+                "project_description": "",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Texas State University",
+                "project_value": "",
+                "relevance_score": 0.9650000000000001
+            },
+            {
+                "project_name": "Alkek Library Learning Commons Renovations",
+                "project_type": "",
+                "project_description": "82,600 SF Design, Visualization & Fabrication Labs, Multi-Media Creation & Editing Labs, Active Learning Classrooms",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Texas State University",
+                "project_value": "$5,805,000",
+                "relevance_score": 0.9650000000000001
+            },
+            {
+                "project_name": "Francis Hall Historical Restoration",
+                "project_type": "",
+                "project_description": "",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Texas A&M University",
+                "project_value": "",
+                "relevance_score": 0.9650000000000001
+            },
+            {
+                "project_name": "San Jacinto Memorial Building Restoration",
+                "project_type": "",
+                "project_description": "",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Houston Community College",
+                "project_value": "",
+                "relevance_score": 0.9650000000000001
+            },
+            {
+                "project_name": "Early College High School",
+                "project_type": "",
+                "project_description": "45,000 SF Classrooms, Labs, Administrative Offices, Multi-Purpose Classroom, Food Service",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Dallas College - Mountain View Campus",
+                "project_value": "$17,100,000",
+                "relevance_score": 0.9650000000000001
+            },
+            {
+                "project_name": "Liberal Arts and Humanities Building",
+                "project_type": "",
+                "project_description": "",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Texas A&M University",
+                "project_value": "",
+                "relevance_score": 0.9650000000000001
+            },
+            {
+                "project_name": "El Centro - West Campus",
+                "project_type": "",
+                "project_description": "",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Dallas Community College District",
+                "project_value": "",
+                "relevance_score": 0.9650000000000001
+            },
+            {
+                "project_name": "State Headquarters & Research Building",
+                "project_type": "",
+                "project_description": "",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Texas A&M Transportation Institute",
+                "project_value": "",
+                "relevance_score": 0.9650000000000001
+            },
+            {
+                "project_name": "Student Support Services Building",
+                "project_type": "",
+                "project_description": "",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Texas A&M University-Kingsville",
+                "project_value": "",
+                "relevance_score": 0.9650000000000001
+            },
+            {
+                "project_name": "Music Building",
+                "project_type": "",
+                "project_description": "90,000 SF Music Rehearsal And Performance, Recording Studio, Classrooms",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Texas A&M University-Commerce",
+                "project_value": "$18,000,000",
+                "relevance_score": 0.9650000000000001
+            },
+            {
+                "project_name": "Systems Headquarters Building",
+                "project_type": "",
+                "project_description": "",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Texas A&M University System",
+                "project_value": "",
+                "relevance_score": 0.9650000000000001
+            },
+            {
+                "project_name": "Old Main Historic Restoration",
+                "project_type": "",
+                "project_description": "107,434 SF Music Rehearsal And Performance, Classrooms, Student Collaboration Space",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Music Education Complex, Texas A&M University-Kingsville",
+                "project_value": "$40,200,000",
+                "relevance_score": 0.9650000000000001
+            }
+        ],
+        "relevance_score": 0.9650000000000001,
+        "similarity_reasoning": "Andrew Evertson is a Project Director with 23 years of experience at BRW Architects and a Bachelor of Architecture from Texas Tech University. He is a registered architect in Texas and has led projects such as the 'Alkek Library Learning Commons Renovations', 'Early College High School', and 'Music Building', all of which involve educational, laboratory, and student collaboration spaces. His experience in project leadership, design, and quality control for large educational facilities aligns well with the requirements for a new research and student center.",
+        "justification": [
+            "Project leadership in educational and laboratory facilities (e.g., 'Alkek Library Learning Commons Renovations')",
+            "Registered architect in Texas, ensuring compliance with state and university requirements",
+            "Experience with flexible, collaborative, and student-focused spaces",
+            "Strong background in quality control and consistency in project delivery"
+        ],
+        "proposal_name": "Amarillo College Art Department Relocation_2021",
+        "source_page": 14,
+        "properties": {
+            "email_ids": {
+                "value": [
+                    "aevertson@brwarch.com"
+                ],
+                "verified": true,
+                "edited_by": "423e53f1-7a33-4005-b155-581c1604c8b6"
+            },
+            "employee_type": {
+                "value": "internal",
+                "verified": true,
+                "edited_by": "423e53f1-7a33-4005-b155-581c1604c8b6"
+            },
+            "profile_picture": {
+                "verify": true,
+                "face_id": "d1d08c55-6111-41ca-b840-4242dec0827a",
+                "location": "https://s3.amazonaws.com/fds-images-prod/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/uploaded_profile_pictures/61ad6261-192e-4e98-bedb-ed1f35300b8c/d1d08c55-6111-41ca-b840-4242dec0827a.png"
+            }
+        },
+        "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/7df8ed7b-c558-491d-a746-3de05f3be744/1-46_46/7f7be88b-fdb8-4380-80d1-32cac79d5c03.png"
+    },
+    {
+        "people_name": "Carmen Madden",
+        "position": "",
+        "people_id": "ecb068ff-2a1d-4490-8485-9c98ece0f5b8",
+        "face_group_id": null,
+        "thumbnail_url": null,
+        "qualification": null,
+        "experience_years": null,
+        "expertise_areas": [],
+        "similar_project_experience": [
+            {
+                "project_name": "Music Building",
+                "project_type": "",
+                "project_description": "550-seat performance hall and 80-seat recital hall combines educational and state-of-the-art music facilities into one cohesive structure.",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Texas A&M; University-Commerce",
+                "project_value": "$24.5M",
+                "relevance_score": 0.9600000000000001
+            },
+            {
+                "project_name": "Music Education Complex",
+                "project_type": "",
+                "project_description": "Administrative & Faculty Offices, Multi-Purpose Band Hall / Event Space, Student Collaboration, Music Rehearsal",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Texas A&M; University-Kingsville",
+                "project_value": "$40,200,000",
+                "relevance_score": 0.9600000000000001
+            },
+            {
+                "project_name": "Alkek Library Learning Commons Renovation",
+                "project_type": "",
+                "project_description": "Administrative offices, active learning classrooms, Design, Visualization & Fabrication Labs, Multi-Media Creation & Editing",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Texas A&M; University",
+                "project_value": "$5,805,000",
+                "relevance_score": 0.9600000000000001
+            },
+            {
+                "project_name": "Sam Rayburn Student Center",
+                "project_type": "",
+                "project_description": "The center includes a 420-seat banquet facility, conference areas, student clubs, gaming area, student government organizations, bookstores and dining hall/food service for 250 students.",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Texas A&M; University-Commerce",
+                "project_value": "$20.2M",
+                "relevance_score": 0.9600000000000001
+            },
+            {
+                "project_name": "Sam Rayburn Student Center Expansion",
+                "project_type": "",
+                "project_description": "The project added additional dining hall seating, kitchen space, offices, meeting rooms, and conference space.",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Texas A&M; University-Commerce",
+                "project_value": "$7.9M",
+                "relevance_score": 0.9600000000000001
+            },
+            {
+                "project_name": "Early College Center",
+                "project_type": "",
+                "project_description": "Classrooms, Labs, Administrative Offices, Multi-Purpose Classrooms, Food Service",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Dallas College",
+                "project_value": "$17,100,000",
+                "relevance_score": 0.9600000000000001
+            },
+            {
+                "project_name": "Patterson Student Center",
+                "project_type": "",
+                "project_description": "The center includes athletic offices and training rooms, a gaming area, gym, fitness center, locker rooms and student lounge space.",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Texas A&M; University-Texarkana",
+                "project_value": "$8M",
+                "relevance_score": 0.9600000000000001
+            },
+            {
+                "project_name": "Student Housing and Commons",
+                "project_type": "",
+                "project_description": "Renovation to seven student housing complexes including student dining and commons areas.",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Angelo State University",
+                "project_value": "$40,000,000",
+                "relevance_score": 0.9600000000000001
+            },
+            {
+                "project_name": "White Creek Community Center",
+                "project_type": "",
+                "project_description": "Serves residential student needs through a full-service dining facility, resident life support space, social gathering space, academic and student support space.",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Texas A&M; University",
+                "project_value": "$10.9M",
+                "relevance_score": 0.9600000000000001
+            },
+            {
+                "project_name": "Welcome Center",
+                "project_type": "",
+                "project_description": "This project consists of the renovation of the existing Nursing Building to house the new campus welcome center.",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Tarleton State University",
+                "project_value": "$2M",
+                "relevance_score": 0.9600000000000001
+            }
+        ],
+        "relevance_score": 0.9600000000000001,
+        "similarity_reasoning": "Carmen Madden is a Project Architect with 14 years of experience at BRW Architects, holding both a Master and Bachelor of Architecture. She is AIA and LEED AP BD+C certified, demonstrating expertise in sustainable design. Her portfolio includes multiple student centers and higher education projects such as the 'Sam Rayburn Student Center', 'Patterson Student Center', and 'Alkek Library Learning Commons Renovation', all of which involve student spaces, labs, and flexible learning environments. Her experience aligns well with the requirements for a research and student center facility, especially in designing flexible, sustainable, and student-focused spaces.",
+        "justification": [
+            "Significant experience with student centers and higher education facilities (e.g., 'Sam Rayburn Student Center', 'Patterson Student Center')",
+            "LEED AP BD+C certification, supporting sustainable and energy-conscious design",
+            "Expertise in flexible learning and collaboration spaces, matching project needs for future growth and adaptability",
+            "Strong project leadership and architectural design skills in institutional settings"
+        ],
+        "proposal_name": "BRW Architects_TAMU-Commerce Student Services Building_Project No. 21-3337.pdf",
+        "source_page": 13,
+        "properties": {
+            "email_ids": {
+                "value": [
+                    "cmadden@brwarch.com"
+                ],
+                "verified": true
+            },
+            "employee_type": {
+                "value": "internal",
+                "verified": true
+            },
+            "profile_picture": {
+                "verify": true,
+                "face_id": "80e71b5b-5676-42ec-9614-a6569d1fa588",
+                "location": "https://fds-images-prod.s3.amazonaws.com/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/2e8489dc-4849-46b7-9847-0ce313566304/1-50_54/376a8aa8-b44d-4561-b3ea-5e89045e8f5f.png"
+            }
+        },
+        "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/7df8ed7b-c558-491d-a746-3de05f3be744/1-46_46/c951b363-3430-4fd3-99d4-d2c9c0a6d344.png"
+    },
+    {
+        "people_name": "Douglas Hankins",
+        "position": "",
+        "people_id": "6122abae-fb53-4029-b8c1-d0639eaedaa7",
+        "face_group_id": null,
+        "thumbnail_url": null,
+        "qualification": null,
+        "experience_years": null,
+        "expertise_areas": [],
+        "similar_project_experience": [
+            {
+                "project_name": "Carswell JRB: Chapel Renovation and Addition",
+                "project_type": "",
+                "project_description": "",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Fort Worth, TX",
+                "project_value": "",
+                "relevance_score": 0.9500000000000001
+            },
+            {
+                "project_name": "Christ United Methodist Church Multi-Purpose Youth Worship",
+                "project_type": "",
+                "project_description": "",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "College Station, TX",
+                "project_value": "",
+                "relevance_score": 0.9500000000000001
+            },
+            {
+                "project_name": "Liberal Arts & Humanities Building Texas A&M; University",
+                "project_type": "",
+                "project_description": "120,000 SF / Classrooms, Labs, Music & Theatre Rehearsal, Black Box Theatre, Redevelopment of East Quad",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Texas A&M; University",
+                "project_value": "$34,500,000",
+                "relevance_score": 0.9500000000000001
+            },
+            {
+                "project_name": "Christ United Methodist Church Multiple Interior Renovations",
+                "project_type": "",
+                "project_description": "",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "College Station, TX",
+                "project_value": "",
+                "relevance_score": 0.9500000000000001
+            },
+            {
+                "project_name": "Prince of Peace Chapel, Youth Center, & Pastoral Center",
+                "project_type": "",
+                "project_description": "",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Plano, TX",
+                "project_value": "",
+                "relevance_score": 0.9500000000000001
+            },
+            {
+                "project_name": "Texas A&M; Transportation Institute State Headquarters & Research Building - LEED GOLD",
+                "project_type": "",
+                "project_description": "70,000 SF / Administrative and Research Offices, Conference Rooms, Research Labs, Shell Space for Future Tenants",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Texas A&M; University",
+                "project_value": "$15,500,000",
+                "relevance_score": 0.9500000000000001
+            },
+            {
+                "project_name": "St. Patrick Catholic Church Fellowship Hall Addition",
+                "project_type": "",
+                "project_description": "",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Dallas, TX",
+                "project_value": "",
+                "relevance_score": 0.9500000000000001
+            },
+            {
+                "project_name": "St. Patrick Catholic Church Music and Library",
+                "project_type": "",
+                "project_description": "",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Dallas, TX",
+                "project_value": "",
+                "relevance_score": 0.9500000000000001
+            },
+            {
+                "project_name": "Hereford University Center Expansion",
+                "project_type": "",
+                "project_description": "165,000 SF / Student Collaboration and Technology areas, Meeting Rooms, Huddle Spaces, Open Dynamic Atrium",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "University of Texas at Arlington",
+                "project_value": "$68,000,000",
+                "relevance_score": 0.9500000000000001
+            },
+            {
+                "project_name": "St. Patrick Catholic Church Campus Master Plan and Site Improvements",
+                "project_type": "",
+                "project_description": "",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Dallas, TX",
+                "project_value": "",
+                "relevance_score": 0.9500000000000001
+            },
+            {
+                "project_name": "Southwest Baptist Church Education Building",
+                "project_type": "",
+                "project_description": "",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "DeSoto, TX",
+                "project_value": "",
+                "relevance_score": 0.9500000000000001
+            },
+            {
+                "project_name": "Early College Center",
+                "project_type": "",
+                "project_description": "45,000 SF / Classrooms, Labs, Administrative Offices, Multi-Purpose Classrooms, Food Service",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Dallas College",
+                "project_value": "$17,100,000",
+                "relevance_score": 0.9500000000000001
+            },
+            {
+                "project_name": "Temple Shalom Master Plan",
+                "project_type": "",
+                "project_description": "",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Dallas, TX",
+                "project_value": "",
+                "relevance_score": 0.9500000000000001
+            },
+            {
+                "project_name": "United Methodist Church Chapel at Cross Point",
+                "project_type": "",
+                "project_description": "",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Lake Texoma",
+                "project_value": "",
+                "relevance_score": 0.9500000000000001
+            },
+            {
+                "project_name": "Bois D'Arc Reservoir Lake Office Facilities",
+                "project_type": "",
+                "project_description": "19,300 SF / Multi-Purpose Lobby 'Exhibit Gallery' & Event Space, Administrative Offices, Conference & Training Rooms, Reconfigurable classroom",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "North Texas Municipal Water District",
+                "project_value": "$9,200,000",
+                "relevance_score": 0.9500000000000001
+            },
+            {
+                "project_name": "United Methodist Church Reunion House Chapel",
+                "project_type": "",
+                "project_description": "",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Grayson County, TX",
+                "project_value": "",
+                "relevance_score": 0.9500000000000001
+            },
+            {
+                "project_name": "University of Dallas The Dominican Priory of St. Albert the Great",
+                "project_type": "",
+                "project_description": "",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Irving, TX",
+                "project_value": "",
+                "relevance_score": 0.9500000000000001
+            }
+        ],
+        "relevance_score": 0.9500000000000001,
+        "similarity_reasoning": "Douglas Hankins is an architect with 30 years of industry experience, including 25 years at BRW Architects. He holds a Master of Architecture and is a registered architect in Texas. His project experience includes the 'Liberal Arts & Humanities Building Texas A&M University', 'Texas A&M Transportation Institute State Headquarters & Research Building - LEED GOLD', and 'Hereford University Center Expansion', all large-scale, complex institutional projects with research labs, student collaboration, and flexible learning spaces. His expertise in design leadership and programming is highly relevant for this project.",
+        "justification": [
+            "Registered architect in Texas with extensive experience in higher education and research facilities",
+            "Leadership in large-scale, complex projects for Texas A&M University (e.g., 'Liberal Arts & Humanities Building Texas A&M University')",
+            "Expertise in programming, schematic design, and graphic clarity",
+            "Strong background in sustainable and flexible design"
+        ],
+        "proposal_name": "Fort Worth Texas Temple_RFP.pdf",
+        "source_page": 43,
+        "properties": {
+            "email_ids": {
+                "value": [
+                    "dhankins@brwarch.com"
+                ],
+                "verified": true
+            },
+            "employee_type": {
+                "value": "internal",
+                "verified": true
+            },
+            "profile_picture": {
+                "verify": true,
+                "face_id": "ead1c913-d185-445b-899f-3d77f36fe75c",
+                "location": "https://fds-images-prod.s3.amazonaws.com/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/478296bf-fd33-47c4-9f4b-0976e1a7074b/1-50_53/360b7889-cedd-49cb-b5f4-96d965d783a3.png"
+            }
+        },
+        "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/ce4b2ad4-9e5a-4236-9573-a14435555a5e/1-50_72/4bb170ea-4f89-4e98-a9ca-bd939f16a8d8.png"
+    },
+    {
+        "people_name": "Lisa Lamkin",
+        "position": "",
+        "people_id": "bf9da75b-f62e-49c3-80d6-bbf5feb4a243",
+        "face_group_id": null,
+        "thumbnail_url": null,
+        "qualification": null,
+        "experience_years": null,
+        "expertise_areas": [],
+        "similar_project_experience": [
+            {
+                "project_name": "Dallas Housing Authority Headquarters Master Plan and Addition",
+                "project_type": "",
+                "project_description": "A 24,000 sf expansion study for the DHA Headquarters, the expansion includes a flexible multipurpose room to serve events up to 300 people, an executive suite for conferences and board briefings, along with open office and various support rooms including break, training, conference and storage.",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "",
+                "project_value": "",
+                "relevance_score": 0.9400000000000001
+            },
+            {
+                "project_name": "Texas A&M University Liberal Arts and Humanities Building",
+                "project_type": "",
+                "project_description": "Administrative & Faculty Offices, Student Collaboration, Music and Theatre Arts Performance and Rehearsal; Size: 120,000 SF; Cost: $34,500,000",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "",
+                "project_value": "",
+                "relevance_score": 0.9400000000000001
+            },
+            {
+                "project_name": "Texas A&M Transportation Institute State Headquarters",
+                "project_type": "",
+                "project_description": "Administrative and Research Offices, Conference Rooms, Research Labs, Shell Space for Future Tenants Size: 70,000 SF; Cost: $15,500,000",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "",
+                "project_value": "",
+                "relevance_score": 0.9400000000000001
+            },
+            {
+                "project_name": "American Board of Obstetrics and Gynecology Regional Headquarters and Testing Headquarters",
+                "project_type": "",
+                "project_description": "New 5 story office tower adding 20,000 square feet to the existing facility making the total space 33,000 SF. This mid-rise office building is used as a regional testing center and administrative space for ABOG. Project included new finish out and furniture coordination. Size: 20,000 SF; Cost: $2.7M",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "",
+                "project_value": "",
+                "relevance_score": 0.9400000000000001
+            },
+            {
+                "project_name": "Bryan Adams High School Addition, Dallas ISD",
+                "project_type": "",
+                "project_description": "Administrative and Staff Offices, Classrooms, Fine Arts Addition for Band, Choir & Orchestra, Athletics Addition, ICC 500 Storm Shelter; Size: 77,000 SF; Cost: $55,980,000",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "",
+                "project_value": "",
+                "relevance_score": 0.9400000000000001
+            }
+        ],
+        "relevance_score": 0.9400000000000001,
+        "similarity_reasoning": "Lisa Lamkin is a Quality Control specialist with 38 years of industry experience, including 31 years at Brown Reynolds Watford Architects. She holds a Master of Architecture with High Distinction and has worked on projects such as the 'Texas A&M University Liberal Arts and Humanities Building' and 'Texas A&M Transportation Institute State Headquarters', both large-scale, complex institutional projects. Her expertise in quality control and experience with Texas A&M projects are highly relevant for ensuring compliance and excellence in this project.",
+        "justification": [
+            "Extensive experience in quality control for large institutional projects",
+            "Key involvement in Texas A&M University projects (e.g., 'Texas A&M University Liberal Arts and Humanities Building')",
+            "Strong background in research labs, administrative, and student spaces",
+            "Expertise in ensuring compliance with university and state requirements"
+        ],
+        "proposal_name": "BRW ARCHITECTS - DHA HQ Services Building Extension - RFQ 2020-14.pdf",
+        "source_page": 24,
+        "properties": {
+            "email_ids": {
+                "value": [
+                    "llamkin@brwarch.com"
+                ],
+                "verified": true
+            },
+            "employee_type": {
+                "value": "internal",
+                "verified": true
+            },
+            "profile_picture": {
+                "verify": true,
+                "face_id": "ba2f6981-6c7f-48a3-9bcf-7dc0ad7c3346",
+                "location": "https://fds-images-prod.s3.amazonaws.com/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/6e3e602b-b68b-4a00-a365-8168c7452242/1-48_48/261d499a-8b1c-4357-bc70-5745f5999605.png"
+            }
+        },
+        "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/073bbf36-7815-4203-852d-e52e2bce226e/1-50_76/ec9feddf-9de3-47ac-bed2-882c75abab26.png"
+    },
+    {
+        "people_name": "Chris Sano",
+        "position": "",
+        "people_id": "eaa24456-ddde-4eb1-926f-9e9ba785e589",
+        "face_group_id": null,
+        "thumbnail_url": null,
+        "qualification": null,
+        "experience_years": null,
+        "expertise_areas": [],
+        "similar_project_experience": [
+            {
+                "project_name": "E.H. Hereford University Center Expansion",
+                "project_type": "",
+                "project_description": "48,000 SF | Classrooms, Science Labs, Administrative Offices, Multi-Purpose Classrooms, Student Collaboration, Food Service & Dining",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "University of Texas at Arlington",
+                "project_value": "$21,500,000",
+                "relevance_score": 0.9225000000000001
+            },
+            {
+                "project_name": "Alkek Library Learning Commons",
+                "project_type": "",
+                "project_description": "",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Texas State University",
+                "project_value": "",
+                "relevance_score": 0.9225000000000001
+            },
+            {
+                "project_name": "Early College High School",
+                "project_type": "",
+                "project_description": "",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Dallas College",
+                "project_value": "",
+                "relevance_score": 0.9225000000000001
+            },
+            {
+                "project_name": "Campus Services Building Feasibility Study",
+                "project_type": "",
+                "project_description": "",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Texas State University - Round Rock",
+                "project_value": "",
+                "relevance_score": 0.9225000000000001
+            },
+            {
+                "project_name": "New Track & Field Stadium",
+                "project_type": "",
+                "project_description": "",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "University of North Texas",
+                "project_value": "",
+                "relevance_score": 0.9225000000000001
+            },
+            {
+                "project_name": "Woodrow Wilson High School",
+                "project_type": "",
+                "project_description": "80,000 SF | Classrooms, Engineering and Science Labs, Ceramics and Art Studios, Band/Orchestra Suites, Gymnasium, Robotics Space",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Dallas ISD",
+                "project_value": "$20,439,500",
+                "relevance_score": 0.9225000000000001
+            },
+            {
+                "project_name": "Music Activities Center",
+                "project_type": "",
+                "project_description": "",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Texas A&M University",
+                "project_value": "",
+                "relevance_score": 0.9225000000000001
+            },
+            {
+                "project_name": "Dental Hygiene Clinic & Counseling Center",
+                "project_type": "",
+                "project_description": "",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Texas Woman's University",
+                "project_value": "",
+                "relevance_score": 0.9225000000000001
+            },
+            {
+                "project_name": "Geosciences Renovation Study",
+                "project_type": "",
+                "project_description": "",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Texas A&M University",
+                "project_value": "",
+                "relevance_score": 0.9225000000000001
+            },
+            {
+                "project_name": "Bryan Adams High School",
+                "project_type": "",
+                "project_description": "250,000 SF | Classrooms, Science Labs, Dance Studio and Support Spaces, Renovated Restrooms, HVAC System, Enhanced Entry, Wayfinding, Black Box Theater, Choral Classrooms and Practice Rooms",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Dallas ISD",
+                "project_value": "$55,980,000",
+                "relevance_score": 0.9225000000000001
+            },
+            {
+                "project_name": "San Jacinto Memorial Building",
+                "project_type": "",
+                "project_description": "",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Houston Community College",
+                "project_value": "",
+                "relevance_score": 0.9225000000000001
+            },
+            {
+                "project_name": "Dental Hygiene Clinic & Counseling Center",
+                "project_type": "",
+                "project_description": "",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Texas Woman's University",
+                "project_value": "",
+                "relevance_score": 0.9225000000000001
+            },
+            {
+                "project_name": "Student Support Services Building (Unbuilt)",
+                "project_type": "",
+                "project_description": "",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Texas A&M University-Kingsville",
+                "project_value": "",
+                "relevance_score": 0.9225000000000001
+            },
+            {
+                "project_name": "Polytechnic High School",
+                "project_type": "",
+                "project_description": "188,000 SF | Classrooms, Expansion of Kitchen and Dining Facilities, Addition with Science Instruction Environments, New Fine Arts Facility, Band Hall and Ensemble Rooms, Life Safety and Lighting Upgrades",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Fortworth ISD",
+                "project_value": "$41,955,00",
+                "relevance_score": 0.9225000000000001
+            },
+            {
+                "project_name": "Webb Elementary School Replacement",
+                "project_type": "",
+                "project_description": "",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Arlington ISD",
+                "project_value": "",
+                "relevance_score": 0.9225000000000001
+            },
+            {
+                "project_name": "Geneva Heights Elementary School",
+                "project_type": "",
+                "project_description": "",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Dallas ISD",
+                "project_value": "",
+                "relevance_score": 0.9225000000000001
+            },
+            {
+                "project_name": "Westway Park Technology Center",
+                "project_type": "",
+                "project_description": "59,500 SF / Multi-Purpose Presentation Space, Cross-Collaboration Space for College and Industry, Administrative & Faculty Offices",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Lone Star College",
+                "project_value": "$7,416,000",
+                "relevance_score": 0.9225000000000001
+            }
+        ],
+        "relevance_score": 0.9225000000000001,
+        "similarity_reasoning": "Chris Sano is a Lead Designer/Programmer with 22 years of industry experience, including 19 years at BRW. He holds a Master of Architecture from Texas A&M University and is AIA and LEED AP BD+C certified. His project experience includes the 'E.H. Hereford University Center Expansion', 'Woodrow Wilson High School', and 'Westway Park Technology Center', all involving classrooms, science labs, and student collaboration spaces. His expertise in sustainable design and programming is highly relevant for the flexible, energy-conscious, and student-focused aspects of the project.",
+        "justification": [
+            "AIA and LEED AP BD+C certifications, supporting sustainable and flexible design",
+            "Experience with university center expansions and science labs (e.g., 'E.H. Hereford University Center Expansion')",
+            "Strong programming and design skills for multi-purpose educational spaces",
+            "Long-term experience with BRW and Texas A&M University projects"
+        ],
+        "proposal_name": "Edinburg CISD UTRGV Collegiate HS with Negrete & Kolar Architects.pdf",
+        "source_page": 27,
+        "properties": {
+            "role": {
+                "values": [
+                    "Project Designer"
+                ],
+                "workspace": {
+                    "3055be9b-564a-442f-ae2e-4d9f7efe4d0f": "Project Designer"
+                }
+            },
+            "email_ids": {
+                "value": [
+                    "csano@brwarch.com"
+                ],
+                "verified": true
+            },
+            "employee_type": {
+                "value": "internal",
+                "verified": true
+            },
+            "profile_picture": {
+                "verify": true,
+                "face_id": "0f8f92b9-d0d9-4bfc-bf2c-c987ade76473",
+                "location": "https://fds-images-prod.s3.amazonaws.com/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/23be506b-9972-4952-9fdc-e97139b3191c/1-42_42/994a6d3f-f7a8-4b34-b284-f272f260c991.png"
+            }
+        },
+        "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/073bbf36-7815-4203-852d-e52e2bce226e/1-50_76/b3fb087b-4d8e-4e67-b7f4-199ac0869a0f.png"
+    },
+    {
+        "people_name": "Stephen Hilt",
+        "position": "",
+        "people_id": "92d666a6-dd18-4550-b929-6b3c47a4e26f",
+        "face_group_id": null,
+        "thumbnail_url": null,
+        "qualification": null,
+        "experience_years": null,
+        "expertise_areas": [],
+        "similar_project_experience": [
+            {
+                "project_name": "McFadden Public Safety Center",
+                "project_type": "",
+                "project_description": "This project addresses the need for updated facilities by replacing outdated structures for the Police Station, Fire Administration, Central Fire Station, Quartermaster, Data Center, and 911 Dispatch. It introduces an innovative Emergency Operations Center, integrated training space, and a 5-level parking garage, designed to meet current needs and accommodate future staff expansion for the projected city build-out. 116,000 SF | $100,000,000 | Project Director",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "",
+                "project_value": "",
+                "relevance_score": 0.9225000000000001
+            },
+            {
+                "project_name": "Anna Community Library",
+                "project_type": "",
+                "project_description": "Anna's first municipal library includes an events venue that will be configurable for many different library and other public functions. The library also features arts and crafts and maker space rooms, and a roof patio overlooking the new plaza to further enhance the library as a center of community activity. 32,500 SF | $13,420,000 | Project Principal",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "",
+                "project_value": "",
+                "relevance_score": 0.9225000000000001
+            },
+            {
+                "project_name": "Central Fire Station & Fire Administration Complex",
+                "project_type": "",
+                "project_description": "This is a visionary project with two interconnected buildings designed to enhance the city's emergency response capabilities. The cutting-edge 5-bay fire station accommodates state-of-the-art equipment, while the contemporary administration building houses essential functions and an Emergency Operations Center. The complex includes specialized training areas and efficient storage facilities. 28,500 SF | $11,655,000 | Project Principal",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "",
+                "project_value": "",
+                "relevance_score": 0.9225000000000001
+            },
+            {
+                "project_name": "Audubon Recreation Center",
+                "project_type": "",
+                "project_description": "The Recreation Center underwent a significant expansion and renovation. The expansion included a new fitness room with an artificial turf CrossFit zone, an interactive fitness projection system, and enhancements to activity rooms and additional storage space. The renovation covered both interior and exterior aspects. 14,882 SF | $4,444,769 | Project Director",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "",
+                "project_value": "",
+                "relevance_score": 0.9225000000000001
+            },
+            {
+                "project_name": "Trinity River Audubon Center",
+                "project_type": "",
+                "project_description": "This project focused on creating versatile and sustainable interior spaces, including flexible exhibit halls, classrooms, and labs. Exterior features, like shaded outdoor areas and trails, enhance visitor experiences, promoting long-term durability, flexibility, and minimal maintenance for the client. 20,975 SF | $10,700,000 | Quality Control",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "",
+                "project_value": "",
+                "relevance_score": 0.9225000000000001
+            }
+        ],
+        "relevance_score": 0.9225000000000001,
+        "similarity_reasoning": "Stephen Hilt is an AIA, LEED AP with 27 years of industry experience, including 25 years at Brown Reynolds Watford Architects. He holds a Master of Architecture from Texas A&M University and has led projects such as the 'McFadden Public Safety Center', 'Anna Community Library', and 'Trinity River Audubon Center', all of which involve flexible, sustainable, and community-focused spaces. His expertise in project direction, sustainability, and flexible design is highly relevant for the research and student center facility.",
+        "justification": [
+            "AIA and LEED AP credentials, supporting sustainable and flexible design",
+            "Leadership in community, library, and public safety center projects (e.g., 'McFadden Public Safety Center')",
+            "Experience with flexible, multi-purpose, and sustainable spaces",
+            "Strong project direction and quality control skills"
+        ],
+        "proposal_name": "BRW Architects_City of Allen CIP_Statement of Qualifications Response to RFQ.pdf",
+        "source_page": 9,
+        "properties": {
+            "role": {
+                "values": [
+                    "Principal-in-Change",
+                    "Principal-in-Charge"
+                ],
+                "workspace": {
+                    "3055be9b-564a-442f-ae2e-4d9f7efe4d0f": "Principal-in-Charge"
+                }
+            },
+            "email_ids": {
+                "value": [
+                    "shilt@brwarch.com"
+                ],
+                "verified": true
+            },
+            "employee_type": {
+                "value": "internal",
+                "verified": true
+            },
+            "profile_picture": {
+                "verify": true,
+                "face_id": "bcd68422-ef5f-41ea-aee3-a577f6514528",
+                "location": "https://fds-images-prod.s3.amazonaws.com/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/23be506b-9972-4952-9fdc-e97139b3191c/1-42_42/6ed125c9-d50e-497e-bb45-c690bbd6105b.png"
+            }
+        },
+        "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/ec8c93cd-20f3-4c50-addb-0921195664ce/1-42_42/36ba6f0e-a270-496b-ac40-69c4987b50ce.png"
+    },
+    {
+        "people_name": "Matt Lorenz",
+        "position": "",
+        "people_id": "12eb63e6-9a6b-411d-a355-2cdb2439c2ef",
+        "face_group_id": null,
+        "thumbnail_url": null,
+        "qualification": null,
+        "experience_years": null,
+        "expertise_areas": [],
+        "similar_project_experience": [
+            {
+                "project_name": "Support Services Building",
+                "project_type": "",
+                "project_description": "38,500 SF University Police Department, Student Services, Administrative & Faculty Offices, Multi-purpose Event Space with Catering Kitchen, and Meeting Rooms",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Texas A&M; University-Kingsville",
+                "project_value": "$11,800,000",
+                "relevance_score": 0.885
+            },
+            {
+                "project_name": "Game Warden Training Center",
+                "project_type": "",
+                "project_description": "23,500 SF Multi-phase, rural campus consisting of six separate buildings including Administrative Offices, Classrooms, Training Center, Meeting Rooms, Vehicle Maintenance Facilities",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Texas Parks & Wildlife",
+                "project_value": "$7,555,000",
+                "relevance_score": 0.885
+            },
+            {
+                "project_name": "Police / Public Safety Complex",
+                "project_type": "",
+                "project_description": "48,000,000 SF 10-Acre public safety campus including a Police Headquarters, 911 dispatch, and a fire station. A separate multi-function Support Building fulfills operational needs",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "City of Richardson, Texas",
+                "project_value": "$43,000,000",
+                "relevance_score": 0.885
+            },
+            {
+                "project_name": "Support Services Building & Central Utility Plant Master Plant",
+                "project_type": "",
+                "project_description": "10,700 SF University Police Department and Campus Services Offices including Parking Services, Mail Services, Risk Management, Facilities Offices. Master Plan included studies for location of new Central Utility Plant",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Texas State University - Round Rock Campus",
+                "project_value": "$4,562,000",
+                "relevance_score": 0.885
+            },
+            {
+                "project_name": "Police Evidence and Property",
+                "project_type": "",
+                "project_description": "17,700 SF Hardened Evidence Vault, Open Workstations, Service Counter and Support Offices, Evidence Processing Room, Outdoor Covered Storage & Dock, and Secure Parking",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "City of Garland, Texas",
+                "project_value": "$10,400,000",
+                "relevance_score": 0.885
+            },
+            {
+                "project_name": "Police Safety Complex",
+                "project_type": "",
+                "project_description": "23,000 SF New Police Station and Dispatch Suite, Property & Evidence Vault, Multi-purpose Training Room, Fitness Rooms and Staff Break Rooms",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "Town of Prosper, Texas",
+                "project_value": "$12,500,000",
+                "relevance_score": 0.885
+            },
+            {
+                "project_name": "Operations and Support Facilities",
+                "project_type": "",
+                "project_description": "16,000 Administrative Offices, Operations Center, Vehicle Maintenance Facilities, Workshop and Maintenance Building, Warehouse Buildings",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "North Texas Municipal Water District",
+                "project_value": "$9,200,000",
+                "relevance_score": 0.885
+            },
+            {
+                "project_name": "Fire Station No. 3 and Fire Training",
+                "project_type": "",
+                "project_description": "19,400 SF Fire Administration Offices, Large Classroom / Training Room, Shared Public Lobby, Day Room, Bunk Rooms, Four (4) Pull-through Apparatus Bays",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "City of Grand Prairie, Texas",
+                "project_value": "$8,000,000",
+                "relevance_score": 0.885
+            },
+            {
+                "project_name": "Police / Public Safety Building",
+                "project_type": "",
+                "project_description": "34,000 SF Private and Open Offices for Patrol Division, Interview Suite with Hardened Interview Rooms, Dispatch, Records, Property & Evidence",
+                "project_duration": "",
+                "project_role": "",
+                "project_location": "City of Weatherford, Texas",
+                "project_value": "$18,900,000",
+                "relevance_score": 0.885
+            }
+        ],
+        "relevance_score": 0.885,
+        "similarity_reasoning": "Matt Lorenz is a Project Architect with 23 years of industry experience and a Bachelor of Architecture from Oklahoma State University. He is a registered architect in Texas with experience in designing support services, administrative offices, and multi-purpose event spaces, such as the 'Support Services Building' and 'Game Warden Training Center'. His expertise in campus support and operational facilities is relevant for the administrative and student services components of the project.",
+        "justification": [
+            "Registered architect in Texas with 15 years of experience",
+            "Experience in campus support, administrative, and multi-purpose facilities (e.g., 'Support Services Building')",
+            "Strong technical skills in planning and delivering operational and support spaces",
+            "Familiarity with large-scale, multi-phase campus projects"
+        ],
+        "proposal_name": "Temple Junior College AE Services with OOMA and Kahler Slater.pdf",
+        "source_page": 60,
+        "properties": {
+            "email_ids": {
+                "value": [
+                    "mlorenz@brwarch.com"
+                ],
+                "verified": true
+            },
+            "employee_type": {
+                "value": "internal",
+                "verified": true
+            },
+            "profile_picture": {
+                "verify": true,
+                "face_id": "ac7c92f4-2e75-4bb9-9e96-0c399a06b6ec",
+                "location": "https://fds-images-prod.s3.amazonaws.com/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/9affde23-b7bb-43a0-a572-92bca944a35c/1-50_52/8dc69f0f-f9c7-42d8-b8f9-93e350066f26.png"
+            }
+        },
+        "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/7df8ed7b-c558-491d-a746-3de05f3be744/1-46_46/713fd514-3083-4612-843c-02e38122e4e8.png"
+    }
+]
