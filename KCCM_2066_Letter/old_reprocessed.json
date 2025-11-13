@@ -1,0 +1,116 @@
+[
+    {
+        "excluded": false,
+        "people_id": "e6479ae6-ea81-412f-a56d-b6ccdd0cac8f",
+        "properties": {
+            "employee_type": {
+                "value": "internal",
+                "verified": false,
+                "edited_by": "system"
+            }
+        },
+        "people_name": "Sam Thompson",
+        "proposal_name": "Thompson, Sam_Full Resume_04-2025.pdf",
+        "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/f32df07c-9c0a-4bb7-b2c2-2d9e9187228d/1-4_4/9288f769-4c55-48c4-a7d8-592e19ce062f.png",
+        "relevance_score": 9,
+        "matched_evidence": [
+            "MoDOT Cass & Jackson Counties ADA Improvements",
+            "MoDOT Jackson and Cass Counties Route 7 KU0010",
+            "Assistant Engineer on roadway and bridge projects"
+        ],
+        "similarity_reasoning": "Sam Thompson has relevant experience with MoDOT projects, specifically in Cass and Jackson Counties, which aligns with the target project's location. His involvement in the MoDOT Cass & Jackson Counties ADA Improvements and MoDOT Jackson and Cass Counties Route 7 KU0010 projects demonstrates his familiarity with the client and geographic area. Additionally, his role as an assistant engineer on roadway and bridge projects supports his technical expertise in transportation engineering, making him a strong candidate for the consulting engineering services project."
+    },
+    {
+        "excluded": false,
+        "people_id": "edd259a3-863f-49ca-b42a-c42344335988",
+        "properties": {
+            "employee_type": {
+                "value": "internal",
+                "verified": false,
+                "edited_by": "system"
+            },
+            "profile_picture": {
+                "verify": false,
+                "face_id": "b7b09595-0040-4886-9358-99e9917fe489",
+                "location": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/883c2004-0cc9-44e4-a8c0-f47fab0d6011/1-50_56/d349d444-280d-401a-b048-ca807e1f2e87.png"
+            }
+        },
+        "people_name": "Reid Catt",
+        "proposal_name": "Z25-05557 Clay County MO County Road and Bridge Rehabilitation Projects On-Call.pdf",
+        "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/7f2440d8-1c23-44de-995e-fd6f3ab79f18/1-50_74/11ae9cca-0757-4bf4-9fcc-f36fddf8c9c4.png",
+        "relevance_score": 9,
+        "matched_evidence": [
+            "MoDOT Route 152 and Platte Purchase DDI Conversion",
+            "MoDOT Route 291 Roundabout",
+            "Senior team leader overseeing roadway and bridge projects"
+        ],
+        "similarity_reasoning": "Reid Catt has extensive experience with MoDOT projects, including those in Cass County and Kansas City, MO, which are relevant to the target project's location. His role as a senior team leader overseeing roadway and bridge projects, along with his involvement in MoDOT Route 152 and Platte Purchase DDI Conversion and MoDOT Route 291 Roundabout, highlights his expertise in transportation engineering and project management. His familiarity with MoDOT and the geographic area makes him highly relevant to the target project."
+    },
+    {
+        "excluded": false,
+        "people_id": "99251b59-2f1a-4435-8b95-b6533f5afd84",
+        "properties": {
+            "employee_type": {
+                "value": "internal",
+                "verified": false,
+                "edited_by": "system"
+            }
+        },
+        "people_name": "Lauren Hudak",
+        "proposal_name": "Z22-01678 Springfield MO Professional Design Services.pdf",
+        "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/9cfecbb0-77fa-46a4-91e7-38dd0a452137/1-19_19/e4c5551f-ce75-4cc6-9cd5-22a73438d969.png",
+        "relevance_score": 8,
+        "matched_evidence": [
+            "MoDOT Peculiar Drive over East Creek",
+            "Jackson County RCB on Buckner Tarsney Road",
+            "Bridge designer for Olsson's Transportation team"
+        ],
+        "similarity_reasoning": "Lauren Hudak's experience with MoDOT projects, particularly in Jackson and Cass Counties, aligns well with the target project's location. Her work on the MoDOT Peculiar Drive over East Creek and Jackson County RCB on Buckner Tarsney Road projects demonstrates her expertise in bridge design within the relevant geographic area. Her role as a bridge designer for Olsson's Transportation team further supports her technical skills in transportation engineering, making her a suitable candidate for the consulting engineering services project."
+    },
+    {
+        "excluded": false,
+        "people_id": "9d5bb15e-27c4-4024-912d-0b219d00e9a4",
+        "properties": {
+            "employee_type": {
+                "value": "internal",
+                "verified": false,
+                "edited_by": "system"
+            }
+        },
+        "people_name": "Jared Clemence",
+        "proposal_name": "Clemence, Jared Full Resume 11-2024.pdf",
+        "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/198f1d8f-c193-4c7a-9e26-b92842ffde37/1-3_3/0b072902-a1ff-4ee9-a068-0cedfed6f8c0.png",
+        "relevance_score": 8,
+        "matched_evidence": [
+            "MoDOT M291 Interchange with U.S. Highway 50",
+            "Jackson and Cass Counties Route 7",
+            "Traffic signal design and traffic management systems"
+        ],
+        "similarity_reasoning": "Jared Clemence has significant experience in traffic engineering and has worked on various MoDOT projects, including those in Jackson and Cass Counties. His involvement in the MoDOT M291 Interchange with U.S. Highway 50 and Jackson and Cass Counties Route 7 projects highlights his familiarity with the client and geographic area. His technical skills in traffic signal design and traffic management systems are relevant to the target project's focus on construction inspection and transportation engineering."
+    },
+    {
+        "excluded": false,
+        "people_id": "52724ab2-4c2f-4730-9829-a9894298033e",
+        "properties": {
+            "employee_type": {
+                "value": "internal",
+                "verified": false,
+                "edited_by": "system"
+            },
+            "profile_picture": {
+                "verify": false,
+                "face_id": "5536ca53-cfb7-4c77-9cb4-54c69c817a82",
+                "location": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/133f7025-dd9f-4d76-b381-ac3a95533b22/1-25_25/95621c67-13eb-458f-a7f5-7bab522e7871.png"
+            }
+        },
+        "people_name": "Mia Campbell",
+        "proposal_name": "Campbell, Mia_Full Resume 07-2024.pdf",
+        "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/97b28680-8240-47ad-8b2f-7fc38006498f/1-3_3/8fd57a94-47e0-4181-b9e0-abbd4e450322.png",
+        "relevance_score": 8,
+        "matched_evidence": [
+            "Missouri Department of Transportation, Jackson and Cass Counties Route 7",
+            "Engineer in roadway and bridge projects"
+        ],
+        "similarity_reasoning": "Mia Campbell's experience with MoDOT projects, particularly in Jackson and Cass Counties, aligns with the target project's location. Her involvement in the Missouri Department of Transportation, Jackson and Cass Counties Route 7 project demonstrates her familiarity with the client and geographic area. Her role as an engineer in roadway and bridge projects supports her technical expertise in transportation engineering, making her a relevant candidate for the consulting engineering services project."
+    }
+]

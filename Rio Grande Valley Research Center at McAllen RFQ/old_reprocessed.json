@@ -1,0 +1,105 @@
+[
+    {
+        "excluded": false,
+        "people_id": "c36513ad-ada5-4c09-b7e9-7b6e1d1dc85b",
+        "properties": {
+            "email_ids": {
+                "value": [
+                    "avela@brwarch.com"
+                ],
+                "verified": true
+            },
+            "employee_type": {
+                "value": "internal",
+                "verified": true
+            },
+            "profile_picture": {
+                "verify": true,
+                "face_id": "7ee5e503-6f8e-4275-8936-3bff9df2be73",
+                "location": "https://fds-images-prod.s3.amazonaws.com/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/73badf76-87d9-4110-9642-ad2e48c0639e/1-50_72/6d888e6c-761b-48b1-9eb7-978dee380967.png"
+            }
+        },
+        "people_name": "Andres Vela",
+        "proposal_name": "McAllen ISD On-Call_2025.pdf",
+        "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/5a27ec23-56d0-4668-87d2-d48054483d3d/1-50_76/721b7e91-8d9e-4711-98e0-b3659a33ae12.png",
+        "relevance_score": 10,
+        "matched_evidence": [
+            "Leader of BRW's local office, dedicated to supporting educational mission of McAllen ISD",
+            "South Texas College Cooper Center for Performing Arts project in Rio Grande Valley",
+            "State of Texas Architectural Registration No. 29960",
+            "Master of Architecture from Texas A&M University"
+        ],
+        "similarity_reasoning": "Andres Vela has extensive experience working in McAllen, Texas, which is the location of the target project. His role as a project architect and construction administrator at BRW Architects, where he has been involved in projects like the South Texas College Cooper Center for Performing Arts and Rio Bank Offices in the Rio Grande Valley, aligns well with the higher education sector of the target project. His educational background from Texas A&M University, the client for the target project, further strengthens his relevance. His certification as a registered architect in Texas adds to his qualifications."
+    },
+    {
+        "excluded": false,
+        "people_id": "eaa24456-ddde-4eb1-926f-9e9ba785e589",
+        "properties": {
+            "role": {
+                "values": [
+                    "Project Designer"
+                ],
+                "workspace": {
+                    "3055be9b-564a-442f-ae2e-4d9f7efe4d0f": "Project Designer"
+                }
+            },
+            "email_ids": {
+                "value": [
+                    "csano@brwarch.com"
+                ],
+                "verified": true
+            },
+            "employee_type": {
+                "value": "internal",
+                "verified": true
+            },
+            "profile_picture": {
+                "verify": true,
+                "face_id": "0f8f92b9-d0d9-4bfc-bf2c-c987ade76473",
+                "location": "https://fds-images-prod.s3.amazonaws.com/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/23be506b-9972-4952-9fdc-e97139b3191c/1-42_42/994a6d3f-f7a8-4b34-b284-f272f260c991.png"
+            }
+        },
+        "people_name": "Chris Sano",
+        "proposal_name": "McAllen ISD On-Call_2025.pdf",
+        "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/073bbf36-7815-4203-852d-e52e2bce226e/1-50_76/b3fb087b-4d8e-4e67-b7f4-199ac0869a0f.png",
+        "relevance_score": 10,
+        "matched_evidence": [
+            "Cooper Center for Performing Arts project in Rio Grande Valley",
+            "Master of Architecture from Texas A&M University",
+            "LEED AP BD+C certification",
+            "Design Director and Principal at BRW Architects"
+        ],
+        "similarity_reasoning": "Chris Sano has a strong background in designing educational facilities, which is relevant to the higher education focus of the target project. His experience with projects in the Rio Grande Valley, such as the Cooper Center for Performing Arts, aligns with the geographic scope of the target project. His role as Design Director and Principal at BRW Architects, combined with his educational background from Texas A&M University, the client for the target project, makes him highly relevant. His certifications, including LEED AP BD+C, further enhance his qualifications."
+    },
+    {
+        "excluded": false,
+        "people_id": "91d523bd-426a-49e8-8ae4-66cbe7beb70b",
+        "properties": {
+            "email_ids": {
+                "value": [
+                    "lwatkins@brwarch.com"
+                ],
+                "verified": true
+            },
+            "employee_type": {
+                "value": "internal",
+                "verified": true
+            },
+            "profile_picture": {
+                "verify": true,
+                "face_id": "b49464bd-2d77-4062-8880-3425b4ce796f",
+                "location": "https://fds-images-prod.s3.amazonaws.com/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/e2f01f21-6736-4a5a-96e1-c2eb1b45f962/1-20_20/bd7377cd-5981-413d-88f6-678e59c3a64b.png"
+            }
+        },
+        "people_name": "Lawrence Watkins",
+        "proposal_name": "SHSU Health Professions Building with Kahler Slater.pdf",
+        "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/071052d1-073f-49c6-bea7-76f745260de5/1-50_83/3e39b1a2-2e7c-44a9-b459-5a9d8afbdab3.png",
+        "relevance_score": 10,
+        "matched_evidence": [
+            "School of Medicine Center for Human Genetics project at The University of Texas Rio Grande Valley",
+            "30+ years of experience in architectural and construction documents",
+            "AIA and LEED AP BD+C certifications"
+        ],
+        "similarity_reasoning": "Lawrence Watkins brings over 30 years of experience in architectural and construction document production, which is crucial for the target project's architectural and engineering services. His involvement in higher education projects, such as the School of Medicine Center for Human Genetics at The University of Texas Rio Grande Valley, aligns with the market sector of the target project. Although based in Houston, his experience in Texas and his certifications, including AIA and LEED AP BD+C, make him a strong candidate."
+    }
+]

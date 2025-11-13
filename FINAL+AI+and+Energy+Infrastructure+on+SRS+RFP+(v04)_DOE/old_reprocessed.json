@@ -1,0 +1,340 @@
+[
+    {
+        "excluded": false,
+        "people_id": "df70f53c-16e8-4d62-9e42-4e1b3ab4efc4",
+        "properties": {
+            "employee_type": {
+                "value": "internal",
+                "verified": false,
+                "edited_by": "system"
+            }
+        },
+        "people_name": "W. Mark Arney",
+        "proposal_name": "Arney, Mark_Full Resume_04-2022.pdf",
+        "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/eb7346d0-f211-4081-ac9e-58e38b719dfa/1-43_43/b6e8a7f4-2715-4b0f-8b59-3e922c958d26.png",
+        "relevance_score": 7,
+        "matched_evidence": [
+            "Experience with National Nuclear Security Agency projects",
+            "Expertise in commissioning and energy retrofits"
+        ],
+        "similarity_reasoning": "W. Mark Arney has extensive experience in commissioning and retro-commissioning, energy retrofits, and system diagnostics, which are relevant to the energy infrastructure component of the target project. His work with the National Nuclear Security Agency and various energy projects aligns with the client's sector. However, there is no specific evidence of geographic experience in South Carolina or direct IT infrastructure expertise."
+    },
+    {
+        "excluded": false,
+        "people_id": "c2fa4f0b-f251-4e93-b814-6894108fbbb8",
+        "properties": {
+            "email_ids": {
+                "value": [
+                    "khupf@olsson.com"
+                ],
+                "verified": false,
+                "edited_by": "system"
+            },
+            "employee_type": {
+                "value": "internal",
+                "verified": false,
+                "edited_by": "system"
+            },
+            "profile_picture": {
+                "verify": false,
+                "face_id": "65ef3df5-58f8-4c5f-93de-178c6bb555da",
+                "location": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/5259c6cf-f35c-4866-aa5e-97eb4f4c23b7/1-22_22/a97662c8-70eb-46ff-b196-d0027328ef1b.png"
+            }
+        },
+        "people_name": "Kevin Hupf",
+        "proposal_name": "Federal - SF330 People Resumes.pdf",
+        "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/2b9640c1-da47-41dd-8386-63f4a5cf220f/1-39_39/753e556c-ed21-409c-9519-bda82e1488fc.png",
+        "relevance_score": 6,
+        "matched_evidence": [
+            "Worked on thermal energy plant and chilled water expansion projects",
+            "Experience in mechanical engineering and energy systems"
+        ],
+        "similarity_reasoning": "Kevin Hupf is a mechanical engineer with experience in energy systems and infrastructure projects. His work on thermal energy plants and chilled water expansion projects demonstrates relevant expertise in energy infrastructure. However, there is no direct evidence of experience with IT infrastructure or specific projects in South Carolina, which limits his relevance to the target project."
+    },
+    {
+        "excluded": false,
+        "people_id": "555104f4-582c-4566-b2ed-09427c86b400",
+        "properties": {
+            "email_ids": {
+                "value": [],
+                "verified": false
+            },
+            "employee_type": {
+                "value": "internal",
+                "verified": true
+            },
+            "profile_picture": {
+                "verify": true,
+                "face_id": "d32fe2b3-e7ca-4b47-ad29-58f0dc71b614",
+                "location": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/ca7f3678-d1e4-47a5-a2a8-fa1e9f77cc09/1-25_25/41229a01-9bc9-4863-b7a8-3b6a2b0f8984.png"
+            }
+        },
+        "people_name": "Tony Baumert",
+        "proposal_name": "Z22-00228 Platte River Recovery Implementation Program On-call Permitting Services 2022-2025.pdf",
+        "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/02b437ba-43af-4a3f-9903-44763ab6c5a1/1-50_70/2565b2f1-00e5-4e11-8329-dc11e3f51da8.png",
+        "relevance_score": 6,
+        "matched_evidence": [
+            "Experience in environmental planning and permitting",
+            "Worked on energy and land development projects"
+        ],
+        "similarity_reasoning": "Tony Baumert is an ecologist with expertise in environmental planning and permitting, including work on energy and land development projects. His experience with NEPA document preparation and environmental compliance is relevant to the regulatory aspects of the target project. However, his expertise does not specifically cover IT infrastructure or projects in South Carolina."
+    },
+    {
+        "excluded": false,
+        "people_id": "46b58c67-c779-4396-b3f5-c35795517805",
+        "properties": {},
+        "people_name": "John Garceau",
+        "proposal_name": "Z024-01971 Lakeside FTY03_04 DC Design and CA.pdf",
+        "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/ef01860a-4293-4266-8ccb-17fa896aa8cd/1-50_56/37b20dde-2e64-4c74-8d92-35fffd2176c4.png",
+        "relevance_score": 5,
+        "matched_evidence": [
+            "Worked on Sage Mill Industrial Park Gateway Signage in Aiken County, SC",
+            "Experience in site planning and landscape architecture"
+        ],
+        "similarity_reasoning": "John Garceau has extensive experience in landscape architecture and site planning, particularly in South Carolina, which is relevant to the Savannah River Site project. His work on projects like the Sage Mill Industrial Park Gateway Signage in Aiken County, SC, aligns geographically with the target project location. However, his expertise is more focused on landscape and urban planning rather than IT and energy infrastructure, which are key components of the target project."
+    },
+    {
+        "excluded": false,
+        "people_id": "4c5b93e6-1eb5-4249-afcd-fd7cebe848d2",
+        "properties": {
+            "employee_type": {
+                "value": "internal",
+                "verified": false,
+                "edited_by": "system"
+            },
+            "profile_picture": {
+                "verify": false,
+                "face_id": "f4ce55a6-b8fd-4147-8ca8-998609ffe427",
+                "location": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/9071017d-d515-41e3-9618-f66a6a5c9f1f/1-18_18/3d3ad0ff-b4f6-4135-9439-530eb9f87013.png"
+            }
+        },
+        "people_name": "Shahjahan Ali",
+        "proposal_name": "Z23-04931 Oklahoma City Will Rogers Parking Garage.pdf",
+        "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/acb808e5-7af0-4bc1-8c49-6ac3d5856b92/1-5_5/d7e4bbc7-c406-456c-9ac9-3defe942a54f.png",
+        "relevance_score": 5,
+        "matched_evidence": [
+            "Worked on USACE - Savannah District projects",
+            "Experience in civil engineering and structural design"
+        ],
+        "similarity_reasoning": "Shahjahan Ali has a diverse background in civil engineering, including structural and transportation engineering design. His experience with the USACE - Savannah District and projects in Georgia provides some geographic relevance. However, his expertise does not specifically align with the IT and energy infrastructure focus of the target project at the Savannah River Site."
+    },
+    {
+        "excluded": false,
+        "people_id": "edd259a3-863f-49ca-b42a-c42344335988",
+        "properties": {
+            "employee_type": {
+                "value": "internal",
+                "verified": false,
+                "edited_by": "system"
+            },
+            "profile_picture": {
+                "verify": false,
+                "face_id": "b7b09595-0040-4886-9358-99e9917fe489",
+                "location": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/883c2004-0cc9-44e4-a8c0-f47fab0d6011/1-50_56/d349d444-280d-401a-b048-ca807e1f2e87.png"
+            }
+        },
+        "people_name": "Reid Catt",
+        "proposal_name": "Catt, Reid_Full Resume_06-2025.pdf",
+        "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/7f2440d8-1c23-44de-995e-fd6f3ab79f18/1-50_74/11ae9cca-0757-4bf4-9fcc-f36fddf8c9c4.png",
+        "relevance_score": 5,
+        "matched_evidence": [
+            "Worked on U.S. Army Corps of Engineers projects",
+            "Experience in infrastructure capacity analyses"
+        ],
+        "similarity_reasoning": "Reid Catt has experience in transportation planning and infrastructure capacity analyses, with projects involving federal agencies like the U.S. Army Corps of Engineers. His work on energy and water master plans provides some relevance to the energy infrastructure aspect of the target project. However, his expertise does not specifically cover IT infrastructure or projects in South Carolina."
+    },
+    {
+        "excluded": false,
+        "people_id": "a1ff2932-d7e8-4894-b97b-cd092944cd4e",
+        "properties": {
+            "employee_type": {
+                "value": "internal",
+                "verified": false,
+                "edited_by": "system"
+            },
+            "profile_picture": {
+                "verify": false,
+                "face_id": "9c1c8a60-9a8e-4ba5-bfc5-f547d1abf888",
+                "location": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/ee4ca347-37b0-48ea-94fd-8a31db0ba706/1-21_21/5441978c-8db3-40bf-a075-8a3566179e92.png"
+            }
+        },
+        "people_name": "Nic Schrader",
+        "proposal_name": "Z23-07268 MDO-JV MVP AE-M Civil Works UR IDIQ - 215435.pdf",
+        "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/8b4d6f24-f4f9-4d97-805a-f587d87eddb4/1-50_74/c92838f9-07e0-4ccb-b839-219d863f765b.png",
+        "relevance_score": 5,
+        "matched_evidence": [
+            "Experience in surveying for federal installations",
+            "Skills in GIS and remote sensing"
+        ],
+        "similarity_reasoning": "Nic Schrader is a land surveyor with extensive experience in surveying for federal installations, including large-scale renewable energy surveys. His skills in GIS and remote sensing are relevant to the infrastructure planning aspect of the target project. However, there is no direct evidence of experience with IT infrastructure or specific projects in South Carolina, which limits his relevance to the target project."
+    },
+    {
+        "excluded": false,
+        "people_id": "06e97be3-7075-4e84-8b07-28e367fd80f0",
+        "properties": {
+            "employee_type": {
+                "value": "internal",
+                "verified": false,
+                "edited_by": "system"
+            },
+            "profile_picture": {
+                "verify": false,
+                "face_id": "aa799eba-60ca-4ef6-82d1-ca0fd903be24",
+                "location": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/742c686b-0f28-4418-a44a-290e535141da/1-33_33/dc976538-83bc-4b9e-985c-69ddb6491d5b.png"
+            }
+        },
+        "people_name": "Savannah Loomis",
+        "proposal_name": "Z024-03389 KDC_Task Order 2403 Master Consulting Services Request TPR2403_Olsson - Copy.pdf",
+        "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/742c686b-0f28-4418-a44a-290e535141da/1-33_33/dc976538-83bc-4b9e-985c-69ddb6491d5b.png",
+        "relevance_score": 5,
+        "matched_evidence": [
+            "Expertise in GIS technology and telecommunication design",
+            "Skills in spatial analysis and data visualization"
+        ],
+        "similarity_reasoning": "Savannah Loomis is a GIS Technician with expertise in telecommunication design and spatial analysis. Her skills in GIS technology and data visualization are relevant to the infrastructure planning aspect of the target project. However, there is no direct evidence of experience with energy infrastructure or specific projects in South Carolina, which limits her relevance to the target project."
+    },
+    {
+        "excluded": false,
+        "people_id": "f178526a-d435-4fea-8e22-ff406d1d6424",
+        "properties": {
+            "employee_type": {
+                "value": "internal",
+                "verified": false,
+                "edited_by": "system"
+            },
+            "profile_picture": {
+                "verify": false,
+                "face_id": "9a70d851-4994-478e-ade5-ac5c7e4edce4",
+                "location": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/6dfd5e6c-eae9-4f62-a7e2-79653bd885dd/1-18_18/784e5774-7531-4503-aabb-053d37121a90.png"
+            }
+        },
+        "people_name": "Rachael Reis",
+        "proposal_name": "Federal - SF330 People Resumes.pdf",
+        "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/5c5859ed-e4a3-4dd7-afd2-2242deedf8bd/1-23_23/38414be1-38c8-4611-9819-8912fcb97ef8.png",
+        "relevance_score": 5,
+        "matched_evidence": [
+            "Experience in environmental assessments and compliance",
+            "Worked on energy projects"
+        ],
+        "similarity_reasoning": "Rachael Reis is an environmental scientist with experience in environmental assessments and compliance, including work on energy projects. Her expertise in environmental risk assessment and regulatory compliance is relevant to the regulatory aspects of the target project. However, her expertise does not specifically cover IT infrastructure or projects in South Carolina."
+    },
+    {
+        "excluded": false,
+        "people_id": "859e58b5-f914-4297-b010-06c343c34d85",
+        "properties": {
+            "employee_type": {
+                "value": "internal",
+                "verified": false,
+                "edited_by": "system"
+            }
+        },
+        "people_name": "Blake Bredbenner",
+        "proposal_name": "Bredbenner, Blake_Full Resume_06-2025.pdf",
+        "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/d315a82a-e671-475c-bed4-7363a5e196b3/1-32_32/eea7ee71-1838-46e0-b976-8c8404c9feee.png",
+        "relevance_score": 4,
+        "matched_evidence": [
+            "Worked on Savannah College of Art and Design projects in Savannah, GA",
+            "Experience in traffic engineering and planning"
+        ],
+        "similarity_reasoning": "Blake Bredbenner has a strong background in traffic engineering and planning, with experience in Georgia and Savannah, which is geographically relevant. However, his expertise is primarily in traffic studies and engineering, which does not directly align with the IT and energy infrastructure focus of the target project at the Savannah River Site."
+    },
+    {
+        "excluded": false,
+        "people_id": "0822e250-f837-4bd2-9438-11d39314e054",
+        "properties": null,
+        "people_name": "Kona Gray",
+        "proposal_name": "Z21-00371 Lincoln NE Greater Downtown Principal Corridors Design and Phase I Construction RFP 21-160.pdf",
+        "profile_picture": null,
+        "relevance_score": 4,
+        "matched_evidence": [
+            "Experience in landscape architecture and urban planning",
+            "Worked on community engagement and revitalization projects"
+        ],
+        "similarity_reasoning": "Kona Gray is a senior design advisor with experience in landscape architecture and urban planning. His work on community engagement and revitalization projects is relevant to the planning and design aspects of the target project. However, his expertise does not specifically cover IT or energy infrastructure, which are key components of the target project."
+    },
+    {
+        "excluded": false,
+        "people_id": "88d25947-cf0c-4555-baee-bd82d34ccdd4",
+        "properties": {
+            "employee_type": {
+                "value": "internal",
+                "verified": false,
+                "edited_by": "system"
+            },
+            "profile_picture": {
+                "verify": false,
+                "face_id": "68f94a95-182d-461b-ae25-9f5bbd2fe6a3",
+                "location": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/b18d41a8-d8cf-446b-9b8d-54c9cdaa0f5f/1-35_35/05108d37-7e57-47d6-aa87-2d43db0d39bc.png"
+            }
+        },
+        "people_name": "Erika Bowman",
+        "proposal_name": "Z23-02488 MHFD Big Dry Creek North Tributaries MDP & FHAD.pdf",
+        "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/b18d41a8-d8cf-446b-9b8d-54c9cdaa0f5f/1-35_35/05108d37-7e57-47d6-aa87-2d43db0d39bc.png",
+        "relevance_score": 4,
+        "matched_evidence": [
+            "Experience in environmental services and permitting",
+            "Worked on wetland mitigation and T&E species monitoring"
+        ],
+        "similarity_reasoning": "Erika Bowman is a project designer with experience in environmental services, including wetland mitigation and T&E species monitoring. Her work on environmental compliance and permitting is relevant to the regulatory aspects of the target project. However, her expertise does not specifically cover IT or energy infrastructure, which are key components of the target project."
+    },
+    {
+        "excluded": false,
+        "people_id": "01f89807-1b20-4f13-8781-f69adb499533",
+        "properties": {
+            "role": {
+                "values": [
+                    "Port Authority Project Representative"
+                ],
+                "workspace": {
+                    "fd5f09fd-20c9-4d2e-aba3-8b5aa8df0af5": "Port Authority Project Representative"
+                }
+            },
+            "email_ids": {
+                "value": [
+                    "cdonahue@olsson.com"
+                ],
+                "verified": false,
+                "edited_by": "system"
+            },
+            "employee_type": {
+                "value": "internal",
+                "verified": false,
+                "edited_by": "system"
+            },
+            "profile_picture": {
+                "verify": false,
+                "face_id": "c2085b64-c04b-40db-9682-20f12884cef2",
+                "location": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/13e01017-94df-4513-9dea-dc3b0f9128dc/1-50_113/5e642742-6772-470c-93d9-ce608387b773.png"
+            }
+        },
+        "people_name": "Corinne Donahue",
+        "proposal_name": "Z24-06409 ODOT CI-2514 On-Demand Traffic Engineering.pdf",
+        "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/255c9913-2d31-43e4-9b7e-d631400e306e/1-45_45/ff74273d-0d00-4369-b9c2-0217afc4db94.png",
+        "relevance_score": 4,
+        "matched_evidence": [
+            "Specializes in transportation and transit planning",
+            "Experience in land use planning and public outreach"
+        ],
+        "similarity_reasoning": "Corinne Donahue is an urban planner specializing in transportation and transit planning. Her experience with land use planning and public outreach is relevant to the planning aspects of the target project. However, her expertise does not specifically cover IT or energy infrastructure, which are key components of the target project."
+    },
+    {
+        "excluded": false,
+        "people_id": "d1426d16-e86c-4e15-a924-b89fb15a9021",
+        "properties": {
+            "employee_type": {
+                "value": "internal",
+                "verified": false,
+                "edited_by": "system"
+            }
+        },
+        "people_name": "Kinney Sullivan",
+        "proposal_name": "Sullivan, Kinney_Full Resume_12-2022.pdf",
+        "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/eb3caaad-34f4-4de1-bf60-36831813eb8a/1-8_8/b2f49db1-2abb-4ba5-8134-719650049a29.png",
+        "relevance_score": 3,
+        "matched_evidence": [
+            "Experience in construction management and inspection services",
+            "Skills in project auditing and standardizing documentation"
+        ],
+        "similarity_reasoning": "Kinney Sullivan's experience is primarily in construction management and inspection services, with a focus on transportation and infrastructure projects in Oklahoma. While he has skills in project auditing and standardizing documentation, his expertise does not directly align with the IT and energy infrastructure focus of the target project at the Savannah River Site."
+    }
+]

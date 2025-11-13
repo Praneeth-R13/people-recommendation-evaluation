@@ -1,0 +1,187 @@
+[
+    {
+        "excluded": false,
+        "people_id": "92d666a6-dd18-4550-b929-6b3c47a4e26f",
+        "properties": {
+            "role": {
+                "values": [
+                    "Principal-in-Change",
+                    "Principal-in-Charge"
+                ],
+                "workspace": {
+                    "3055be9b-564a-442f-ae2e-4d9f7efe4d0f": "Principal-in-Charge"
+                }
+            },
+            "email_ids": {
+                "value": [
+                    "shilt@brwarch.com"
+                ],
+                "verified": true
+            },
+            "employee_type": {
+                "value": "internal",
+                "verified": true
+            },
+            "profile_picture": {
+                "verify": true,
+                "face_id": "bcd68422-ef5f-41ea-aee3-a577f6514528",
+                "location": "https://fds-images-prod.s3.amazonaws.com/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/23be506b-9972-4952-9fdc-e97139b3191c/1-42_42/6ed125c9-d50e-497e-bb45-c690bbd6105b.png"
+            }
+        },
+        "people_name": "Stephen Hilt",
+        "proposal_name": "Dallas Various Rec Center Renovations_2024",
+        "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/ec8c93cd-20f3-4c50-addb-0921195664ce/1-42_42/36ba6f0e-a270-496b-ac40-69c4987b50ce.png",
+        "relevance_score": 10,
+        "matched_evidence": [
+            "Conducted feasibility studies for Fire Stations No. 1, 6, & 7",
+            "Managed upgrades to City of Grapevine Facility Service Center",
+            "Oversaw public safety center design for City of Lewisville",
+            "Worked in Texas, including Garland and Grapevine"
+        ],
+        "similarity_reasoning": "Stephen Hilt has extensive experience in the Civic sector, which aligns with the target project's focus on civic architecture. His role as a Principal at BRW Architects and his involvement in projects like the City of Garland Fire Station No. 6 and the City of Grapevine Facility Service Center Upgrades demonstrate his capability in managing civic projects. His experience with feasibility studies, such as those for Fire Stations No. 1, 6, & 7, is directly relevant to the feasibility study component of the target project. Additionally, his work in Texas, including cities like Garland and Grapevine, aligns geographically with the Highland Park location."
+    },
+    {
+        "excluded": false,
+        "people_id": "b4ad3f17-cc55-42dc-b239-7ae5589d7176",
+        "properties": {
+            "email_ids": {
+                "value": [
+                    "fclifford@brwarch.com"
+                ],
+                "verified": true,
+                "edited_by": "423e53f1-7a33-4005-b155-581c1604c8b6"
+            },
+            "employee_type": {
+                "value": "internal",
+                "verified": true,
+                "edited_by": "423e53f1-7a33-4005-b155-581c1604c8b6"
+            },
+            "profile_picture": {
+                "verify": true,
+                "face_id": "9406fe6e-b0ef-44a2-8ced-269f90227269",
+                "location": "https://fds-images-prod.s3.amazonaws.com/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/1d0c714c-1b35-4d6b-995a-857ed1b192bc/1-39_39/d179b5af-e946-481b-a170-b6bae654a3ed.png"
+            }
+        },
+        "people_name": "Frederic Clifford Stephen Hilt",
+        "proposal_name": "SOQ - BRW Architects - Project No. 18-3369 - West Texas A&M Public Safety Facility.pdf",
+        "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/ec8c93cd-20f3-4c50-addb-0921195664ce/1-42_42/03fc24ad-2364-431b-a519-39b90528d54b.png",
+        "relevance_score": 10,
+        "matched_evidence": [
+            "Worked on Richardson Public Safety Complex",
+            "Involved in Prosper Police Station project",
+            "Experience in Texas, including Richardson and Prosper"
+        ],
+        "similarity_reasoning": "Frederic Clifford Stephen Hilt has a strong background in civic projects, particularly in public safety and feasibility studies, which are crucial for the target project. His experience with the Richardson Public Safety Complex and the Prosper Police Station highlights his expertise in civic architecture. His work in Texas, including cities like Richardson and Prosper, matches the geographic scope of the Highland Park project. His role in quality control and project management ensures that he can deliver high-quality outcomes, aligning with the project's goals."
+    },
+    {
+        "excluded": false,
+        "people_id": "92d666a6-dd18-4550-b929-6b3c47a4e26f",
+        "properties": {
+            "role": {
+                "values": [
+                    "Principal-in-Change",
+                    "Principal-in-Charge"
+                ],
+                "workspace": {
+                    "3055be9b-564a-442f-ae2e-4d9f7efe4d0f": "Principal-in-Charge"
+                }
+            },
+            "email_ids": {
+                "value": [
+                    "shilt@brwarch.com"
+                ],
+                "verified": true
+            },
+            "employee_type": {
+                "value": "internal",
+                "verified": true
+            },
+            "profile_picture": {
+                "verify": true,
+                "face_id": "bcd68422-ef5f-41ea-aee3-a577f6514528",
+                "location": "https://fds-images-prod.s3.amazonaws.com/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/23be506b-9972-4952-9fdc-e97139b3191c/1-42_42/6ed125c9-d50e-497e-bb45-c690bbd6105b.png"
+            }
+        },
+        "people_name": "Stephen Hilt",
+        "proposal_name": "BRW Architects - Mansfield City Hall - RFQ NO. 2023-41-01-02.pdf",
+        "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/ec8c93cd-20f3-4c50-addb-0921195664ce/1-42_42/36ba6f0e-a270-496b-ac40-69c4987b50ce.png",
+        "relevance_score": 10,
+        "matched_evidence": [
+            "Town Hall Feasibility Study for Lakewood Village",
+            "City of Red Oak Strategic Facilities Plan",
+            "Experience in Texas, including Lakewood Village and Red Oak"
+        ],
+        "similarity_reasoning": "Stephen Hilt's extensive experience in civic projects, including town hall feasibility studies and strategic facilities plans, directly aligns with the target project's requirements. His work on the Town Hall Feasibility Study for Lakewood Village and the City of Red Oak Strategic Facilities Plan demonstrates his capability in handling similar projects. His experience in Texas, particularly in cities like Lakewood Village and Red Oak, supports the geographic relevance to Highland Park."
+    },
+    {
+        "excluded": false,
+        "people_id": "b6a80bdd-65cb-47d1-9e33-336371b5105b",
+        "properties": {
+            "email_ids": {
+                "value": [
+                    "swatkins@brwarch.com"
+                ],
+                "verified": true
+            },
+            "employee_type": {
+                "value": "internal",
+                "verified": true
+            },
+            "profile_picture": {
+                "verify": true,
+                "face_id": "8a4264c4-c879-4402-8db9-8587ae7f05a6",
+                "location": "https://fds-images-prod.s3.amazonaws.com/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/0fb308e4-3afe-4888-85e6-8ff81fcb8f43/1-50_69/a102e4f3-6466-4a55-844a-ac0776c381da.png"
+            }
+        },
+        "people_name": "Sam Watkins",
+        "proposal_name": "BRW Architects - RFQ No. 2024-103 Celina Fire Station No. 4.pdf",
+        "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/b58a2a3e-7cdb-4f9a-8c4e-c721f1dec66c/1-22_22/d9793571-0102-4b3b-a03c-74cece4aa864.png",
+        "relevance_score": 10,
+        "matched_evidence": [
+            "Lakewood Village Town Hall Study",
+            "Lewisville Tittle McFadden Public Safety Center",
+            "Experience in Texas, including Lakewood Village and Lewisville"
+        ],
+        "similarity_reasoning": "Sam Watkins has a broad range of experience in civic architecture, including town hall studies and public safety centers, which are relevant to the target project. His involvement in the Lakewood Village Town Hall Study and the Lewisville Tittle McFadden Public Safety Center highlights his expertise in similar projects. His work in Texas, including cities like Lakewood Village and Lewisville, aligns geographically with the Highland Park project."
+    },
+    {
+        "excluded": false,
+        "people_id": "92d666a6-dd18-4550-b929-6b3c47a4e26f",
+        "properties": {
+            "role": {
+                "values": [
+                    "Principal-in-Change",
+                    "Principal-in-Charge"
+                ],
+                "workspace": {
+                    "3055be9b-564a-442f-ae2e-4d9f7efe4d0f": "Principal-in-Charge"
+                }
+            },
+            "email_ids": {
+                "value": [
+                    "shilt@brwarch.com"
+                ],
+                "verified": true
+            },
+            "employee_type": {
+                "value": "internal",
+                "verified": true
+            },
+            "profile_picture": {
+                "verify": true,
+                "face_id": "bcd68422-ef5f-41ea-aee3-a577f6514528",
+                "location": "https://fds-images-prod.s3.amazonaws.com/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/23be506b-9972-4952-9fdc-e97139b3191c/1-42_42/6ed125c9-d50e-497e-bb45-c690bbd6105b.png"
+            }
+        },
+        "people_name": "Kenneth Smith",
+        "proposal_name": "City of Anna Facilities Feasibility Study_2025",
+        "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/b6390e6e-190a-4b6d-8bf1-d9181ad0ec53/ec8c93cd-20f3-4c50-addb-0921195664ce/1-42_42/36ba6f0e-a270-496b-ac40-69c4987b50ce.png",
+        "relevance_score": 10,
+        "matched_evidence": [
+            "Lakewood Village Town Hall Feasibility & Concept Design Study",
+            "Garland Fire Stations No. 1, 6, & 7 Feasibility Studies",
+            "Experience in Texas, including Lakewood Village and Garland"
+        ],
+        "similarity_reasoning": "Kenneth Smith's experience as a Project Manager in civic projects, including feasibility studies and public safety centers, is highly relevant to the target project. His work on the Lakewood Village Town Hall Feasibility & Concept Design Study and the Garland Fire Stations No. 1, 6, & 7 Feasibility Studies demonstrates his capability in similar projects. His experience in Texas, particularly in cities like Lakewood Village and Garland, supports the geographic relevance to Highland Park."
+    }
+]

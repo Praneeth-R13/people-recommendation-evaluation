@@ -1,0 +1,130 @@
+[
+    {
+        "excluded": false,
+        "people_id": "6232b873-3be0-40af-a81e-fd21f37ab232",
+        "properties": {
+            "employee_type": {
+                "value": "internal",
+                "verified": false,
+                "edited_by": "system"
+            }
+        },
+        "people_name": "Kim Zulliger",
+        "proposal_name": "M20-02190 Colorado Springs Utilities Marketing Leave Behind.pdf",
+        "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/0065655d-217f-4f8d-a6d6-3bef01460900/1-32_32/db0aea03-220c-425c-87c1-0c0cd1a034f1.png",
+        "relevance_score": 10,
+        "matched_evidence": [
+            "Project engineer on $110 million wastewater treatment facility expansion",
+            "Odor Control Study for Robert W. Hite Treatment Facility",
+            "Odor Control / Chemical System for Metro Northern Treatment Plant",
+            "Professional Engineer: CO, WY"
+        ],
+        "similarity_reasoning": "Kim Zulliger has extensive experience in water and wastewater projects, including specific work at the Robert W. Hite Treatment Facility and the Northern Treatment Plant in Brighton, CO. Her role as a project engineer on a $110 million wastewater treatment facility expansion and her involvement in odor control studies at both the Robert W. Hite Treatment Facility and the Metro Northern Treatment Plant directly align with the goals of the Thermal Energy Program Support project. Her professional background in mechanical and process engineering, combined with her local experience in Colorado, makes her highly relevant to the project."
+    },
+    {
+        "excluded": false,
+        "people_id": "fa5a5393-95b8-47c4-95c4-4cd1203a5816",
+        "properties": {
+            "employee_type": {
+                "value": "internal",
+                "verified": false,
+                "edited_by": "system"
+            },
+            "profile_picture": {
+                "verify": false,
+                "face_id": "a4dbef17-3a87-4ddc-a1ce-4a91ba091704",
+                "location": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/366cb6df-7842-40ea-b567-9460ebe9240c/1-50_105/ab055d53-70b4-414b-a066-98da067bdd9f.png"
+            }
+        },
+        "people_name": "Sarah Foster",
+        "proposal_name": "Z21-00891 City of Lincoln Theresa Street Capacity Improvements.pdf",
+        "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/4fdd7dd6-6304-421e-8f45-4625620e813d/1-8_8/d10c47c7-277a-4cde-a6e3-63a627dc3b26.png",
+        "relevance_score": 10,
+        "matched_evidence": [
+            "Northern Treatment Plant Wastewater Facilities Design-Build in Brighton, CO",
+            "Regulatory Support Agreement with Metro Wastewater Reclamation District in Denver, CO",
+            "Professional Engineer: CO"
+        ],
+        "similarity_reasoning": "Sarah Foster has a strong background in water and wastewater treatment projects, with significant experience in regulatory compliance and permit acquisition strategies. She has worked on the Northern Treatment Plant Wastewater Facilities Design-Build in Brighton, CO, and has been involved in regulatory support agreements with the Metro Wastewater Reclamation District in Denver, CO. Her expertise in managing complex water projects and her local experience in Colorado make her a valuable asset for the Thermal Energy Program Support project."
+    },
+    {
+        "excluded": false,
+        "people_id": "7e7028fb-ce32-48a4-a1d3-e99bab578d05",
+        "properties": {
+            "email_ids": {
+                "value": [
+                    "svandekieft@olsson.com"
+                ],
+                "verified": false,
+                "edited_by": "system"
+            },
+            "employee_type": {
+                "value": "internal",
+                "verified": false,
+                "edited_by": "system"
+            },
+            "profile_picture": {
+                "verify": false,
+                "face_id": "9a575443-4987-4492-a6f4-bc2d101d0596",
+                "location": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/51c563d0-8729-4f2a-a732-93e16b7155ba/1-50_56/9d0c9767-7cff-4bff-abbd-c70b44d1a91a.png"
+            }
+        },
+        "people_name": "Stephen Van De Kieft",
+        "proposal_name": "Van De Kieft, Stephen_Full Resume_12-2024.pdf",
+        "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/16dbf805-bc9d-4304-8768-a0852b4a0ac3/1-27_27/cfc0679a-34b2-4539-9b4a-ecbdc63084ea.png",
+        "relevance_score": 8,
+        "matched_evidence": [
+            "Experience in thermal energy storage systems and central district energy plant design",
+            "Life cycle cost analysis and cost estimating skills",
+            "Professional Engineer: TX"
+        ],
+        "similarity_reasoning": "Stephen Van De Kieft's expertise in energy and power markets, including thermal energy storage systems and central district energy plant design, aligns well with the Thermal Energy Program Support project. His experience in managing projects across geographical regions and his skills in life cycle cost analysis and cost estimating are relevant to the project's goals. Although his primary focus has been on data centers, his knowledge of energy systems is applicable to the water and wastewater sector."
+    },
+    {
+        "excluded": false,
+        "people_id": "ed0d9397-a9de-4c96-a848-c68f4abfa2ee",
+        "properties": {
+            "employee_type": {
+                "value": "internal",
+                "verified": false,
+                "edited_by": "system"
+            },
+            "profile_picture": {
+                "verify": false,
+                "face_id": "0b3a00bb-297b-4a4e-86fa-20c91b0b11b0",
+                "location": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/7568df82-e375-4148-a448-e2c8e866dc75/1-16_16/e4089fd8-22eb-435c-b65b-3049a61a7015.png"
+            }
+        },
+        "people_name": "Warren Humphrey",
+        "proposal_name": "Z22-06262 BNSF Systemwide Facility Maintenance Program.pdf",
+        "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/9bc5bf93-f0e5-46b8-b0b5-c25eef54b813/1-50_51/2f6f642a-e415-4fe9-ae82-cc8c000106f1.png",
+        "relevance_score": 8,
+        "matched_evidence": [
+            "30 years of experience in water, wastewater, and thermal energy sectors",
+            "Operational technology cybersecurity and automation solutions expertise",
+            "Professional Engineer registered in NE, KS, MO, ID"
+        ],
+        "similarity_reasoning": "Warren Humphrey has over 30 years of experience in industrial control systems, including work in the water, wastewater, and thermal energy sectors. His recent focus on operational technology cybersecurity and automation solutions with programmable controllers is relevant to the technical aspects of the Thermal Energy Program Support project. His extensive experience in the industry and his role in leading engineering teams make him a strong candidate for the project."
+    },
+    {
+        "excluded": false,
+        "people_id": "e752ea53-5551-4756-9695-19e3430d6594",
+        "properties": {
+            "employee_type": {
+                "value": "internal",
+                "verified": false,
+                "edited_by": "system"
+            }
+        },
+        "people_name": "Ryan Allen",
+        "proposal_name": "Allen, Ryan_Full Resume 05-2025.pdf",
+        "profile_picture": "https://fds-images-prod.s3.amazonaws.com/images/2ad8560e-29b9-47ac-922d-6075feda923a/86762ab5-2602-4f4d-9b23-8b5eb3a00635/1-22_22/1d7a5218-3bcc-48ab-8d74-369718f54bfe.png",
+        "relevance_score": 7,
+        "matched_evidence": [
+            "Specializing in PLC programming and SCADA development",
+            "Experience in control system integration",
+            "Technical expert in Wonderware, Ignition Perspective & Vision, VT SCADA"
+        ],
+        "similarity_reasoning": "Ryan Allen's expertise in industrial automation, particularly in PLC programming and SCADA development, is relevant to the technical requirements of the Thermal Energy Program Support project. His experience in control system integration and his technical skills in various SCADA platforms make him a valuable asset for managing and optimizing energy systems within the project. His work on projects involving thermal energy and control systems aligns with the project's goals."
+    }
+]
